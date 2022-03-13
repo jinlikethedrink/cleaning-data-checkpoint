@@ -1,0 +1,2253 @@
+,Salary Estimate,Location,Industry,Min,Max,City,State
+0,$37K-$66K,"New York, NY",Social Assistance,$37K,$66K,New York,NY
+1,$37K-$66K,"New York, NY",Health Care Services & Hospitals,$37K,$66K,New York,NY
+2,$37K-$66K,"New York, NY",Internet,$37K,$66K,New York,NY
+3,$37K-$66K,"New York, NY",IT Services,$37K,$66K,New York,NY
+4,$37K-$66K,"New York, NY",Sports & Recreation,$37K,$66K,New York,NY
+5,$37K-$66K,"New York, NY",Investment Banking & Asset Management,$37K,$66K,New York,NY
+6,$37K-$66K,"New York, NY",Investment Banking & Asset Management,$37K,$66K,New York,NY
+7,$37K-$66K,"New York, NY",Insurance Carriers,$37K,$66K,New York,NY
+8,$37K-$66K,"New York, NY",Venture Capital & Private Equity,$37K,$66K,New York,NY
+9,$37K-$66K,"New York, NY",Research & Development,$37K,$66K,New York,NY
+10,$37K-$66K,"New York, NY",Health Care Services & Hospitals,$37K,$66K,New York,NY
+11,$37K-$66K,"Fairfield, NJ",Unknown,$37K,$66K,Fairfield,NJ
+12,$37K-$66K,"New York, NY",Health Care Services & Hospitals,$37K,$66K,New York,NY
+13,$37K-$66K,"New York, NY",Advertising & Marketing,$37K,$66K,New York,NY
+14,$37K-$66K,"Jersey City, NJ",Brokerage Services,$37K,$66K,Jersey City,NJ
+15,$37K-$66K,"New York, NY",Building & Personnel Services,$37K,$66K,New York,NY
+16,$37K-$66K,"New York, NY",Advertising & Marketing,$37K,$66K,New York,NY
+17,$37K-$66K,"New York, NY",Consulting,$37K,$66K,New York,NY
+18,$37K-$66K,"New York, NY",Research & Development,$37K,$66K,New York,NY
+19,$37K-$66K,"New York, NY",Internet,$37K,$66K,New York,NY
+20,$37K-$66K,"New York, NY",Internet,$37K,$66K,New York,NY
+21,$37K-$66K,"New York, NY",Unknown,$37K,$66K,New York,NY
+22,$37K-$66K,"New York, NY",Investment Banking & Asset Management,$37K,$66K,New York,NY
+23,$37K-$66K,"New York, NY",Casual Restaurants,$37K,$66K,New York,NY
+24,$37K-$66K,"New York, NY",Unknown,$37K,$66K,New York,NY
+25,$37K-$66K,"New York, NY",Advertising & Marketing,$37K,$66K,New York,NY
+26,$37K-$66K,"New York, NY",Internet,$37K,$66K,New York,NY
+27,$37K-$66K,"New York, NY",Health Care Services & Hospitals,$37K,$66K,New York,NY
+28,$37K-$66K,"New York, NY",Advertising & Marketing,$37K,$66K,New York,NY
+29,$37K-$66K,"New York, NY",Research & Development,$37K,$66K,New York,NY
+30,$46K-$87K,"Brooklyn, NY",Consulting,$46K,$87K,Brooklyn,NY
+31,$46K-$87K,"Jersey City, NJ",Enterprise Software & Network Solutions,$46K,$87K,Jersey City,NJ
+32,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+33,$46K-$87K,"New York, NY",Lending,$46K,$87K,New York,NY
+34,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+35,$46K-$87K,"New York, NY",Banks & Credit Unions,$46K,$87K,New York,NY
+36,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+37,$46K-$87K,"New York, NY",Computer Hardware & Software,$46K,$87K,New York,NY
+38,$46K-$87K,"New York, NY",Health Care Services & Hospitals,$46K,$87K,New York,NY
+39,$46K-$87K,"New York, NY",Social Assistance,$46K,$87K,New York,NY
+40,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+41,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+42,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+43,$46K-$87K,"New York, NY",Staffing & Outsourcing,$46K,$87K,New York,NY
+44,$46K-$87K,"New York, NY",Internet,$46K,$87K,New York,NY
+45,$46K-$87K,"New York, NY",Staffing & Outsourcing,$46K,$87K,New York,NY
+46,$46K-$87K,"New York, NY",Advertising & Marketing,$46K,$87K,New York,NY
+47,$46K-$87K,"New York, NY",Advertising & Marketing,$46K,$87K,New York,NY
+48,$46K-$87K,"New York, NY",Brokerage Services,$46K,$87K,New York,NY
+49,$46K-$87K,"New York, NY",IT Services,$46K,$87K,New York,NY
+50,$46K-$87K,"New York, NY",Motion Picture Production & Distribution,$46K,$87K,New York,NY
+51,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+52,$46K-$87K,"Jersey City, NJ",IT Services,$46K,$87K,Jersey City,NJ
+53,$46K-$87K,"New York, NY",Brokerage Services,$46K,$87K,New York,NY
+54,$46K-$87K,"Weehawken, NJ",Staffing & Outsourcing,$46K,$87K,Weehawken,NJ
+55,$46K-$87K,"New York, NY",Unknown,$46K,$87K,New York,NY
+56,$46K-$87K,"New York, NY",Motion Picture Production & Distribution,$46K,$87K,New York,NY
+57,$46K-$87K,"New York, NY",Legal,$46K,$87K,New York,NY
+58,$46K-$87K,"New York, NY",Computer Hardware & Software,$46K,$87K,New York,NY
+59,$46K-$87K,"New York, NY",Real Estate,$46K,$87K,New York,NY
+60,$51K-$88K,"New York, NY",Health Care Services & Hospitals,$51K,$88K,New York,NY
+61,$51K-$88K,"New York, NY",IT Services,$51K,$88K,New York,NY
+62,$51K-$88K,"New York, NY",IT Services,$51K,$88K,New York,NY
+63,$51K-$88K,"New York, NY",IT Services,$51K,$88K,New York,NY
+64,$51K-$88K,"New York, NY",Staffing & Outsourcing,$51K,$88K,New York,NY
+65,$51K-$88K,"New York, NY",Internet,$51K,$88K,New York,NY
+66,$51K-$88K,"New York, NY",IT Services,$51K,$88K,New York,NY
+67,$51K-$88K,"New York, NY",Investment Banking & Asset Management,$51K,$88K,New York,NY
+68,$51K-$88K,"New York, NY",Unknown,$51K,$88K,New York,NY
+69,$51K-$88K,"New York, NY",IT Services,$51K,$88K,New York,NY
+70,$51K-$88K,"New York, NY",Staffing & Outsourcing,$51K,$88K,New York,NY
+71,$51K-$88K,"New York, NY",Consulting,$51K,$88K,New York,NY
+72,$51K-$88K,"New York, NY",Unknown,$51K,$88K,New York,NY
+73,$51K-$88K,"New York, NY",Investment Banking & Asset Management,$51K,$88K,New York,NY
+74,$51K-$88K,"New York, NY",Staffing & Outsourcing,$51K,$88K,New York,NY
+75,$51K-$88K,"New York, NY",Federal Agencies,$51K,$88K,New York,NY
+76,$51K-$88K,"New York, NY",TV Broadcast & Cable Networks,$51K,$88K,New York,NY
+77,$51K-$88K,"Jersey City, NJ",Staffing & Outsourcing,$51K,$88K,Jersey City,NJ
+78,$51K-$88K,"New York, NY",Unknown,$51K,$88K,New York,NY
+79,$51K-$88K,"New York, NY",Staffing & Outsourcing,$51K,$88K,New York,NY
+80,$51K-$88K,"New York, NY",Unknown,$51K,$88K,New York,NY
+81,$51K-$88K,"New York, NY",Internet,$51K,$88K,New York,NY
+82,$51K-$88K,"New York, NY",Research & Development,$51K,$88K,New York,NY
+83,$51K-$88K,"New York, NY",Staffing & Outsourcing,$51K,$88K,New York,NY
+84,$51K-$88K,"New York, NY",Accounting,$51K,$88K,New York,NY
+85,$51K-$88K,"New York, NY",Unknown,$51K,$88K,New York,NY
+86,$51K-$88K,"New York, NY",IT Services,$51K,$88K,New York,NY
+87,$51K-$88K,"New York, NY",Consulting,$51K,$88K,New York,NY
+88,$51K-$88K,"New York, NY",Insurance Carriers,$51K,$88K,New York,NY
+89,$51K-$88K,"New York, NY",Brokerage Services,$51K,$88K,New York,NY
+90,$51K-$87K,"New York, NY",Unknown,$51K,$87K,New York,NY
+91,$51K-$87K,"New York, NY",Investment Banking & Asset Management,$51K,$87K,New York,NY
+92,$51K-$87K,"New York, NY",Consulting,$51K,$87K,New York,NY
+93,$51K-$87K,"New York, NY",IT Services,$51K,$87K,New York,NY
+94,$51K-$87K,"Jersey City, NJ",Staffing & Outsourcing,$51K,$87K,Jersey City,NJ
+95,$51K-$87K,"New York, NY",Consulting,$51K,$87K,New York,NY
+96,$51K-$87K,"New York, NY",Food & Beverage Stores,$51K,$87K,New York,NY
+97,$51K-$87K,"New York, NY",Consulting,$51K,$87K,New York,NY
+98,$51K-$87K,"Brooklyn, NY",Health Care Services & Hospitals,$51K,$87K,Brooklyn,NY
+99,$51K-$87K,"New York, NY",Unknown,$51K,$87K,New York,NY
+100,$51K-$87K,"New York, NY","Health, Beauty, & Fitness",$51K,$87K,New York,NY
+101,$51K-$87K,"New York, NY",Staffing & Outsourcing,$51K,$87K,New York,NY
+102,$51K-$87K,"New York, NY",Health Care Services & Hospitals,$51K,$87K,New York,NY
+103,$51K-$87K,"New York, NY",Investment Banking & Asset Management,$51K,$87K,New York,NY
+104,$51K-$87K,"Long Island City, NY",Social Assistance,$51K,$87K,Long Island City,NY
+105,$51K-$87K,"New York, NY",Unknown,$51K,$87K,New York,NY
+106,$51K-$87K,"New York, NY",Consulting,$51K,$87K,New York,NY
+107,$51K-$87K,"New York, NY",IT Services,$51K,$87K,New York,NY
+108,$51K-$87K,"Brooklyn, NY",Unknown,$51K,$87K,Brooklyn,NY
+109,$51K-$87K,"Jersey City, NJ",Unknown,$51K,$87K,Jersey City,NJ
+110,$51K-$87K,"Jersey City, NJ",IT Services,$51K,$87K,Jersey City,NJ
+111,$51K-$87K,"New York, NY",Investment Banking & Asset Management,$51K,$87K,New York,NY
+112,$51K-$87K,"New York, NY",Staffing & Outsourcing,$51K,$87K,New York,NY
+113,$51K-$87K,"New York, NY",Computer Hardware & Software,$51K,$87K,New York,NY
+114,$51K-$87K,"New York, NY",Staffing & Outsourcing,$51K,$87K,New York,NY
+115,$51K-$87K,"Jersey City, NJ",Enterprise Software & Network Solutions,$51K,$87K,Jersey City,NJ
+116,$51K-$87K,"New York, NY",Social Assistance,$51K,$87K,New York,NY
+117,$51K-$87K,"Florham Park, NJ",Biotech & Pharmaceuticals,$51K,$87K,Florham Park,NJ
+118,$51K-$87K,"New York, NY",Health Care Services & Hospitals,$51K,$87K,New York,NY
+119,$51K-$87K,"New York, NY",Insurance Carriers,$51K,$87K,New York,NY
+120,$59K-$85K,"New York, NY","Health, Beauty, & Fitness",$59K,$85K,New York,NY
+121,$59K-$85K,"New York, NY",Insurance Agencies & Brokerages,$59K,$85K,New York,NY
+122,$59K-$85K,"New York, NY",Staffing & Outsourcing,$59K,$85K,New York,NY
+123,$59K-$85K,"Jersey City, NJ",Unknown,$59K,$85K,Jersey City,NJ
+124,$59K-$85K,"New York, NY",IT Services,$59K,$85K,New York,NY
+125,$59K-$85K,"New York, NY",IT Services,$59K,$85K,New York,NY
+126,$59K-$85K,"Manhasset, NY",Health Care Services & Hospitals,$59K,$85K,Manhasset,NY
+127,$59K-$85K,"New York, NY",Staffing & Outsourcing,$59K,$85K,New York,NY
+128,$59K-$85K,"New York, NY",Internet,$59K,$85K,New York,NY
+129,$59K-$85K,"New York, NY",Investment Banking & Asset Management,$59K,$85K,New York,NY
+130,$59K-$85K,"New York, NY",Health Care Services & Hospitals,$59K,$85K,New York,NY
+131,$59K-$85K,"New York, NY",Computer Hardware & Software,$59K,$85K,New York,NY
+132,$59K-$85K,"Newark, NJ",Staffing & Outsourcing,$59K,$85K,Newark,NJ
+133,$59K-$85K,"New York, NY",IT Services,$59K,$85K,New York,NY
+134,$59K-$85K,"New York, NY",TV Broadcast & Cable Networks,$59K,$85K,New York,NY
+135,$59K-$85K,"Jersey City, NJ",Gambling,$59K,$85K,Jersey City,NJ
+136,$59K-$85K,"New York, NY",Video Games,$59K,$85K,New York,NY
+137,$59K-$85K,"Brooklyn, NY",Unknown,$59K,$85K,Brooklyn,NY
+138,$59K-$85K,"New York, NY",IT Services,$59K,$85K,New York,NY
+139,$59K-$85K,"New York, NY",Unknown,$59K,$85K,New York,NY
+140,$59K-$85K,"New York, NY",Accounting,$59K,$85K,New York,NY
+141,$59K-$85K,"New York, NY",Colleges & Universities,$59K,$85K,New York,NY
+142,$59K-$85K,"New York, NY",IT Services,$59K,$85K,New York,NY
+143,$59K-$85K,"Queens Village, NY",Research & Development,$59K,$85K,Queens Village,NY
+144,$59K-$85K,"New York, NY",Colleges & Universities,$59K,$85K,New York,NY
+145,$59K-$85K,"New York, NY",Architectural & Engineering Services,$59K,$85K,New York,NY
+146,$59K-$85K,"New York, NY",Consulting,$59K,$85K,New York,NY
+147,$59K-$85K,"New York, NY",Internet,$59K,$85K,New York,NY
+148,$59K-$85K,"Brooklyn, NY",Unknown,$59K,$85K,Brooklyn,NY
+149,$59K-$85K,"New York, NY",Accounting,$59K,$85K,New York,NY
+150,$43K-$76K,"New York, NY",Health Care Services & Hospitals,$43K,$76K,New York,NY
+151,$43K-$76K,"New York, NY",Health Care Services & Hospitals,$43K,$76K,New York,NY
+152,$43K-$76K,"New York, NY",Health Care Services & Hospitals,$43K,$76K,New York,NY
+153,$43K-$76K,"New York, NY",Unknown,$43K,$76K,New York,NY
+154,$43K-$76K,"New York, NY",IT Services,$43K,$76K,New York,NY
+155,$43K-$76K,"New York, NY",Unknown,$43K,$76K,New York,NY
+156,$43K-$76K,"New York, NY",Social Assistance,$43K,$76K,New York,NY
+157,$43K-$76K,"New York, NY",Unknown,$43K,$76K,New York,NY
+158,$43K-$76K,"New York, NY",Health Care Services & Hospitals,$43K,$76K,New York,NY
+159,$43K-$76K,"New York, NY",Health Care Services & Hospitals,$43K,$76K,New York,NY
+160,$43K-$76K,"Newark, NJ","Health, Beauty, & Fitness",$43K,$76K,Newark,NJ
+161,$43K-$76K,"New York, NY",Research & Development,$43K,$76K,New York,NY
+162,$43K-$76K,"New York, NY",Unknown,$43K,$76K,New York,NY
+163,$43K-$76K,"New York, NY",Enterprise Software & Network Solutions,$43K,$76K,New York,NY
+164,$43K-$76K,"New York, NY",IT Services,$43K,$76K,New York,NY
+165,$43K-$76K,"New York, NY",Video Games,$43K,$76K,New York,NY
+166,$43K-$76K,"New York, NY",Internet,$43K,$76K,New York,NY
+167,$43K-$76K,"Brooklyn, NY",Unknown,$43K,$76K,Brooklyn,NY
+168,$43K-$76K,"New York, NY",Consulting,$43K,$76K,New York,NY
+169,$43K-$76K,"Brooklyn, NY",Social Assistance,$43K,$76K,Brooklyn,NY
+170,$43K-$76K,"Weehawken, NJ",IT Services,$43K,$76K,Weehawken,NJ
+171,$43K-$76K,"New York, NY",IT Services,$43K,$76K,New York,NY
+172,$43K-$76K,"New York, NY",Unknown,$43K,$76K,New York,NY
+173,$43K-$76K,"New York, NY",Investment Banking & Asset Management,$43K,$76K,New York,NY
+174,$43K-$76K,"New York, NY",Unknown,$43K,$76K,New York,NY
+175,$43K-$76K,"Haworth, NJ",Consulting,$43K,$76K,Haworth,NJ
+176,$43K-$76K,"Fort Lee, NJ",Banks & Credit Unions,$43K,$76K,Fort Lee,NJ
+177,$43K-$76K,"New York, NY",TV Broadcast & Cable Networks,$43K,$76K,New York,NY
+178,$43K-$76K,"New York, NY",Internet,$43K,$76K,New York,NY
+179,$43K-$76K,"New York, NY",Unknown,$43K,$76K,New York,NY
+180,$43K-$76K,"New York, NY",IT Services,$43K,$76K,New York,NY
+181,$60K-$110K,"New York, NY",Accounting,$60K,$110K,New York,NY
+182,$60K-$110K,"New York, NY",Advertising & Marketing,$60K,$110K,New York,NY
+183,$60K-$110K,"New York, NY",Staffing & Outsourcing,$60K,$110K,New York,NY
+184,$60K-$110K,"New York, NY",IT Services,$60K,$110K,New York,NY
+185,$60K-$110K,"New York, NY",Consulting,$60K,$110K,New York,NY
+186,$60K-$110K,"Jersey City, NJ",Unknown,$60K,$110K,Jersey City,NJ
+187,$60K-$110K,"Jersey City, NJ",Staffing & Outsourcing,$60K,$110K,Jersey City,NJ
+188,$60K-$110K,"New York, NY",Investment Banking & Asset Management,$60K,$110K,New York,NY
+189,$60K-$110K,"New York, NY",Social Assistance,$60K,$110K,New York,NY
+190,$60K-$110K,"New York, NY",Staffing & Outsourcing,$60K,$110K,New York,NY
+191,$60K-$110K,"Weehawken, NJ",Investment Banking & Asset Management,$60K,$110K,Weehawken,NJ
+192,$60K-$110K,"New York, NY",Video Games,$60K,$110K,New York,NY
+193,$60K-$110K,"New York, NY",Consulting,$60K,$110K,New York,NY
+194,$60K-$110K,"Newark, NJ",Unknown,$60K,$110K,Newark,NJ
+195,$60K-$110K,"New York, NY",Investment Banking & Asset Management,$60K,$110K,New York,NY
+196,$60K-$110K,"New York, NY",Health Care Services & Hospitals,$60K,$110K,New York,NY
+197,$60K-$110K,"New York, NY",Health Care Services & Hospitals,$60K,$110K,New York,NY
+198,$60K-$110K,"Jersey City, NJ",IT Services,$60K,$110K,Jersey City,NJ
+199,$60K-$110K,"South Plainfield, NJ",Unknown,$60K,$110K,South Plainfield,NJ
+200,$60K-$110K,"New York, NY",Health Care Services & Hospitals,$60K,$110K,New York,NY
+201,$60K-$110K,"New York, NY",Consulting,$60K,$110K,New York,NY
+202,$60K-$110K,"New York, NY",General Repair & Maintenance,$60K,$110K,New York,NY
+203,$60K-$110K,"New York, NY",Social Assistance,$60K,$110K,New York,NY
+204,$60K-$110K,"New York, NY",Architectural & Engineering Services,$60K,$110K,New York,NY
+205,$60K-$110K,"New York, NY",Unknown,$60K,$110K,New York,NY
+206,$60K-$110K,"New York, NY",Advertising & Marketing,$60K,$110K,New York,NY
+207,$60K-$110K,"New York, NY",Internet,$60K,$110K,New York,NY
+208,$60K-$110K,"New York, NY",IT Services,$60K,$110K,New York,NY
+209,$60K-$110K,"New York, NY",Social Assistance,$60K,$110K,New York,NY
+210,$60K-$110K,"New York, NY",IT Services,$60K,$110K,New York,NY
+211,$41K-$78K,"New York, NY",IT Services,$41K,$78K,New York,NY
+212,$41K-$78K,"New York, NY",Research & Development,$41K,$78K,New York,NY
+213,$41K-$78K,"New York, NY",Computer Hardware & Software,$41K,$78K,New York,NY
+214,$41K-$78K,"New York, NY",Computer Hardware & Software,$41K,$78K,New York,NY
+215,$41K-$78K,"Bronx, NY",Social Assistance,$41K,$78K,Bronx,NY
+216,$41K-$78K,"New York, NY",Unknown,$41K,$78K,New York,NY
+217,$41K-$78K,"New York, NY",Staffing & Outsourcing,$41K,$78K,New York,NY
+218,$41K-$78K,"New York, NY",Investment Banking & Asset Management,$41K,$78K,New York,NY
+219,$41K-$78K,"New York, NY",Motion Picture Production & Distribution,$41K,$78K,New York,NY
+220,$41K-$78K,"New York, NY",IT Services,$41K,$78K,New York,NY
+221,$41K-$78K,"Jersey City, NJ",Staffing & Outsourcing,$41K,$78K,Jersey City,NJ
+222,$41K-$78K,"New York, NY",Unknown,$41K,$78K,New York,NY
+223,$41K-$78K,"Little Ferry, NJ",Consulting,$41K,$78K,Little Ferry,NJ
+224,$41K-$78K,"New York, NY",Staffing & Outsourcing,$41K,$78K,New York,NY
+225,$41K-$78K,"New York, NY",Unknown,$41K,$78K,New York,NY
+226,$41K-$78K,"New York, NY",Computer Hardware & Software,$41K,$78K,New York,NY
+227,$41K-$78K,"New York, NY",Unknown,$41K,$78K,New York,NY
+228,$41K-$78K,"New York, NY",Security Services,$41K,$78K,New York,NY
+229,$41K-$78K,"Newark, NJ",IT Services,$41K,$78K,Newark,NJ
+230,$41K-$78K,"New York, NY",Video Games,$41K,$78K,New York,NY
+231,$41K-$78K,"Jersey City, NJ",IT Services,$41K,$78K,Jersey City,NJ
+232,$41K-$78K,"Jersey City, NJ",Staffing & Outsourcing,$41K,$78K,Jersey City,NJ
+233,$41K-$78K,"Jersey City, NJ",Computer Hardware & Software,$41K,$78K,Jersey City,NJ
+234,$41K-$78K,"Lake Success, NY",Health Care Services & Hospitals,$41K,$78K,Lake Success,NY
+235,$41K-$78K,"New York, NY",Enterprise Software & Network Solutions,$41K,$78K,New York,NY
+236,$41K-$78K,"New York, NY",Unknown,$41K,$78K,New York,NY
+237,$41K-$78K,"New York, NY",Health Care Services & Hospitals,$41K,$78K,New York,NY
+238,$41K-$78K,"Lake Success, NY",Advertising & Marketing,$41K,$78K,Lake Success,NY
+239,$41K-$78K,"New York, NY",Investment Banking & Asset Management,$41K,$78K,New York,NY
+240,$45K-$88K,"Jersey City, NJ",Enterprise Software & Network Solutions,$45K,$88K,Jersey City,NJ
+241,$45K-$88K,"Lake Success, NY",Health Care Services & Hospitals,$45K,$88K,Lake Success,NY
+242,$45K-$88K,"New York, NY",Unknown,$45K,$88K,New York,NY
+243,$45K-$88K,"New York, NY",Investment Banking & Asset Management,$45K,$88K,New York,NY
+244,$45K-$88K,"New York, NY",Health Care Services & Hospitals,$45K,$88K,New York,NY
+245,$45K-$88K,"New York, NY",Health Care Services & Hospitals,$45K,$88K,New York,NY
+246,$45K-$88K,"Newark, NJ",Insurance Carriers,$45K,$88K,Newark,NJ
+247,$45K-$88K,"Lake Success, NY",Unknown,$45K,$88K,Lake Success,NY
+248,$45K-$88K,"New York, NY",Colleges & Universities,$45K,$88K,New York,NY
+249,$45K-$88K,"New York, NY",Motion Picture Production & Distribution,$45K,$88K,New York,NY
+250,$45K-$88K,"New York, NY",IT Services,$45K,$88K,New York,NY
+251,$73K-$127K,"New York, NY",Enterprise Software & Network Solutions,$73K,$127K,New York,NY
+252,$73K-$127K,"New York, NY",Gambling,$73K,$127K,New York,NY
+253,$73K-$127K,"New York, NY",Unknown,$73K,$127K,New York,NY
+254,$73K-$127K,"New York, NY",IT Services,$73K,$127K,New York,NY
+255,$73K-$127K,"New York, NY",Unknown,$73K,$127K,New York,NY
+256,$73K-$127K,"New York, NY",Investment Banking & Asset Management,$73K,$127K,New York,NY
+257,$73K-$127K,"New York, NY",Staffing & Outsourcing,$73K,$127K,New York,NY
+258,$73K-$127K,"New York, NY",Unknown,$73K,$127K,New York,NY
+259,$73K-$127K,"New York, NY",Advertising & Marketing,$73K,$127K,New York,NY
+260,$73K-$127K,"New York, NY",Advertising & Marketing,$73K,$127K,New York,NY
+261,$73K-$127K,"Summit, NJ",Consulting,$73K,$127K,Summit,NJ
+262,$73K-$127K,"New York, NY",Staffing & Outsourcing,$73K,$127K,New York,NY
+263,$73K-$127K,"New York, NY",Unknown,$73K,$127K,New York,NY
+264,$73K-$127K,"New York, NY",IT Services,$73K,$127K,New York,NY
+265,$84K-$90K,"New York, NY",Accounting,$84K,$90K,New York,NY
+266,$84K-$90K,"New York, NY",Computer Hardware & Software,$84K,$90K,New York,NY
+267,$84K-$90K,"New York, NY",IT Services,$84K,$90K,New York,NY
+268,$84K-$90K,"New York, NY",IT Services,$84K,$90K,New York,NY
+269,$84K-$90K,"Haworth, NJ",Staffing & Outsourcing,$84K,$90K,Haworth,NJ
+270,$84K-$90K,"New York, NY",News Outlet,$84K,$90K,New York,NY
+271,$84K-$90K,"New York, NY",Unknown,$84K,$90K,New York,NY
+272,$84K-$90K,"Jersey City, NJ",Unknown,$84K,$90K,Jersey City,NJ
+273,$84K-$90K,"New York, NY",Staffing & Outsourcing,$84K,$90K,New York,NY
+274,$84K-$90K,"New York, NY",IT Services,$84K,$90K,New York,NY
+275,$84K-$90K,"Jersey City, NJ",Unknown,$84K,$90K,Jersey City,NJ
+276,$84K-$90K,"New York, NY",Unknown,$84K,$90K,New York,NY
+277,$84K-$90K,"Manhasset, NY",Health Care Services & Hospitals,$84K,$90K,Manhasset,NY
+278,$84K-$90K,"New York, NY",IT Services,$84K,$90K,New York,NY
+279,$84K-$90K,"Valley Stream, NY",Unknown,$84K,$90K,Valley Stream,NY
+280,$84K-$90K,"New York, NY",Consulting,$84K,$90K,New York,NY
+281,$84K-$90K,"Lake Success, NY",Health Care Services & Hospitals,$84K,$90K,Lake Success,NY
+282,$84K-$90K,"Jersey City, NJ",Computer Hardware & Software,$84K,$90K,Jersey City,NJ
+283,$27K-$52K,"New York, NY",Insurance Carriers,$27K,$52K,New York,NY
+284,$27K-$52K,"Fairfield, NJ",Commercial Equipment Repair & Maintenance,$27K,$52K,Fairfield,NJ
+285,$27K-$52K,"New York, NY",Health Care Services & Hospitals,$27K,$52K,New York,NY
+286,$27K-$52K,"New York, NY",IT Services,$27K,$52K,New York,NY
+287,$27K-$52K,"New York, NY",Investment Banking & Asset Management,$27K,$52K,New York,NY
+288,$27K-$52K,"New York, NY",Banks & Credit Unions,$27K,$52K,New York,NY
+289,$27K-$52K,"Brooklyn, NY",IT Services,$27K,$52K,Brooklyn,NY
+290,$27K-$52K,"New York, NY",Enterprise Software & Network Solutions,$27K,$52K,New York,NY
+291,$27K-$52K,"New York, NY",Unknown,$27K,$52K,New York,NY
+292,$27K-$52K,"New York, NY",Advertising & Marketing,$27K,$52K,New York,NY
+293,$27K-$52K,"New York, NY",Health Care Services & Hospitals,$27K,$52K,New York,NY
+294,$27K-$52K,"New York, NY",IT Services,$27K,$52K,New York,NY
+295,$27K-$52K,"New York, NY",Investment Banking & Asset Management,$27K,$52K,New York,NY
+296,$27K-$52K,"Summit, NJ",Staffing & Outsourcing,$27K,$52K,Summit,NJ
+297,$27K-$52K,"Berkeley Heights, NJ",Biotech & Pharmaceuticals,$27K,$52K,Berkeley Heights,NJ
+298,$27K-$52K,"Jersey City, NJ",Investment Banking & Asset Management,$27K,$52K,Jersey City,NJ
+299,$27K-$52K,"New York, NY",Health Care Services & Hospitals,$27K,$52K,New York,NY
+300,$27K-$52K,"Jersey City, NJ",Investment Banking & Asset Management,$27K,$52K,Jersey City,NJ
+301,$27K-$52K,"New York, NY",Unknown,$27K,$52K,New York,NY
+302,$27K-$52K,"Brooklyn, NY",Investment Banking & Asset Management,$27K,$52K,Brooklyn,NY
+303,$27K-$52K,"Jersey City, NJ",Staffing & Outsourcing,$27K,$52K,Jersey City,NJ
+304,$27K-$52K,"Essex Fells, NJ",Social Assistance,$27K,$52K,Essex Fells,NJ
+305,$27K-$52K,"New York, NY",Video Games,$27K,$52K,New York,NY
+306,$27K-$52K,"Jersey City, NJ",Computer Hardware & Software,$27K,$52K,Jersey City,NJ
+307,$27K-$52K,"New York, NY",IT Services,$27K,$52K,New York,NY
+308,$27K-$52K,"New York, NY",IT Services,$27K,$52K,New York,NY
+309,$27K-$52K,"New York, NY",Publishing,$27K,$52K,New York,NY
+310,$27K-$52K,"New York, NY",Health Care Services & Hospitals,$27K,$52K,New York,NY
+311,$27K-$52K,"South Plainfield, NJ",Energy,$27K,$52K,South Plainfield,NJ
+312,$27K-$52K,"Franklin Lakes, NJ",IT Services,$27K,$52K,Franklin Lakes,NJ
+313,$42K-$74K,"Lake Success, NY",Health Care Services & Hospitals,$42K,$74K,Lake Success,NY
+314,$42K-$74K,"New York, NY",IT Services,$42K,$74K,New York,NY
+315,$42K-$74K,"Brooklyn, NY",Unknown,$42K,$74K,Brooklyn,NY
+316,$42K-$74K,"New York, NY",Staffing & Outsourcing,$42K,$74K,New York,NY
+317,$42K-$74K,"Newark, NJ",Investment Banking & Asset Management,$42K,$74K,Newark,NJ
+318,$42K-$74K,"New York, NY",Health Care Services & Hospitals,$42K,$74K,New York,NY
+319,$42K-$74K,"New York, NY",Social Assistance,$42K,$74K,New York,NY
+320,$42K-$74K,"New York, NY",Health Care Services & Hospitals,$42K,$74K,New York,NY
+321,$42K-$74K,"New York, NY",IT Services,$42K,$74K,New York,NY
+322,$42K-$74K,"Mount Vernon, NY",Consulting,$42K,$74K,Mount Vernon,NY
+323,$42K-$74K,"Jersey City, NJ",Enterprise Software & Network Solutions,$42K,$74K,Jersey City,NJ
+324,$42K-$74K,"New York, NY",Insurance Carriers,$42K,$74K,New York,NY
+325,$42K-$74K,"New York, NY","Health, Beauty, & Fitness",$42K,$74K,New York,NY
+326,$42K-$74K,"New York, NY",IT Services,$42K,$74K,New York,NY
+327,$42K-$74K,"New York, NY",Unknown,$42K,$74K,New York,NY
+328,$42K-$74K,"New York, NY",Internet,$42K,$74K,New York,NY
+329,$42K-$74K,"New York, NY",Investment Banking & Asset Management,$42K,$74K,New York,NY
+330,$42K-$74K,"New York, NY",Unknown,$42K,$74K,New York,NY
+331,$42K-$74K,"New York, NY",Insurance Carriers,$42K,$74K,New York,NY
+332,$42K-$74K,"New York, NY",IT Services,$42K,$74K,New York,NY
+333,$42K-$74K,"New York, NY",IT Services,$42K,$74K,New York,NY
+334,$42K-$74K,"Jersey City, NJ",Other Retail Stores,$42K,$74K,Jersey City,NJ
+335,$42K-$74K,"New York, NY",IT Services,$42K,$74K,New York,NY
+336,$42K-$74K,"New York, NY",Health Fundraising Organizations,$42K,$74K,New York,NY
+337,$42K-$74K,"New York, NY",Unknown,$42K,$74K,New York,NY
+338,$42K-$74K,"Newark, NJ",Insurance Carriers,$42K,$74K,Newark,NJ
+339,$42K-$74K,"Lake Success, NY",Health Care Services & Hospitals,$42K,$74K,Lake Success,NY
+340,$77K-$132K,"New York, NY",Internet,$77K,$132K,New York,NY
+341,$77K-$132K,"New York, NY",Insurance Carriers,$77K,$132K,New York,NY
+342,$77K-$132K,"New York, NY",Advertising & Marketing,$77K,$132K,New York,NY
+343,$77K-$132K,"New York, NY",Consulting,$77K,$132K,New York,NY
+344,$77K-$132K,"New York, NY",IT Services,$77K,$132K,New York,NY
+345,$77K-$132K,"New York, NY",Investment Banking & Asset Management,$77K,$132K,New York,NY
+346,$77K-$132K,"New York, NY",IT Services,$77K,$132K,New York,NY
+347,$77K-$132K,"New York, NY",Computer Hardware & Software,$77K,$132K,New York,NY
+348,$77K-$132K,"New York, NY",Staffing & Outsourcing,$77K,$132K,New York,NY
+349,$77K-$132K,"New York, NY",Enterprise Software & Network Solutions,$77K,$132K,New York,NY
+350,$77K-$132K,"New York, NY",Unknown,$77K,$132K,New York,NY
+351,$77K-$132K,"Jersey City, NJ",Staffing & Outsourcing,$77K,$132K,Jersey City,NJ
+352,$77K-$132K,"New York, NY",Health Care Services & Hospitals,$77K,$132K,New York,NY
+353,$77K-$132K,"Secaucus, NJ",Health Care Services & Hospitals,$77K,$132K,Secaucus,NJ
+354,$77K-$132K,"New York, NY",Unknown,$77K,$132K,New York,NY
+355,$77K-$132K,"New York, NY",Unknown,$77K,$132K,New York,NY
+356,$77K-$132K,"New York, NY",Staffing & Outsourcing,$77K,$132K,New York,NY
+357,$77K-$132K,"New York, NY",Biotech & Pharmaceuticals,$77K,$132K,New York,NY
+358,$77K-$132K,"Brooklyn, NY",Utilities,$77K,$132K,Brooklyn,NY
+359,$77K-$132K,"West Orange, NJ",Unknown,$77K,$132K,West Orange,NJ
+360,$77K-$132K,"New York, NY",Advertising & Marketing,$77K,$132K,New York,NY
+361,$77K-$132K,"Jersey City, NJ",Computer Hardware & Software,$77K,$132K,Jersey City,NJ
+362,$77K-$132K,"Newark, NJ",Investment Banking & Asset Management,$77K,$132K,Newark,NJ
+363,$77K-$132K,"New York, NY",Consulting,$77K,$132K,New York,NY
+364,$77K-$132K,"Far Rockaway, NY",Unknown,$77K,$132K,Far Rockaway,NY
+365,$77K-$132K,"New York, NY",Health Care Services & Hospitals,$77K,$132K,New York,NY
+366,$77K-$132K,"Lake Success, NY",Advertising & Marketing,$77K,$132K,Lake Success,NY
+367,$77K-$132K,"Long Island City, NY",Unknown,$77K,$132K,Long Island City,NY
+368,$77K-$132K,"Jersey City, NJ",Investment Banking & Asset Management,$77K,$132K,Jersey City,NJ
+369,$98K-$114K,"New York, NY",Investment Banking & Asset Management,$98K,$114K,New York,NY
+370,$98K-$114K,"Florham Park, NJ",IT Services,$98K,$114K,Florham Park,NJ
+371,$98K-$114K,"New York, NY",Investment Banking & Asset Management,$98K,$114K,New York,NY
+372,$98K-$114K,"Florham Park, NJ",Investment Banking & Asset Management,$98K,$114K,Florham Park,NJ
+373,$98K-$114K,"Woodbridge, NJ",Insurance Carriers,$98K,$114K,Woodbridge,NJ
+374,$98K-$114K,"New York, NY",Health Care Services & Hospitals,$98K,$114K,New York,NY
+375,$98K-$114K,"New York, NY",Health Care Services & Hospitals,$98K,$114K,New York,NY
+376,$98K-$114K,"Parsippany, NJ",Staffing & Outsourcing,$98K,$114K,Parsippany,NJ
+377,$98K-$114K,"New York, NY",Staffing & Outsourcing,$98K,$114K,New York,NY
+378,$98K-$114K,"New York, NY",Enterprise Software & Network Solutions,$98K,$114K,New York,NY
+379,$98K-$114K,"New York, NY",Health Care Services & Hospitals,$98K,$114K,New York,NY
+380,$98K-$114K,"Whippany, NJ",IT Services,$98K,$114K,Whippany,NJ
+381,$98K-$114K,"New York, NY",IT Services,$98K,$114K,New York,NY
+382,$98K-$114K,"New York, NY",Research & Development,$98K,$114K,New York,NY
+383,$98K-$114K,"Great Neck, NY",Unknown,$98K,$114K,Great Neck,NY
+384,$98K-$114K,"New York, NY",Health Care Services & Hospitals,$98K,$114K,New York,NY
+385,$98K-$114K,"New York, NY",Staffing & Outsourcing,$98K,$114K,New York,NY
+386,$98K-$114K,"New York, NY",Computer Hardware & Software,$98K,$114K,New York,NY
+387,$98K-$114K,"Florham Park, NJ",Investment Banking & Asset Management,$98K,$114K,Florham Park,NJ
+388,$98K-$114K,"Jersey City, NJ",IT Services,$98K,$114K,Jersey City,NJ
+389,$98K-$114K,"Lake Success, NY",Health Care Services & Hospitals,$98K,$114K,Lake Success,NY
+390,$98K-$114K,"New York, NY",Unknown,$98K,$114K,New York,NY
+391,$98K-$114K,"New York, NY",Staffing & Outsourcing,$98K,$114K,New York,NY
+392,$98K-$114K,"New York, NY",Staffing & Outsourcing,$98K,$114K,New York,NY
+393,$98K-$114K,"Hoboken, NJ",Staffing & Outsourcing,$98K,$114K,Hoboken,NJ
+394,$98K-$114K,"New York, NY",Advertising & Marketing,$98K,$114K,New York,NY
+395,$98K-$114K,"New York, NY",Consulting,$98K,$114K,New York,NY
+396,$98K-$114K,"Hoboken, NJ",Unknown,$98K,$114K,Hoboken,NJ
+397,$98K-$114K,"West Orange, NJ",Health Care Services & Hospitals,$98K,$114K,West Orange,NJ
+398,$98K-$114K,"New York, NY",IT Services,$98K,$114K,New York,NY
+399,$48K-$96K,"New York, NY",Consumer Products Manufacturing,$48K,$96K,New York,NY
+400,$48K-$96K,"Jersey City, NJ",Enterprise Software & Network Solutions,$48K,$96K,Jersey City,NJ
+401,$48K-$96K,"Staten Island, NY",Health Care Services & Hospitals,$48K,$96K,Staten Island,NY
+402,$48K-$96K,"New York, NY",Staffing & Outsourcing,$48K,$96K,New York,NY
+403,$48K-$96K,"New York, NY",Unknown,$48K,$96K,New York,NY
+404,$48K-$96K,"New York, NY",Unknown,$48K,$96K,New York,NY
+405,$48K-$96K,"Harrison, NY",Accounting,$48K,$96K,Harrison,NY
+406,$48K-$96K,"Florham Park, NJ",Investment Banking & Asset Management,$48K,$96K,Florham Park,NJ
+407,$48K-$96K,"Jersey City, NJ",Staffing & Outsourcing,$48K,$96K,Jersey City,NJ
+408,$48K-$96K,"Brooklyn, NY",Unknown,$48K,$96K,Brooklyn,NY
+409,$48K-$96K,"New York, NY",IT Services,$48K,$96K,New York,NY
+410,$48K-$96K,"New York, NY",Investment Banking & Asset Management,$48K,$96K,New York,NY
+411,$48K-$96K,"Iselin, NJ",Lending,$48K,$96K,Iselin,NJ
+412,$48K-$96K,"Montvale, NJ",IT Services,$48K,$96K,Montvale,NJ
+413,$48K-$96K,"Whippany, NJ",Unknown,$48K,$96K,Whippany,NJ
+414,$48K-$96K,"Woodcliff Lake, NJ",Staffing & Outsourcing,$48K,$96K,Woodcliff Lake,NJ
+415,$48K-$96K,"New York, NY",Consulting,$48K,$96K,New York,NY
+416,$48K-$96K,"Brooklyn, NY",IT Services,$48K,$96K,Brooklyn,NY
+417,$48K-$96K,"Bronx, NY",Health Care Services & Hospitals,$48K,$96K,Bronx,NY
+418,$48K-$96K,"Parsippany, NJ",Consulting,$48K,$96K,Parsippany,NJ
+419,$48K-$96K,"Franklin Lakes, NJ",Unknown,$48K,$96K,Franklin Lakes,NJ
+420,$48K-$96K,"New York, NY",Biotech & Pharmaceuticals,$48K,$96K,New York,NY
+421,$26K-$47K,"Salt Lake City, UT",Municipal Governments,$26K,$47K,Salt Lake City,UT
+422,$26K-$47K,"West Jordan, UT",Electrical & Electronic Manufacturing,$26K,$47K,West Jordan,UT
+423,$26K-$47K,"Salt Lake City, UT",Colleges & Universities,$26K,$47K,Salt Lake City,UT
+424,$26K-$47K,"Salt Lake City, UT",Computer Hardware & Software,$26K,$47K,Salt Lake City,UT
+425,$26K-$47K,"Salt Lake City, UT",Consulting,$26K,$47K,Salt Lake City,UT
+426,$26K-$47K,"Salt Lake City, UT",Unknown,$26K,$47K,Salt Lake City,UT
+427,$26K-$47K,"Salt Lake City, UT",Consulting,$26K,$47K,Salt Lake City,UT
+428,$26K-$47K,"Lehi, UT",Enterprise Software & Network Solutions,$26K,$47K,Lehi,UT
+429,$26K-$47K,"Salt Lake City, UT",Unknown,$26K,$47K,Salt Lake City,UT
+430,$26K-$47K,"Salt Lake City, UT",Staffing & Outsourcing,$26K,$47K,Salt Lake City,UT
+431,$26K-$47K,"Salt Lake City, UT",Investment Banking & Asset Management,$26K,$47K,Salt Lake City,UT
+432,$26K-$47K,"Salt Lake City, UT",IT Services,$26K,$47K,Salt Lake City,UT
+433,$26K-$47K,"Salt Lake City, UT",Staffing & Outsourcing,$26K,$47K,Salt Lake City,UT
+434,$26K-$47K,"Salt Lake City, UT",Consumer Products Manufacturing,$26K,$47K,Salt Lake City,UT
+435,$26K-$47K,"Lehi, UT",Unknown,$26K,$47K,Lehi,UT
+436,$26K-$47K,"Salt Lake City, UT",Unknown,$26K,$47K,Salt Lake City,UT
+437,$26K-$47K,"Salt Lake City, UT",IT Services,$26K,$47K,Salt Lake City,UT
+438,$26K-$47K,"Salt Lake City, UT",Internet,$26K,$47K,Salt Lake City,UT
+439,$26K-$47K,"Salt Lake City, UT",Unknown,$26K,$47K,Salt Lake City,UT
+440,$26K-$47K,"Salt Lake City, UT",Unknown,$26K,$47K,Salt Lake City,UT
+441,$26K-$47K,"Draper, UT",Computer Hardware & Software,$26K,$47K,Draper,UT
+442,$26K-$47K,"Lehi, UT",Industrial Manufacturing,$26K,$47K,Lehi,UT
+443,$26K-$47K,"American Fork, UT",IT Services,$26K,$47K,American Fork,UT
+444,$26K-$47K,"Salt Lake City, UT",Unknown,$26K,$47K,Salt Lake City,UT
+445,$26K-$47K,"Sandy, UT",Unknown,$26K,$47K,Sandy,UT
+446,$26K-$47K,"Salt Lake City, UT",Unknown,$26K,$47K,Salt Lake City,UT
+447,$26K-$47K,"Lehi, UT",Energy,$26K,$47K,Lehi,UT
+448,$26K-$47K,"Riverton, UT",Consulting,$26K,$47K,Riverton,UT
+449,$26K-$47K,"Draper, UT",IT Services,$26K,$47K,Draper,UT
+450,$31K-$59K,"Salt Lake City, UT",Accounting,$31K,$59K,Salt Lake City,UT
+451,$31K-$59K,"Lehi, UT",Energy,$31K,$59K,Lehi,UT
+452,$31K-$59K,"Salt Lake City, UT",IT Services,$31K,$59K,Salt Lake City,UT
+453,$31K-$59K,"Salt Lake City, UT",Staffing & Outsourcing,$31K,$59K,Salt Lake City,UT
+454,$47K-$81K,"Reedley, CA",Staffing & Outsourcing,$47K,$81K,Reedley,CA
+455,$47K-$81K,"Visalia, CA",Preschool & Child Care,$47K,$81K,Visalia,CA
+456,$47K-$81K,"Hanford, CA",Social Assistance,$47K,$81K,Hanford,CA
+457,$43K-$69K,"Hampton, VA",Aerospace & Defense,$43K,$69K,Hampton,VA
+458,$43K-$69K,"Hampton, VA",Colleges & Universities,$43K,$69K,Hampton,VA
+459,$43K-$69K,"Norfolk, VA",Consulting,$43K,$69K,Norfolk,VA
+460,$43K-$69K,"Hampton, VA",Social Assistance,$43K,$69K,Hampton,VA
+461,$43K-$69K,"Hampton, VA",IT Services,$43K,$69K,Hampton,VA
+462,$43K-$69K,"Portsmouth, VA",Architectural & Engineering Services,$43K,$69K,Portsmouth,VA
+463,$43K-$69K,"Norfolk, VA",Unknown,$43K,$69K,Norfolk,VA
+464,$43K-$69K,"Norfolk, VA",Unknown,$43K,$69K,Norfolk,VA
+465,$43K-$69K,"Norfolk, VA",Social Assistance,$43K,$69K,Norfolk,VA
+466,$43K-$69K,"Hampton, VA",IT Services,$43K,$69K,Hampton,VA
+467,$43K-$69K,"Portsmouth, VA",Architectural & Engineering Services,$43K,$69K,Portsmouth,VA
+468,$43K-$69K,"Chesapeake, VA",Staffing & Outsourcing,$43K,$69K,Chesapeake,VA
+469,$43K-$69K,"Smithfield, VA",Food & Beverage Manufacturing,$43K,$69K,Smithfield,VA
+470,$43K-$69K,"Suffolk, VA",Consulting,$43K,$69K,Suffolk,VA
+471,$43K-$69K,"Norfolk, VA",Vehicle Dealers,$43K,$69K,Norfolk,VA
+472,$43K-$69K,"Norfolk, VA",Commercial Equipment Repair & Maintenance,$43K,$69K,Norfolk,VA
+473,$43K-$69K,"Hampton, VA",IT Services,$43K,$69K,Hampton,VA
+474,$43K-$69K,"Norfolk, VA",Consulting,$43K,$69K,Norfolk,VA
+475,$43K-$69K,"Hampton, VA",IT Services,$43K,$69K,Hampton,VA
+476,$43K-$69K,"Newport News, VA",Accounting,$43K,$69K,Newport News,VA
+477,$43K-$69K,"Hampton, VA",IT Services,$43K,$69K,Hampton,VA
+478,$43K-$69K,"Portsmouth, VA",Architectural & Engineering Services,$43K,$69K,Portsmouth,VA
+479,$43K-$69K,"Newport News, VA",Unknown,$43K,$69K,Newport News,VA
+480,$43K-$69K,"Hampton, VA",Staffing & Outsourcing,$43K,$69K,Hampton,VA
+481,$43K-$69K,"Hampton, VA",IT Services,$43K,$69K,Hampton,VA
+482,$43K-$69K,"Norfolk, VA",Telecommunications Services,$43K,$69K,Norfolk,VA
+483,$43K-$69K,"Virginia Beach, VA",Consulting,$43K,$69K,Virginia Beach,VA
+484,$43K-$69K,"Hampton, VA",Consulting,$43K,$69K,Hampton,VA
+485,$43K-$69K,"Yorktown, VA",Aerospace & Defense,$43K,$69K,Yorktown,VA
+486,$43K-$69K,"Portsmouth, VA",Architectural & Engineering Services,$43K,$69K,Portsmouth,VA
+487,$49K-$112K,"Hampton, VA",IT Services,$49K,$112K,Hampton,VA
+488,$49K-$112K,"Chesapeake, VA",Real Estate,$49K,$112K,Chesapeake,VA
+489,$49K-$112K,"Hampton, VA",Consulting,$49K,$112K,Hampton,VA
+490,$49K-$112K,"Norfolk, VA",Unknown,$49K,$112K,Norfolk,VA
+491,$49K-$112K,"Norfolk, VA",Consulting,$49K,$112K,Norfolk,VA
+492,$49K-$112K,"Norfolk, VA",Telecommunications Services,$49K,$112K,Norfolk,VA
+493,$49K-$112K,"Norfolk, VA",Consulting,$49K,$112K,Norfolk,VA
+494,$49K-$112K,"Fort Eustis, VA",Consulting,$49K,$112K,Fort Eustis,VA
+495,$49K-$112K,"Portsmouth, VA",Unknown,$49K,$112K,Portsmouth,VA
+496,$49K-$112K,"Norfolk, VA",Consulting,$49K,$112K,Norfolk,VA
+497,$49K-$112K,"Norfolk, VA",Commercial Equipment Repair & Maintenance,$49K,$112K,Norfolk,VA
+498,$49K-$112K,"Norfolk, VA",Aerospace & Defense,$49K,$112K,Norfolk,VA
+499,$49K-$112K,"Portsmouth, VA",Unknown,$49K,$112K,Portsmouth,VA
+500,$49K-$112K,"Norfolk, VA",IT Services,$49K,$112K,Norfolk,VA
+501,$49K-$112K,"Chesapeake, VA",Building & Personnel Services,$49K,$112K,Chesapeake,VA
+502,$49K-$112K,"Portsmouth, VA",Unknown,$49K,$112K,Portsmouth,VA
+503,$49K-$112K,"Norfolk, VA",IT Services,$49K,$112K,Norfolk,VA
+504,$49K-$112K,"Norfolk, VA",IT Services,$49K,$112K,Norfolk,VA
+505,$30K-$54K,"Gainesville, FL",IT Services,$30K,$54K,Gainesville,FL
+506,$30K-$54K,"Gainesville, FL",IT Services,$30K,$54K,Gainesville,FL
+507,$30K-$54K,"Gainesville, FL",Colleges & Universities,$30K,$54K,Gainesville,FL
+508,$30K-$54K,"Gainesville, FL",Insurance Carriers,$30K,$54K,Gainesville,FL
+509,$30K-$54K,"Alachua, FL",Health Care Services & Hospitals,$30K,$54K,Alachua,FL
+510,$30K-$54K,"Gainesville, FL",IT Services,$30K,$54K,Gainesville,FL
+511,$30K-$54K,"Gainesville, FL",IT Services,$30K,$54K,Gainesville,FL
+512,$30K-$54K,"Gainesville, FL",Health Care Services & Hospitals,$30K,$54K,Gainesville,FL
+513,$55K-$103K,"El Segundo, CA",Computer Hardware & Software,$55K,$103K,El Segundo,CA
+514,$55K-$103K,"Santa Monica, CA",Internet,$55K,$103K,Santa Monica,CA
+515,$55K-$103K,"Los Angeles, CA",Internet,$55K,$103K,Los Angeles,CA
+516,$55K-$103K,"Los Angeles, CA",Enterprise Software & Network Solutions,$55K,$103K,Los Angeles,CA
+517,$55K-$103K,"Hermosa Beach, CA",Staffing & Outsourcing,$55K,$103K,Hermosa Beach,CA
+518,$55K-$103K,"Los Angeles, CA",IT Services,$55K,$103K,Los Angeles,CA
+519,$55K-$103K,"Gardena, CA",Unknown,$55K,$103K,Gardena,CA
+520,$55K-$103K,"Los Angeles, CA",Internet,$55K,$103K,Los Angeles,CA
+521,$55K-$103K,"Los Angeles, CA",Internet,$55K,$103K,Los Angeles,CA
+522,$55K-$103K,"Burbank, CA",Staffing & Outsourcing,$55K,$103K,Burbank,CA
+523,$55K-$103K,"Los Angeles, CA",Enterprise Software & Network Solutions,$55K,$103K,Los Angeles,CA
+524,$55K-$103K,"Los Angeles, CA",Federal Agencies,$55K,$103K,Los Angeles,CA
+525,$55K-$103K,"Los Angeles, CA",Staffing & Outsourcing,$55K,$103K,Los Angeles,CA
+526,$55K-$103K,"Los Angeles, CA",Banks & Credit Unions,$55K,$103K,Los Angeles,CA
+527,$55K-$103K,"Los Angeles, CA",Unknown,$55K,$103K,Los Angeles,CA
+528,$55K-$103K,"Los Angeles, CA",Accounting,$55K,$103K,Los Angeles,CA
+529,$55K-$103K,"Los Angeles, CA",IT Services,$55K,$103K,Los Angeles,CA
+530,$55K-$103K,"Culver City, CA",Staffing & Outsourcing,$55K,$103K,Culver City,CA
+531,$55K-$103K,"Los Angeles, CA",Unknown,$55K,$103K,Los Angeles,CA
+532,$55K-$103K,"Glendale, CA",Advertising & Marketing,$55K,$103K,Glendale,CA
+533,$55K-$103K,"Los Angeles, CA",IT Services,$55K,$103K,Los Angeles,CA
+534,$55K-$103K,"Los Angeles, CA",Health Care Services & Hospitals,$55K,$103K,Los Angeles,CA
+535,$55K-$103K,"Los Angeles, CA",Unknown,$55K,$103K,Los Angeles,CA
+536,$55K-$103K,"El Segundo, CA",Staffing & Outsourcing,$55K,$103K,El Segundo,CA
+537,$55K-$103K,"El Segundo, CA",Health Care Services & Hospitals,$55K,$103K,El Segundo,CA
+538,$55K-$103K,"El Segundo, CA",Real Estate,$55K,$103K,El Segundo,CA
+539,$55K-$103K,"Santa Monica, CA",Video Games,$55K,$103K,Santa Monica,CA
+540,$55K-$103K,"Los Angeles, CA",Internet,$55K,$103K,Los Angeles,CA
+541,$55K-$103K,"Inglewood, CA",Health Care Services & Hospitals,$55K,$103K,Inglewood,CA
+542,$37K-$70K,"Los Angeles, CA",Colleges & Universities,$37K,$70K,Los Angeles,CA
+543,$37K-$70K,"Glendale, CA",TV Broadcast & Cable Networks,$37K,$70K,Glendale,CA
+544,$37K-$70K,"Los Angeles, CA",Construction,$37K,$70K,Los Angeles,CA
+545,$37K-$70K,"Los Angeles, CA",Consulting,$37K,$70K,Los Angeles,CA
+546,$37K-$70K,"Glendale, CA",IT Services,$37K,$70K,Glendale,CA
+547,$37K-$70K,"Los Angeles, CA",Unknown,$37K,$70K,Los Angeles,CA
+548,$37K-$70K,"Los Angeles, CA",Health Care Services & Hospitals,$37K,$70K,Los Angeles,CA
+549,$37K-$70K,"Venice, CA",Internet,$37K,$70K,Venice,CA
+550,$37K-$70K,"Pasadena, CA",Investment Banking & Asset Management,$37K,$70K,Pasadena,CA
+551,$37K-$70K,"Pasadena, CA",Unknown,$37K,$70K,Pasadena,CA
+552,$37K-$70K,"Santa Monica, CA",TV Broadcast & Cable Networks,$37K,$70K,Santa Monica,CA
+553,$37K-$70K,"El Segundo, CA",Consulting,$37K,$70K,El Segundo,CA
+554,$37K-$70K,"Los Angeles, CA",Colleges & Universities,$37K,$70K,Los Angeles,CA
+555,$37K-$70K,"Cerritos, CA",Consulting,$37K,$70K,Cerritos,CA
+556,$37K-$70K,"Los Angeles, CA","Health, Beauty, & Fitness",$37K,$70K,Los Angeles,CA
+557,$37K-$70K,"Burbank, CA",Motion Picture Production & Distribution,$37K,$70K,Burbank,CA
+558,$37K-$70K,"Carson, CA",Unknown,$37K,$70K,Carson,CA
+559,$37K-$70K,"Irwindale, CA",Construction,$37K,$70K,Irwindale,CA
+560,$37K-$70K,"Los Angeles, CA",Video Games,$37K,$70K,Los Angeles,CA
+561,$37K-$70K,"Los Angeles, CA",Health Care Services & Hospitals,$37K,$70K,Los Angeles,CA
+562,$37K-$70K,"Los Angeles, CA",Investment Banking & Asset Management,$37K,$70K,Los Angeles,CA
+563,$37K-$70K,"Burbank, CA",TV Broadcast & Cable Networks,$37K,$70K,Burbank,CA
+564,$37K-$70K,"Los Angeles, CA",Health Care Services & Hospitals,$37K,$70K,Los Angeles,CA
+565,$37K-$70K,"Los Angeles, CA",Internet,$37K,$70K,Los Angeles,CA
+566,$37K-$70K,"Pasadena, CA",Investment Banking & Asset Management,$37K,$70K,Pasadena,CA
+567,$37K-$70K,"Anaheim, CA",Publishing,$37K,$70K,Anaheim,CA
+568,$37K-$70K,"Burbank, CA",Unknown,$37K,$70K,Burbank,CA
+569,$37K-$70K,"El Segundo, CA",Financial Transaction Processing,$37K,$70K,El Segundo,CA
+570,$37K-$70K,"Los Angeles, CA",IT Services,$37K,$70K,Los Angeles,CA
+571,$57K-$103K,"Irwindale, CA",Consulting,$57K,$103K,Irwindale,CA
+572,$57K-$103K,"Los Angeles, CA",Advertising & Marketing,$57K,$103K,Los Angeles,CA
+573,$57K-$103K,"Los Angeles, CA",Federal Agencies,$57K,$103K,Los Angeles,CA
+574,$57K-$103K,"Beverly Hills, CA",Health Care Services & Hospitals,$57K,$103K,Beverly Hills,CA
+575,$57K-$103K,"Los Angeles, CA",Unknown,$57K,$103K,Los Angeles,CA
+576,$57K-$103K,"Los Angeles, CA",Video Games,$57K,$103K,Los Angeles,CA
+577,$57K-$103K,"Anaheim, CA",Brokerage Services,$57K,$103K,Anaheim,CA
+578,$57K-$103K,"Long Beach, CA",Unknown,$57K,$103K,Long Beach,CA
+579,$57K-$103K,"Los Angeles, CA",Unknown,$57K,$103K,Los Angeles,CA
+580,$57K-$103K,"Los Angeles, CA",Health Care Services & Hospitals,$57K,$103K,Los Angeles,CA
+581,$57K-$103K,"Los Angeles, CA",Municipal Governments,$57K,$103K,Los Angeles,CA
+582,$57K-$103K,"Los Angeles, CA",Enterprise Software & Network Solutions,$57K,$103K,Los Angeles,CA
+583,$57K-$103K,"Los Angeles, CA",Real Estate,$57K,$103K,Los Angeles,CA
+584,$57K-$103K,"Los Angeles, CA",Colleges & Universities,$57K,$103K,Los Angeles,CA
+585,$57K-$103K,"El Segundo, CA",Staffing & Outsourcing,$57K,$103K,El Segundo,CA
+586,$57K-$103K,"Los Angeles, CA",Internet,$57K,$103K,Los Angeles,CA
+587,$57K-$103K,"Los Angeles, CA",Health Care Services & Hospitals,$57K,$103K,Los Angeles,CA
+588,$57K-$103K,"Northridge, CA",Biotech & Pharmaceuticals,$57K,$103K,Northridge,CA
+589,$57K-$103K,"Los Angeles, CA",Consulting,$57K,$103K,Los Angeles,CA
+590,$57K-$103K,"Los Angeles, CA",Internet,$57K,$103K,Los Angeles,CA
+591,$57K-$103K,"Los Angeles, CA",Staffing & Outsourcing,$57K,$103K,Los Angeles,CA
+592,$57K-$103K,"Los Angeles, CA",TV Broadcast & Cable Networks,$57K,$103K,Los Angeles,CA
+593,$57K-$103K,"Los Angeles, CA",Unknown,$57K,$103K,Los Angeles,CA
+594,$57K-$103K,"Los Angeles, CA",Video Games,$57K,$103K,Los Angeles,CA
+595,$57K-$103K,"Los Angeles, CA",Health Care Services & Hospitals,$57K,$103K,Los Angeles,CA
+596,$57K-$103K,"Los Angeles, CA",Staffing & Outsourcing,$57K,$103K,Los Angeles,CA
+597,$57K-$103K,"El Segundo, CA",Video Games,$57K,$103K,El Segundo,CA
+598,$57K-$103K,"Los Angeles, CA",Other Retail Stores,$57K,$103K,Los Angeles,CA
+599,$57K-$103K,"Venice, CA",Internet,$57K,$103K,Venice,CA
+600,$35K-$45K,"Los Angeles, CA",IT Services,$35K,$45K,Los Angeles,CA
+601,$35K-$45K,"Los Angeles, CA",Unknown,$35K,$45K,Los Angeles,CA
+602,$35K-$45K,"Pasadena, CA",Health Care Services & Hospitals,$35K,$45K,Pasadena,CA
+603,$35K-$45K,"Los Angeles, CA",Consulting,$35K,$45K,Los Angeles,CA
+604,$35K-$45K,"El Segundo, CA",Aerospace & Defense,$35K,$45K,El Segundo,CA
+605,$35K-$45K,"Los Angeles, CA",Banks & Credit Unions,$35K,$45K,Los Angeles,CA
+606,$35K-$45K,"Los Angeles, CA",Staffing & Outsourcing,$35K,$45K,Los Angeles,CA
+607,$35K-$45K,"Pasadena, CA",Unknown,$35K,$45K,Pasadena,CA
+608,$35K-$45K,"Los Angeles, CA",Unknown,$35K,$45K,Los Angeles,CA
+609,$35K-$45K,"Los Angeles, CA",Banks & Credit Unions,$35K,$45K,Los Angeles,CA
+610,$35K-$45K,"Los Angeles, CA",Unknown,$35K,$45K,Los Angeles,CA
+611,$35K-$45K,"Los Angeles, CA",Internet,$35K,$45K,Los Angeles,CA
+612,$35K-$45K,"Los Angeles, CA",Unknown,$35K,$45K,Los Angeles,CA
+613,$35K-$45K,"Los Angeles, CA",Staffing & Outsourcing,$35K,$45K,Los Angeles,CA
+614,$35K-$45K,"Alhambra, CA",Unknown,$35K,$45K,Alhambra,CA
+615,$35K-$45K,"Burbank, CA",TV Broadcast & Cable Networks,$35K,$45K,Burbank,CA
+616,$35K-$45K,"Long Beach, CA",Insurance Carriers,$35K,$45K,Long Beach,CA
+617,$35K-$45K,"Santa Monica, CA","Health, Beauty, & Fitness",$35K,$45K,Santa Monica,CA
+618,$35K-$45K,"Los Angeles, CA",Staffing & Outsourcing,$35K,$45K,Los Angeles,CA
+619,$35K-$45K,"Los Angeles, CA",IT Services,$35K,$45K,Los Angeles,CA
+620,$35K-$45K,"Los Angeles, CA",Consumer Products Manufacturing,$35K,$45K,Los Angeles,CA
+621,$35K-$45K,"Los Angeles, CA",Staffing & Outsourcing,$35K,$45K,Los Angeles,CA
+622,$35K-$45K,"Santa Monica, CA",Unknown,$35K,$45K,Santa Monica,CA
+623,$35K-$45K,"Los Angeles, CA",Internet,$35K,$45K,Los Angeles,CA
+624,$35K-$45K,"El Segundo, CA",TV Broadcast & Cable Networks,$35K,$45K,El Segundo,CA
+625,$35K-$45K,"Brea, CA",Insurance Carriers,$35K,$45K,Brea,CA
+626,$35K-$45K,"Long Beach, CA",Insurance Carriers,$35K,$45K,Long Beach,CA
+627,$35K-$45K,"El Segundo, CA",Unknown,$35K,$45K,El Segundo,CA
+628,$42K-$66K,"Los Angeles, CA",Real Estate,$42K,$66K,Los Angeles,CA
+629,$42K-$66K,"Duarte, CA",Unknown,$42K,$66K,Duarte,CA
+630,$42K-$66K,"Woodland Hills, CA",Staffing & Outsourcing,$42K,$66K,Woodland Hills,CA
+631,$42K-$66K,"Burbank, CA",Unknown,$42K,$66K,Burbank,CA
+632,$42K-$66K,"Los Angeles, CA",IT Services,$42K,$66K,Los Angeles,CA
+633,$42K-$66K,"Monterey Park, CA",Unknown,$42K,$66K,Monterey Park,CA
+634,$42K-$66K,"Burbank, CA",Computer Hardware & Software,$42K,$66K,Burbank,CA
+635,$42K-$66K,"El Segundo, CA",Unknown,$42K,$66K,El Segundo,CA
+636,$42K-$66K,"Glendale, CA",Health Care Services & Hospitals,$42K,$66K,Glendale,CA
+637,$42K-$66K,"Santa Monica, CA",Staffing & Outsourcing,$42K,$66K,Santa Monica,CA
+638,$42K-$66K,"Pasadena, CA",Staffing & Outsourcing,$42K,$66K,Pasadena,CA
+639,$42K-$66K,"Los Angeles, CA",Banks & Credit Unions,$42K,$66K,Los Angeles,CA
+640,$42K-$66K,"Pasadena, CA","Health, Beauty, & Fitness",$42K,$66K,Pasadena,CA
+641,$42K-$66K,"Woodland Hills, CA",Aerospace & Defense,$42K,$66K,Woodland Hills,CA
+642,$42K-$66K,"Burbank, CA",Staffing & Outsourcing,$42K,$66K,Burbank,CA
+643,$42K-$66K,"Los Angeles, CA",IT Services,$42K,$66K,Los Angeles,CA
+644,$42K-$66K,"Culver City, CA",Video Games,$42K,$66K,Culver City,CA
+645,$42K-$66K,"Culver City, CA",Computer Hardware & Software,$42K,$66K,Culver City,CA
+646,$42K-$66K,"Cerritos, CA",IT Services,$42K,$66K,Cerritos,CA
+647,$42K-$66K,"Burbank, CA",Unknown,$42K,$66K,Burbank,CA
+648,$42K-$66K,"Marina del Rey, CA",Beauty & Personal Accessories Stores,$42K,$66K,Marina del Rey,CA
+649,$42K-$66K,"Long Beach, CA",Unknown,$42K,$66K,Long Beach,CA
+650,$42K-$66K,"Culver City, CA",Internet,$42K,$66K,Culver City,CA
+651,$42K-$66K,"El Segundo, CA",Unknown,$42K,$66K,El Segundo,CA
+652,$42K-$66K,"Arcadia, CA",Unknown,$42K,$66K,Arcadia,CA
+653,$42K-$66K,"Beverly Hills, CA",Banks & Credit Unions,$42K,$66K,Beverly Hills,CA
+654,$42K-$66K,"Torrance, CA",Automotive Parts & Accessories Stores,$42K,$66K,Torrance,CA
+655,$42K-$66K,"Los Angeles, CA",Internet,$42K,$66K,Los Angeles,CA
+656,$42K-$66K,"Panorama City, CA",Unknown,$42K,$66K,Panorama City,CA
+657,$42K-$66K,"Long Beach, CA",Insurance Carriers,$42K,$66K,Long Beach,CA
+658,$65K-$81K,"Glendale, CA",Research & Development,$65K,$81K,Glendale,CA
+659,$65K-$81K,"Glendale, CA",Unknown,$65K,$81K,Glendale,CA
+660,$65K-$81K,"Los Angeles, CA",Unknown,$65K,$81K,Los Angeles,CA
+661,$65K-$81K,"Signal Hill, CA",Unknown,$65K,$81K,Signal Hill,CA
+662,$65K-$81K,"Long Beach, CA",Industrial Manufacturing,$65K,$81K,Long Beach,CA
+663,$65K-$81K,"Alhambra, CA",Health Care Services & Hospitals,$65K,$81K,Alhambra,CA
+664,$65K-$81K,"Azusa, CA",Consulting,$65K,$81K,Azusa,CA
+665,$65K-$81K,"Burbank, CA",Consulting,$65K,$81K,Burbank,CA
+666,$65K-$81K,"El Segundo, CA",Consulting,$65K,$81K,El Segundo,CA
+667,$65K-$81K,"Marina del Rey, CA",Consumer Products Manufacturing,$65K,$81K,Marina del Rey,CA
+668,$65K-$81K,"Woodland Hills, CA",Insurance Carriers,$65K,$81K,Woodland Hills,CA
+669,$65K-$81K,"Glendale, CA",Unknown,$65K,$81K,Glendale,CA
+670,$65K-$81K,"Long Beach, CA",Chemical Manufacturing,$65K,$81K,Long Beach,CA
+671,$65K-$81K,"El Segundo, CA",Venture Capital & Private Equity,$65K,$81K,El Segundo,CA
+672,$65K-$81K,"Cerritos, CA","Department, Clothing, & Shoe Stores",$65K,$81K,Cerritos,CA
+673,$65K-$81K,"Cerritos, CA",Unknown,$65K,$81K,Cerritos,CA
+674,$65K-$81K,"El Segundo, CA",Unknown,$65K,$81K,El Segundo,CA
+675,$65K-$81K,"Los Angeles, CA",Unknown,$65K,$81K,Los Angeles,CA
+676,$65K-$81K,"Los Angeles, CA",K-12 Education,$65K,$81K,Los Angeles,CA
+677,$65K-$81K,"Glendale, CA",Staffing & Outsourcing,$65K,$81K,Glendale,CA
+678,$65K-$81K,"El Segundo, CA",Venture Capital & Private Equity,$65K,$81K,El Segundo,CA
+679,$65K-$81K,"Burbank, CA",Unknown,$65K,$81K,Burbank,CA
+680,$65K-$81K,"Long Beach, CA",Insurance Carriers,$65K,$81K,Long Beach,CA
+681,$65K-$81K,"Santa Monica, CA",Video Games,$65K,$81K,Santa Monica,CA
+682,$65K-$81K,"Long Beach, CA",Insurance Carriers,$65K,$81K,Long Beach,CA
+683,$65K-$81K,"Los Angeles, CA",Consumer Products Manufacturing,$65K,$81K,Los Angeles,CA
+684,$65K-$81K,"City of Industry, CA",Commercial Equipment Repair & Maintenance,$65K,$81K,City of Industry,CA
+685,$65K-$81K,"Northridge, CA",Unknown,$65K,$81K,Northridge,CA
+686,$65K-$81K,"El Segundo, CA",Unknown,$65K,$81K,El Segundo,CA
+687,$113K-$132K,"Arcadia, CA",Health Care Services & Hospitals,$113K,$132K,Arcadia,CA
+688,$113K-$132K,"City of Industry, CA",Unknown,$113K,$132K,City of Industry,CA
+689,$113K-$132K,"Los Angeles, CA",Unknown,$113K,$132K,Los Angeles,CA
+690,$113K-$132K,"Los Angeles, CA",Unknown,$113K,$132K,Los Angeles,CA
+691,$113K-$132K,"Santa Monica, CA",Staffing & Outsourcing,$113K,$132K,Santa Monica,CA
+692,$113K-$132K,"City of Industry, CA",Commercial Equipment Repair & Maintenance,$113K,$132K,City of Industry,CA
+693,$113K-$132K,"Burbank, CA",Accounting,$113K,$132K,Burbank,CA
+694,$113K-$132K,"Burbank, CA",Unknown,$113K,$132K,Burbank,CA
+695,$113K-$132K,"Long Beach, CA",Insurance Carriers,$113K,$132K,Long Beach,CA
+696,$113K-$132K,"Woodland Hills, CA",Staffing & Outsourcing,$113K,$132K,Woodland Hills,CA
+697,$113K-$132K,"El Segundo, CA",Consulting,$113K,$132K,El Segundo,CA
+698,$113K-$132K,"Burbank, CA",Unknown,$113K,$132K,Burbank,CA
+699,$113K-$132K,"Arcadia, CA",Accounting,$113K,$132K,Arcadia,CA
+700,$113K-$132K,"Woodland Hills, CA",Insurance Carriers,$113K,$132K,Woodland Hills,CA
+701,$113K-$132K,"Long Beach, CA",Unknown,$113K,$132K,Long Beach,CA
+702,$113K-$132K,"Burbank, CA",IT Services,$113K,$132K,Burbank,CA
+703,$113K-$132K,"Burbank, CA",Motion Picture Production & Distribution,$113K,$132K,Burbank,CA
+704,$113K-$132K,"Gardena, CA",Health Care Services & Hospitals,$113K,$132K,Gardena,CA
+705,$113K-$132K,"Long Beach, CA",Insurance Carriers,$113K,$132K,Long Beach,CA
+706,$113K-$132K,"Long Beach, CA",Insurance Carriers,$113K,$132K,Long Beach,CA
+707,$113K-$132K,"Los Angeles, CA",Unknown,$113K,$132K,Los Angeles,CA
+708,$113K-$132K,"Burbank, CA",TV Broadcast & Cable Networks,$113K,$132K,Burbank,CA
+709,$113K-$132K,"Woodland Hills, CA",Staffing & Outsourcing,$113K,$132K,Woodland Hills,CA
+710,$113K-$132K,"Santa Monica, CA",Consulting,$113K,$132K,Santa Monica,CA
+711,$113K-$132K,"Pico Rivera, CA",Staffing & Outsourcing,$113K,$132K,Pico Rivera,CA
+712,$113K-$132K,"Whittier, CA",Health Care Services & Hospitals,$113K,$132K,Whittier,CA
+713,$113K-$132K,"Anaheim, CA",Unknown,$113K,$132K,Anaheim,CA
+714,$113K-$132K,"Los Angeles, CA",Internet,$113K,$132K,Los Angeles,CA
+715,$113K-$132K,"Brea, CA",Insurance Carriers,$113K,$132K,Brea,CA
+716,$42K-$63K,"Anaheim, CA",Unknown,$42K,$63K,Anaheim,CA
+717,$42K-$63K,"Anaheim, CA",Unknown,$42K,$63K,Anaheim,CA
+718,$42K-$63K,"San Fernando, CA",Unknown,$42K,$63K,San Fernando,CA
+719,$42K-$63K,"Anaheim, CA",Unknown,$42K,$63K,Anaheim,CA
+720,$60K-$66K,"Chicago, IL",Banks & Credit Unions,$60K,$66K,Chicago,IL
+721,$60K-$66K,"Chicago, IL",Sports & Recreation,$60K,$66K,Chicago,IL
+722,$60K-$66K,"Chicago, IL",Enterprise Software & Network Solutions,$60K,$66K,Chicago,IL
+723,$60K-$66K,"Chicago, IL",Consulting,$60K,$66K,Chicago,IL
+724,$60K-$66K,"Chicago, IL",Health Care Services & Hospitals,$60K,$66K,Chicago,IL
+725,$60K-$66K,"Downers Grove, IL",Staffing & Outsourcing,$60K,$66K,Downers Grove,IL
+726,$60K-$66K,"Chicago, IL",Staffing & Outsourcing,$60K,$66K,Chicago,IL
+727,$60K-$66K,"Chicago, IL",Advertising & Marketing,$60K,$66K,Chicago,IL
+728,$60K-$66K,"Chicago, IL",Food & Beverage Manufacturing,$60K,$66K,Chicago,IL
+729,$60K-$66K,"Chicago, IL",Computer Hardware & Software,$60K,$66K,Chicago,IL
+730,$60K-$66K,"Chicago, IL",Transportation Management,$60K,$66K,Chicago,IL
+731,$60K-$66K,"Chicago, IL",Colleges & Universities,$60K,$66K,Chicago,IL
+732,$60K-$66K,"Chicago, IL",Staffing & Outsourcing,$60K,$66K,Chicago,IL
+733,$60K-$66K,"Chicago, IL",Unknown,$60K,$66K,Chicago,IL
+734,$60K-$66K,"Downers Grove, IL",Staffing & Outsourcing,$60K,$66K,Downers Grove,IL
+735,$60K-$66K,"Downers Grove, IL",Staffing & Outsourcing,$60K,$66K,Downers Grove,IL
+736,$60K-$66K,"Broadview, IL",Miscellaneous Manufacturing,$60K,$66K,Broadview,IL
+737,$60K-$66K,"Chicago, IL",Financial Transaction Processing,$60K,$66K,Chicago,IL
+738,$60K-$66K,"Chicago, IL",Social Assistance,$60K,$66K,Chicago,IL
+739,$60K-$66K,"Chicago, IL",Staffing & Outsourcing,$60K,$66K,Chicago,IL
+740,$60K-$66K,"Chicago, IL",Computer Hardware & Software,$60K,$66K,Chicago,IL
+741,$60K-$66K,"Chicago, IL",Banks & Credit Unions,$60K,$66K,Chicago,IL
+742,$60K-$66K,"Downers Grove, IL",Staffing & Outsourcing,$60K,$66K,Downers Grove,IL
+743,$60K-$66K,"Broadview, IL",Consumer Products Manufacturing,$60K,$66K,Broadview,IL
+744,$60K-$66K,"Chicago, IL",K-12 Education,$60K,$66K,Chicago,IL
+745,$60K-$66K,"Chicago, IL",Municipal Governments,$60K,$66K,Chicago,IL
+746,$60K-$66K,"Chicago, IL",Investment Banking & Asset Management,$60K,$66K,Chicago,IL
+747,$60K-$66K,"Chicago, IL",Consulting,$60K,$66K,Chicago,IL
+748,$60K-$66K,"Chicago, IL",Banks & Credit Unions,$60K,$66K,Chicago,IL
+749,$60K-$66K,"Chicago, IL",Banks & Credit Unions,$60K,$66K,Chicago,IL
+750,$73K-$82K,"Chicago, IL",IT Services,$73K,$82K,Chicago,IL
+751,$73K-$82K,"Chicago, IL",Health Care Services & Hospitals,$73K,$82K,Chicago,IL
+752,$73K-$82K,"Woodridge, IL",Miscellaneous Manufacturing,$73K,$82K,Woodridge,IL
+753,$73K-$82K,"Chicago, IL",Computer Hardware & Software,$73K,$82K,Chicago,IL
+754,$73K-$82K,"Chicago, IL",Health Care Services & Hospitals,$73K,$82K,Chicago,IL
+755,$73K-$82K,"Chicago, IL",Staffing & Outsourcing,$73K,$82K,Chicago,IL
+756,$73K-$82K,"Chicago, IL",Unknown,$73K,$82K,Chicago,IL
+757,$73K-$82K,"Chicago, IL",Consumer Products Manufacturing,$73K,$82K,Chicago,IL
+758,$73K-$82K,"Downers Grove, IL",Staffing & Outsourcing,$73K,$82K,Downers Grove,IL
+759,$73K-$82K,"Chicago, IL",IT Services,$73K,$82K,Chicago,IL
+760,$73K-$82K,"Chicago, IL",Logistics & Supply Chain,$73K,$82K,Chicago,IL
+761,$73K-$82K,"Downers Grove, IL",Staffing & Outsourcing,$73K,$82K,Downers Grove,IL
+762,$73K-$82K,"Chicago, IL",Consulting,$73K,$82K,Chicago,IL
+763,$73K-$82K,"Chicago, IL",Unknown,$73K,$82K,Chicago,IL
+764,$73K-$82K,"Chicago, IL",Video Games,$73K,$82K,Chicago,IL
+765,$73K-$82K,"Chicago, IL",Municipal Governments,$73K,$82K,Chicago,IL
+766,$73K-$82K,"Chicago, IL",Unknown,$73K,$82K,Chicago,IL
+767,$73K-$82K,"Chicago, IL",Unknown,$73K,$82K,Chicago,IL
+768,$73K-$82K,"Chicago, IL",IT Services,$73K,$82K,Chicago,IL
+769,$73K-$82K,"Chicago, IL",IT Services,$73K,$82K,Chicago,IL
+770,$73K-$82K,"Chicago, IL",Staffing & Outsourcing,$73K,$82K,Chicago,IL
+771,$73K-$82K,"Chicago, IL",K-12 Education,$73K,$82K,Chicago,IL
+772,$73K-$82K,"Chicago, IL",Biotech & Pharmaceuticals,$73K,$82K,Chicago,IL
+773,$73K-$82K,"Chicago, IL",Unknown,$73K,$82K,Chicago,IL
+774,$73K-$82K,"Chicago, IL",IT Services,$73K,$82K,Chicago,IL
+775,$73K-$82K,"Chicago, IL",Enterprise Software & Network Solutions,$73K,$82K,Chicago,IL
+776,$73K-$82K,"Chicago, IL",Staffing & Outsourcing,$73K,$82K,Chicago,IL
+777,$73K-$82K,"Chicago, IL",Social Assistance,$73K,$82K,Chicago,IL
+778,$73K-$82K,"Chicago, IL",Lending,$73K,$82K,Chicago,IL
+779,$67K-$92K,"Burr Ridge, IL",Construction,$67K,$92K,Burr Ridge,IL
+780,$67K-$92K,"Chicago, IL",Accounting,$67K,$92K,Chicago,IL
+781,$67K-$92K,"Chicago, IL",Health Care Services & Hospitals,$67K,$92K,Chicago,IL
+782,$67K-$92K,"Chicago, IL",Staffing & Outsourcing,$67K,$92K,Chicago,IL
+783,$67K-$92K,"Rolling Meadows, IL",Banks & Credit Unions,$67K,$92K,Rolling Meadows,IL
+784,$67K-$92K,"Chicago, IL",Staffing & Outsourcing,$67K,$92K,Chicago,IL
+785,$67K-$92K,"Chicago, IL",Colleges & Universities,$67K,$92K,Chicago,IL
+786,$67K-$92K,"Chicago, IL",Unknown,$67K,$92K,Chicago,IL
+787,$67K-$92K,"Deerfield, IL",Legal,$67K,$92K,Deerfield,IL
+788,$67K-$92K,"Chicago, IL",Banks & Credit Unions,$67K,$92K,Chicago,IL
+789,$67K-$92K,"Chicago, IL",Enterprise Software & Network Solutions,$67K,$92K,Chicago,IL
+790,$67K-$92K,"Chicago, IL",Enterprise Software & Network Solutions,$67K,$92K,Chicago,IL
+791,$67K-$92K,"Chicago, IL",Energy,$67K,$92K,Chicago,IL
+792,$67K-$92K,"Chicago, IL",Accounting,$67K,$92K,Chicago,IL
+793,$67K-$92K,"Chicago, IL",Construction,$67K,$92K,Chicago,IL
+794,$67K-$92K,"Chicago, IL",Food & Beverage Manufacturing,$67K,$92K,Chicago,IL
+795,$67K-$92K,"Chicago, IL",Staffing & Outsourcing,$67K,$92K,Chicago,IL
+796,$67K-$92K,"Chicago, IL",Logistics & Supply Chain,$67K,$92K,Chicago,IL
+797,$67K-$92K,"Chicago, IL",IT Services,$67K,$92K,Chicago,IL
+798,$67K-$92K,"Chicago, IL",Staffing & Outsourcing,$67K,$92K,Chicago,IL
+799,$67K-$92K,"Northlake, IL",Other Retail Stores,$67K,$92K,Northlake,IL
+800,$67K-$92K,"Chicago, IL",Unknown,$67K,$92K,Chicago,IL
+801,$67K-$92K,"Northbrook, IL",IT Services,$67K,$92K,Northbrook,IL
+802,$67K-$92K,"Chicago, IL",IT Services,$67K,$92K,Chicago,IL
+803,$67K-$92K,"Chicago, IL",Banks & Credit Unions,$67K,$92K,Chicago,IL
+804,$67K-$92K,"Chicago, IL",Legal,$67K,$92K,Chicago,IL
+805,$67K-$92K,"Des Plaines, IL",Unknown,$67K,$92K,Des Plaines,IL
+806,$67K-$92K,"Chicago, IL",Venture Capital & Private Equity,$67K,$92K,Chicago,IL
+807,$67K-$92K,"Itasca, IL",Advertising & Marketing,$67K,$92K,Itasca,IL
+808,$42K-$76K,"Chicago, IL",Consulting,$42K,$76K,Chicago,IL
+809,$42K-$76K,"Evanston, IL",Staffing & Outsourcing,$42K,$76K,Evanston,IL
+810,$42K-$76K,"Chicago, IL",Social Assistance,$42K,$76K,Chicago,IL
+811,$42K-$76K,"Northbrook, IL",Staffing & Outsourcing,$42K,$76K,Northbrook,IL
+812,$42K-$76K,"Chicago, IL",Unknown,$42K,$76K,Chicago,IL
+813,$42K-$76K,"Bridgeview, IL",Food & Beverage Manufacturing,$42K,$76K,Bridgeview,IL
+814,$42K-$76K,"Chicago, IL",Biotech & Pharmaceuticals,$42K,$76K,Chicago,IL
+815,$42K-$76K,"Downers Grove, IL",Staffing & Outsourcing,$42K,$76K,Downers Grove,IL
+816,$42K-$76K,"Chicago, IL",Unknown,$42K,$76K,Chicago,IL
+817,$42K-$76K,"Oak Brook, IL",Food & Beverage Manufacturing,$42K,$76K,Oak Brook,IL
+818,$42K-$76K,"Chicago, IL",Staffing & Outsourcing,$42K,$76K,Chicago,IL
+819,$42K-$76K,"Chicago, IL",K-12 Education,$42K,$76K,Chicago,IL
+820,$42K-$76K,"Chicago, IL",IT Services,$42K,$76K,Chicago,IL
+821,$42K-$76K,"Northbrook, IL",Staffing & Outsourcing,$42K,$76K,Northbrook,IL
+822,$42K-$76K,"Woodridge, IL",Enterprise Software & Network Solutions,$42K,$76K,Woodridge,IL
+823,$42K-$76K,"Chicago, IL",Health Care Services & Hospitals,$42K,$76K,Chicago,IL
+824,$42K-$76K,"Oak Brook, IL",Catering & Food Service Contractors,$42K,$76K,Oak Brook,IL
+825,$42K-$76K,"Chicago, IL",Colleges & Universities,$42K,$76K,Chicago,IL
+826,$42K-$76K,"Chicago, IL",Banks & Credit Unions,$42K,$76K,Chicago,IL
+827,$42K-$76K,"Chicago, IL",Advertising & Marketing,$42K,$76K,Chicago,IL
+828,$42K-$76K,"Chicago, IL",K-12 Education,$42K,$76K,Chicago,IL
+829,$42K-$76K,"Chicago, IL",Unknown,$42K,$76K,Chicago,IL
+830,$42K-$76K,"Downers Grove, IL",Banks & Credit Unions,$42K,$76K,Downers Grove,IL
+831,$42K-$76K,"Chicago, IL",IT Services,$42K,$76K,Chicago,IL
+832,$42K-$76K,"Chicago, IL",K-12 Education,$42K,$76K,Chicago,IL
+833,$42K-$76K,"Chicago, IL",IT Services,$42K,$76K,Chicago,IL
+834,$42K-$76K,"Chicago, IL",Unknown,$42K,$76K,Chicago,IL
+835,$42K-$76K,"Chicago, IL",Investment Banking & Asset Management,$42K,$76K,Chicago,IL
+836,$42K-$76K,"Chicago, IL",Unknown,$42K,$76K,Chicago,IL
+837,$42K-$76K,"Chicago, IL",Investment Banking & Asset Management,$42K,$76K,Chicago,IL
+838,$97K-$129K,"Chicago, IL",Consulting,$97K,$129K,Chicago,IL
+839,$97K-$129K,"Chicago, IL",IT Services,$97K,$129K,Chicago,IL
+840,$97K-$129K,"Chicago, IL",Computer Hardware & Software,$97K,$129K,Chicago,IL
+841,$97K-$129K,"Chicago, IL",Unknown,$97K,$129K,Chicago,IL
+842,$97K-$129K,"Chicago, IL",IT Services,$97K,$129K,Chicago,IL
+843,$97K-$129K,"Maywood, IL",Health Care Services & Hospitals,$97K,$129K,Maywood,IL
+844,$97K-$129K,"Chicago, IL",Computer Hardware & Software,$97K,$129K,Chicago,IL
+845,$97K-$129K,"Northfield, IL",Health Care Products Manufacturing,$97K,$129K,Northfield,IL
+846,$97K-$129K,"Chicago, IL",Enterprise Software & Network Solutions,$97K,$129K,Chicago,IL
+847,$97K-$129K,"Chicago, IL",Biotech & Pharmaceuticals,$97K,$129K,Chicago,IL
+848,$97K-$129K,"Glenview, IL",Industrial Manufacturing,$97K,$129K,Glenview,IL
+849,$97K-$129K,"Chicago, IL",Consulting,$97K,$129K,Chicago,IL
+850,$97K-$129K,"Chicago, IL",Health Care Services & Hospitals,$97K,$129K,Chicago,IL
+851,$97K-$129K,"Chicago, IL",Staffing & Outsourcing,$97K,$129K,Chicago,IL
+852,$97K-$129K,"Chicago, IL",Staffing & Outsourcing,$97K,$129K,Chicago,IL
+853,$97K-$129K,"Chicago, IL",Staffing & Outsourcing,$97K,$129K,Chicago,IL
+854,$97K-$129K,"Chicago, IL",Staffing & Outsourcing,$97K,$129K,Chicago,IL
+855,$97K-$129K,"Chicago, IL",Transportation Management,$97K,$129K,Chicago,IL
+856,$97K-$129K,"Deerfield, IL",Drug & Health Stores,$97K,$129K,Deerfield,IL
+857,$97K-$129K,"Chicago, IL",Financial Transaction Processing,$97K,$129K,Chicago,IL
+858,$97K-$129K,"Elk Grove Village, IL",Wholesale,$97K,$129K,Elk Grove Village,IL
+859,$97K-$129K,"Chicago, IL",Unknown,$97K,$129K,Chicago,IL
+860,$97K-$129K,"Chicago, IL",Biotech & Pharmaceuticals,$97K,$129K,Chicago,IL
+861,$97K-$129K,"Rolling Meadows, IL",Unknown,$97K,$129K,Rolling Meadows,IL
+862,$97K-$129K,"Chicago, IL",Unknown,$97K,$129K,Chicago,IL
+863,$97K-$129K,"Chicago, IL",Unknown,$97K,$129K,Chicago,IL
+864,$97K-$129K,"Chicago, IL",Staffing & Outsourcing,$97K,$129K,Chicago,IL
+865,$97K-$129K,"Chicago, IL",Membership Organizations,$97K,$129K,Chicago,IL
+866,$97K-$129K,"Chicago, IL",Logistics & Supply Chain,$97K,$129K,Chicago,IL
+867,$97K-$129K,"Chicago, IL",Unknown,$97K,$129K,Chicago,IL
+868,$68K-$87K,"Chicago, IL",Staffing & Outsourcing,$68K,$87K,Chicago,IL
+869,$68K-$87K,"Chicago, IL",Unknown,$68K,$87K,Chicago,IL
+870,$68K-$87K,"Chicago, IL",Health Care Services & Hospitals,$68K,$87K,Chicago,IL
+871,$68K-$87K,"Chicago, IL",Insurance Carriers,$68K,$87K,Chicago,IL
+872,$68K-$87K,"Chicago, IL",Colleges & Universities,$68K,$87K,Chicago,IL
+873,$68K-$87K,"Chicago, IL",Advertising & Marketing,$68K,$87K,Chicago,IL
+874,$68K-$87K,"Chicago, IL",Unknown,$68K,$87K,Chicago,IL
+875,$68K-$87K,"Chicago, IL",Enterprise Software & Network Solutions,$68K,$87K,Chicago,IL
+876,$68K-$87K,"Chicago, IL",Food & Beverage Stores,$68K,$87K,Chicago,IL
+877,$68K-$87K,"Chicago, IL",IT Services,$68K,$87K,Chicago,IL
+878,$68K-$87K,"Chicago, IL",Accounting,$68K,$87K,Chicago,IL
+879,$68K-$87K,"Arlington Heights, IL",Accounting,$68K,$87K,Arlington Heights,IL
+880,$68K-$87K,"Deerfield, IL",Drug & Health Stores,$68K,$87K,Deerfield,IL
+881,$68K-$87K,"Chicago, IL",Unknown,$68K,$87K,Chicago,IL
+882,$68K-$87K,"Downers Grove, IL",Banks & Credit Unions,$68K,$87K,Downers Grove,IL
+883,$68K-$87K,"Chicago, IL",Accounting,$68K,$87K,Chicago,IL
+884,$29K-$38K,"Houston, TX",Wholesale,$29K,$38K,Houston,TX
+885,$29K-$38K,"Houston, TX",Investment Banking & Asset Management,$29K,$38K,Houston,TX
+886,$29K-$38K,"Houston, TX",Legal,$29K,$38K,Houston,TX
+887,$29K-$38K,"Houston, TX",Casual Restaurants,$29K,$38K,Houston,TX
+888,$29K-$38K,"Houston, TX",Telecommunications Services,$29K,$38K,Houston,TX
+889,$29K-$38K,"Stafford, TX",Consumer Products Manufacturing,$29K,$38K,Stafford,TX
+890,$29K-$38K,"Houston, TX",Staffing & Outsourcing,$29K,$38K,Houston,TX
+891,$29K-$38K,"Houston, TX",Computer Hardware & Software,$29K,$38K,Houston,TX
+892,$29K-$38K,"Houston, TX",Health Care Services & Hospitals,$29K,$38K,Houston,TX
+893,$29K-$38K,"Houston, TX",Real Estate,$29K,$38K,Houston,TX
+894,$29K-$38K,"Houston, TX",Staffing & Outsourcing,$29K,$38K,Houston,TX
+895,$29K-$38K,"Houston, TX",Accounting,$29K,$38K,Houston,TX
+896,$29K-$38K,"Houston, TX",Investment Banking & Asset Management,$29K,$38K,Houston,TX
+897,$29K-$38K,"Houston, TX",Wholesale,$29K,$38K,Houston,TX
+898,$29K-$38K,"Houston, TX",Unknown,$29K,$38K,Houston,TX
+899,$29K-$38K,"Pearland, TX",Health Care Services & Hospitals,$29K,$38K,Pearland,TX
+900,$29K-$38K,"Stafford, TX",IT Services,$29K,$38K,Stafford,TX
+901,$29K-$38K,"Houston, TX",Consulting,$29K,$38K,Houston,TX
+902,$29K-$38K,"Houston, TX",Unknown,$29K,$38K,Houston,TX
+903,$29K-$38K,"Houston, TX",Municipal Governments,$29K,$38K,Houston,TX
+904,$29K-$38K,"Houston, TX",Oil & Gas Services,$29K,$38K,Houston,TX
+905,$29K-$38K,"Houston, TX",Unknown,$29K,$38K,Houston,TX
+906,$29K-$38K,"Houston, TX",Staffing & Outsourcing,$29K,$38K,Houston,TX
+907,$29K-$38K,"Houston, TX",Unknown,$29K,$38K,Houston,TX
+908,$29K-$38K,"Houston, TX",Financial Transaction Processing,$29K,$38K,Houston,TX
+909,$29K-$38K,"Houston, TX",Staffing & Outsourcing,$29K,$38K,Houston,TX
+910,$29K-$38K,"Houston, TX",Enterprise Software & Network Solutions,$29K,$38K,Houston,TX
+911,$29K-$38K,"Houston, TX",Accounting,$29K,$38K,Houston,TX
+912,$29K-$38K,"Houston, TX",IT Services,$29K,$38K,Houston,TX
+913,$47K-$76K,"Houston, TX",IT Services,$47K,$76K,Houston,TX
+914,$47K-$76K,"Houston, TX",IT Services,$47K,$76K,Houston,TX
+915,$47K-$76K,"Houston, TX",IT Services,$47K,$76K,Houston,TX
+916,$47K-$76K,"Houston, TX",Health Care Services & Hospitals,$47K,$76K,Houston,TX
+917,$47K-$76K,"Houston, TX",IT Services,$47K,$76K,Houston,TX
+918,$47K-$76K,"Houston, TX",Unknown,$47K,$76K,Houston,TX
+919,$47K-$76K,"Houston, TX",Computer Hardware & Software,$47K,$76K,Houston,TX
+920,$47K-$76K,"Houston, TX",Unknown,$47K,$76K,Houston,TX
+921,$47K-$76K,"Houston, TX",Enterprise Software & Network Solutions,$47K,$76K,Houston,TX
+922,$47K-$76K,"Houston, TX",Consulting,$47K,$76K,Houston,TX
+923,$47K-$76K,"Houston, TX",Casual Restaurants,$47K,$76K,Houston,TX
+924,$47K-$76K,"Houston, TX",Consulting,$47K,$76K,Houston,TX
+925,$47K-$76K,"Houston, TX",Unknown,$47K,$76K,Houston,TX
+926,$47K-$76K,"Houston, TX",Unknown,$47K,$76K,Houston,TX
+927,$47K-$76K,"Houston, TX",Staffing & Outsourcing,$47K,$76K,Houston,TX
+928,$47K-$76K,"Houston, TX",Consulting,$47K,$76K,Houston,TX
+929,$47K-$76K,"Houston, TX",Consulting,$47K,$76K,Houston,TX
+930,$47K-$76K,"Houston, TX",Sporting Goods Stores,$47K,$76K,Houston,TX
+931,$47K-$76K,"Houston, TX",Health Care Services & Hospitals,$47K,$76K,Houston,TX
+932,$47K-$76K,"Houston, TX",IT Services,$47K,$76K,Houston,TX
+933,$47K-$76K,"Houston, TX",Federal Agencies,$47K,$76K,Houston,TX
+934,$47K-$76K,"Houston, TX",Insurance Carriers,$47K,$76K,Houston,TX
+935,$47K-$76K,"Houston, TX",Staffing & Outsourcing,$47K,$76K,Houston,TX
+936,$47K-$76K,"Sugar Land, TX",Unknown,$47K,$76K,Sugar Land,TX
+937,$47K-$76K,"Pasadena, TX",Staffing & Outsourcing,$47K,$76K,Pasadena,TX
+938,$47K-$76K,"Houston, TX",Insurance Carriers,$47K,$76K,Houston,TX
+939,$47K-$76K,"Houston, TX",Investment Banking & Asset Management,$47K,$76K,Houston,TX
+940,$47K-$76K,"Pearland, TX",Health Care Services & Hospitals,$47K,$76K,Pearland,TX
+941,$74K-$123K,"Houston, TX",Health Care Services & Hospitals,$74K,$123K,Houston,TX
+942,$74K-$123K,"Houston, TX",Staffing & Outsourcing,$74K,$123K,Houston,TX
+943,$74K-$123K,"Houston, TX",Publishing,$74K,$123K,Houston,TX
+944,$74K-$123K,"Houston, TX",Staffing & Outsourcing,$74K,$123K,Houston,TX
+945,$74K-$123K,"Pasadena, TX",Unknown,$74K,$123K,Pasadena,TX
+946,$74K-$123K,"Houston, TX",IT Services,$74K,$123K,Houston,TX
+947,$74K-$123K,"Houston, TX",Telecommunications Services,$74K,$123K,Houston,TX
+948,$74K-$123K,"Houston, TX",IT Services,$74K,$123K,Houston,TX
+949,$74K-$123K,"Houston, TX",Enterprise Software & Network Solutions,$74K,$123K,Houston,TX
+950,$74K-$123K,"Pearland, TX",Health Care Services & Hospitals,$74K,$123K,Pearland,TX
+951,$74K-$123K,"Houston, TX",Unknown,$74K,$123K,Houston,TX
+952,$74K-$123K,"Houston, TX",Staffing & Outsourcing,$74K,$123K,Houston,TX
+953,$74K-$123K,"Houston, TX",Colleges & Universities,$74K,$123K,Houston,TX
+954,$74K-$123K,"Houston, TX",Investment Banking & Asset Management,$74K,$123K,Houston,TX
+955,$74K-$123K,"Pearland, TX",Health Care Services & Hospitals,$74K,$123K,Pearland,TX
+956,$74K-$123K,"Houston, TX",Health Care Services & Hospitals,$74K,$123K,Houston,TX
+957,$74K-$123K,"Spring, TX",Staffing & Outsourcing,$74K,$123K,Spring,TX
+958,$74K-$123K,"Pearland, TX",Health Care Services & Hospitals,$74K,$123K,Pearland,TX
+959,$74K-$123K,"Houston, TX",Staffing & Outsourcing,$74K,$123K,Houston,TX
+960,$74K-$123K,"Sugar Land, TX",Staffing & Outsourcing,$74K,$123K,Sugar Land,TX
+961,$74K-$123K,"Houston, TX",Staffing & Outsourcing,$74K,$123K,Houston,TX
+962,$74K-$123K,"Houston, TX",Staffing & Outsourcing,$74K,$123K,Houston,TX
+963,$74K-$123K,"Houston, TX",Staffing & Outsourcing,$74K,$123K,Houston,TX
+964,$74K-$123K,"Houston, TX",Consulting,$74K,$123K,Houston,TX
+965,$74K-$123K,"Houston, TX",Unknown,$74K,$123K,Houston,TX
+966,$74K-$123K,"Sugar Land, TX",Banks & Credit Unions,$74K,$123K,Sugar Land,TX
+967,$74K-$123K,"Houston, TX",IT Services,$74K,$123K,Houston,TX
+968,$74K-$123K,"Houston, TX",Municipal Governments,$74K,$123K,Houston,TX
+969,$53K-$94K,"Tempe, AZ",Banks & Credit Unions,$53K,$94K,Tempe,AZ
+970,$53K-$94K,"Phoenix, AZ",Enterprise Software & Network Solutions,$53K,$94K,Phoenix,AZ
+971,$53K-$94K,"Phoenix, AZ",Banks & Credit Unions,$53K,$94K,Phoenix,AZ
+972,$53K-$94K,"Phoenix, AZ",Construction,$53K,$94K,Phoenix,AZ
+973,$53K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$53K,$94K,Phoenix,AZ
+974,$53K-$94K,"Scottsdale, AZ",Automotive Parts & Accessories Stores,$53K,$94K,Scottsdale,AZ
+975,$53K-$94K,"Phoenix, AZ",Banks & Credit Unions,$53K,$94K,Phoenix,AZ
+976,$53K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$53K,$94K,Phoenix,AZ
+977,$53K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$53K,$94K,Phoenix,AZ
+978,$53K-$94K,"Phoenix, AZ",Telecommunications Services,$53K,$94K,Phoenix,AZ
+979,$53K-$94K,"Scottsdale, AZ",Colleges & Universities,$53K,$94K,Scottsdale,AZ
+980,$53K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$53K,$94K,Phoenix,AZ
+981,$53K-$94K,"Tempe, AZ",Staffing & Outsourcing,$53K,$94K,Tempe,AZ
+982,$53K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$53K,$94K,Phoenix,AZ
+983,$53K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$53K,$94K,Phoenix,AZ
+984,$53K-$94K,"Tempe, AZ",IT Services,$53K,$94K,Tempe,AZ
+985,$53K-$94K,"Phoenix, AZ",Social Assistance,$53K,$94K,Phoenix,AZ
+986,$53K-$94K,"Scottsdale, AZ",Unknown,$53K,$94K,Scottsdale,AZ
+987,$53K-$94K,"Phoenix, AZ",Electrical & Electronic Manufacturing,$53K,$94K,Phoenix,AZ
+988,$53K-$94K,"Phoenix, AZ",Investment Banking & Asset Management,$53K,$94K,Phoenix,AZ
+989,$53K-$94K,"Tempe, AZ",IT Services,$53K,$94K,Tempe,AZ
+990,$53K-$94K,"Tempe, AZ",Unknown,$53K,$94K,Tempe,AZ
+991,$53K-$94K,"Scottsdale, AZ",Colleges & Universities,$53K,$94K,Scottsdale,AZ
+992,$53K-$94K,"Tempe, AZ",Banks & Credit Unions,$53K,$94K,Tempe,AZ
+993,$53K-$94K,"Tempe, AZ",Banks & Credit Unions,$53K,$94K,Tempe,AZ
+994,$53K-$94K,"Glendale, AZ",Banks & Credit Unions,$53K,$94K,Glendale,AZ
+995,$53K-$94K,"Scottsdale, AZ",Banks & Credit Unions,$53K,$94K,Scottsdale,AZ
+996,$53K-$94K,"Tempe, AZ",Internet,$53K,$94K,Tempe,AZ
+997,$53K-$94K,"Glendale, AZ",Unknown,$53K,$94K,Glendale,AZ
+998,$46K-$102K,"Phoenix, AZ",Unknown,$46K,$102K,Phoenix,AZ
+999,$46K-$102K,"Tempe, AZ",Unknown,$46K,$102K,Tempe,AZ
+1000,$46K-$102K,"Tempe, AZ",Colleges & Universities,$46K,$102K,Tempe,AZ
+1001,$46K-$102K,"Phoenix, AZ",IT Services,$46K,$102K,Phoenix,AZ
+1002,$46K-$102K,"Phoenix, AZ",Staffing & Outsourcing,$46K,$102K,Phoenix,AZ
+1003,$46K-$102K,"Tempe, AZ",IT Services,$46K,$102K,Tempe,AZ
+1004,$46K-$102K,"Tempe, AZ",Gas Stations,$46K,$102K,Tempe,AZ
+1005,$46K-$102K,"Phoenix, AZ",Food & Beverage Manufacturing,$46K,$102K,Phoenix,AZ
+1006,$46K-$102K,"Phoenix, AZ",Staffing & Outsourcing,$46K,$102K,Phoenix,AZ
+1007,$46K-$102K,"Chandler, AZ",Advertising & Marketing,$46K,$102K,Chandler,AZ
+1008,$46K-$102K,"Phoenix, AZ",Automotive Parts & Accessories Stores,$46K,$102K,Phoenix,AZ
+1009,$46K-$102K,"Phoenix, AZ",Unknown,$46K,$102K,Phoenix,AZ
+1010,$46K-$102K,"Phoenix, AZ",Truck Rental & Leasing,$46K,$102K,Phoenix,AZ
+1011,$46K-$102K,"Tempe, AZ",Banks & Credit Unions,$46K,$102K,Tempe,AZ
+1012,$46K-$102K,"Scottsdale, AZ",Health Care Services & Hospitals,$46K,$102K,Scottsdale,AZ
+1013,$46K-$102K,"Tempe, AZ",Staffing & Outsourcing,$46K,$102K,Tempe,AZ
+1014,$46K-$102K,"Phoenix, AZ",Consulting,$46K,$102K,Phoenix,AZ
+1015,$46K-$102K,"Phoenix, AZ",IT Services,$46K,$102K,Phoenix,AZ
+1016,$46K-$102K,"Phoenix, AZ",Unknown,$46K,$102K,Phoenix,AZ
+1017,$46K-$102K,"Tempe, AZ",IT Services,$46K,$102K,Tempe,AZ
+1018,$46K-$102K,"Mesa, AZ",Enterprise Software & Network Solutions,$46K,$102K,Mesa,AZ
+1019,$46K-$102K,"Scottsdale, AZ",Investment Banking & Asset Management,$46K,$102K,Scottsdale,AZ
+1020,$46K-$102K,"Tempe, AZ",Insurance Agencies & Brokerages,$46K,$102K,Tempe,AZ
+1021,$46K-$102K,"Phoenix, AZ",Health Care Services & Hospitals,$46K,$102K,Phoenix,AZ
+1022,$46K-$102K,"Chandler, AZ",Construction,$46K,$102K,Chandler,AZ
+1023,$46K-$102K,"Phoenix, AZ",Unknown,$46K,$102K,Phoenix,AZ
+1024,$46K-$102K,"Phoenix, AZ",IT Services,$46K,$102K,Phoenix,AZ
+1025,$46K-$102K,"Phoenix, AZ",IT Services,$46K,$102K,Phoenix,AZ
+1026,$43K-$94K,"Tempe, AZ",Staffing & Outsourcing,$43K,$94K,Tempe,AZ
+1027,$43K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$43K,$94K,Phoenix,AZ
+1028,$43K-$94K,"Phoenix, AZ",IT Services,$43K,$94K,Phoenix,AZ
+1029,$43K-$94K,"DC Ranch, AZ",Consulting,$43K,$94K,DC Ranch,AZ
+1030,$43K-$94K,"Tempe, AZ",Unknown,$43K,$94K,Tempe,AZ
+1031,$43K-$94K,"Phoenix, AZ",Staffing & Outsourcing,$43K,$94K,Phoenix,AZ
+1032,$43K-$94K,"Tempe, AZ",Enterprise Software & Network Solutions,$43K,$94K,Tempe,AZ
+1033,$43K-$94K,"Scottsdale, AZ",Unknown,$43K,$94K,Scottsdale,AZ
+1034,$43K-$94K,"Chandler, AZ",Advertising & Marketing,$43K,$94K,Chandler,AZ
+1035,$43K-$94K,"Scottsdale, AZ",Unknown,$43K,$94K,Scottsdale,AZ
+1036,$43K-$94K,"Tempe, AZ",Unknown,$43K,$94K,Tempe,AZ
+1037,$43K-$94K,"Scottsdale, AZ",Accounting,$43K,$94K,Scottsdale,AZ
+1038,$43K-$94K,"Tempe, AZ",Biotech & Pharmaceuticals,$43K,$94K,Tempe,AZ
+1039,$43K-$94K,"Tempe, AZ",Gas Stations,$43K,$94K,Tempe,AZ
+1040,$43K-$94K,"Chandler, AZ",Staffing & Outsourcing,$43K,$94K,Chandler,AZ
+1041,$43K-$94K,"Scottsdale, AZ",Unknown,$43K,$94K,Scottsdale,AZ
+1042,$43K-$94K,"Tempe, AZ",Banks & Credit Unions,$43K,$94K,Tempe,AZ
+1043,$43K-$94K,"Phoenix, AZ",IT Services,$43K,$94K,Phoenix,AZ
+1044,$43K-$94K,"Tempe, AZ",Staffing & Outsourcing,$43K,$94K,Tempe,AZ
+1045,$43K-$94K,"Scottsdale, AZ",Insurance Carriers,$43K,$94K,Scottsdale,AZ
+1046,$43K-$94K,"Glendale, AZ",Staffing & Outsourcing,$43K,$94K,Glendale,AZ
+1047,$43K-$94K,"Scottsdale, AZ",Consulting,$43K,$94K,Scottsdale,AZ
+1048,$43K-$94K,"Glendale, AZ",Unknown,$43K,$94K,Glendale,AZ
+1049,$43K-$94K,"Chandler, AZ",Architectural & Engineering Services,$43K,$94K,Chandler,AZ
+1050,$43K-$94K,"Glendale, AZ",Insurance Carriers,$43K,$94K,Glendale,AZ
+1051,$43K-$94K,"Tempe, AZ",Health Care Services & Hospitals,$43K,$94K,Tempe,AZ
+1052,$43K-$94K,"Phoenix, AZ",Unknown,$43K,$94K,Phoenix,AZ
+1053,$43K-$94K,"Chandler, AZ",Staffing & Outsourcing,$43K,$94K,Chandler,AZ
+1054,$43K-$94K,"Chandler, AZ",Staffing & Outsourcing,$43K,$94K,Chandler,AZ
+1055,$45K-$78K,"Mesa, AZ",Staffing & Outsourcing,$45K,$78K,Mesa,AZ
+1056,$45K-$78K,"Tempe, AZ",Staffing & Outsourcing,$45K,$78K,Tempe,AZ
+1057,$45K-$78K,"DC Ranch, AZ",Computer Hardware & Software,$45K,$78K,DC Ranch,AZ
+1058,$45K-$78K,"Tempe, AZ",Gas Stations,$45K,$78K,Tempe,AZ
+1059,$45K-$78K,"Tempe, AZ",Unknown,$45K,$78K,Tempe,AZ
+1060,$45K-$78K,"Phoenix, AZ",Insurance Carriers,$45K,$78K,Phoenix,AZ
+1061,$45K-$78K,"Scottsdale, AZ",IT Services,$45K,$78K,Scottsdale,AZ
+1062,$45K-$78K,"Tempe, AZ",Banks & Credit Unions,$45K,$78K,Tempe,AZ
+1063,$45K-$78K,"Tempe, AZ",Unknown,$45K,$78K,Tempe,AZ
+1064,$45K-$78K,"Tempe, AZ",Consulting,$45K,$78K,Tempe,AZ
+1065,$45K-$78K,"Scottsdale, AZ",Health Care Services & Hospitals,$45K,$78K,Scottsdale,AZ
+1066,$41K-$78K,"King of Prussia, PA",Computer Hardware & Software,$41K,$78K,King of Prussia,PA
+1067,$41K-$78K,"Plymouth Meeting, PA",Health Care Services & Hospitals,$41K,$78K,Plymouth Meeting,PA
+1068,$41K-$78K,"Blue Bell, PA",Biotech & Pharmaceuticals,$41K,$78K,Blue Bell,PA
+1069,$41K-$78K,"Fort Washington, PA",Real Estate,$41K,$78K,Fort Washington,PA
+1070,$41K-$78K,"Philadelphia, PA",Health Care Services & Hospitals,$41K,$78K,Philadelphia,PA
+1071,$41K-$78K,"Philadelphia, PA",Enterprise Software & Network Solutions,$41K,$78K,Philadelphia,PA
+1072,$41K-$78K,"Philadelphia, PA",Consulting,$41K,$78K,Philadelphia,PA
+1073,$41K-$78K,"Wilmington, DE",Staffing & Outsourcing,$41K,$78K,Wilmington,DE
+1074,$41K-$78K,"King of Prussia, PA",Unknown,$41K,$78K,King of Prussia,PA
+1075,$41K-$78K,"Malvern, PA",Staffing & Outsourcing,$41K,$78K,Malvern,PA
+1076,$41K-$78K,"Philadelphia, PA",Internet,$41K,$78K,Philadelphia,PA
+1077,$41K-$78K,"Philadelphia, PA",IT Services,$41K,$78K,Philadelphia,PA
+1078,$41K-$78K,"Philadelphia, PA",Unknown,$41K,$78K,Philadelphia,PA
+1079,$41K-$78K,"Philadelphia, PA",Architectural & Engineering Services,$41K,$78K,Philadelphia,PA
+1080,$41K-$78K,"Horsham, PA",Unknown,$41K,$78K,Horsham,PA
+1081,$41K-$78K,"Camden, NJ",Staffing & Outsourcing,$41K,$78K,Camden,NJ
+1082,$41K-$78K,"Philadelphia, PA",Staffing & Outsourcing,$41K,$78K,Philadelphia,PA
+1083,$41K-$78K,"Philadelphia, PA",IT Services,$41K,$78K,Philadelphia,PA
+1084,$41K-$78K,"Philadelphia, PA",IT Services,$41K,$78K,Philadelphia,PA
+1085,$41K-$78K,"Philadelphia, PA",Express Delivery Services,$41K,$78K,Philadelphia,PA
+1086,$41K-$78K,"Philadelphia, PA",IT Services,$41K,$78K,Philadelphia,PA
+1087,$41K-$78K,"Feasterville Trevose, PA",Staffing & Outsourcing,$41K,$78K,Feasterville Trevose,PA
+1088,$41K-$78K,"Philadelphia, PA",Colleges & Universities,$41K,$78K,Philadelphia,PA
+1089,$41K-$78K,"Feasterville Trevose, PA","Cable, Internet & Telephone Providers",$41K,$78K,Feasterville Trevose,PA
+1090,$41K-$78K,"Camden, NJ",Metals Brokers,$41K,$78K,Camden,NJ
+1091,$41K-$78K,"Philadelphia, PA",Accounting,$41K,$78K,Philadelphia,PA
+1092,$41K-$78K,"Philadelphia, PA",Advertising & Marketing,$41K,$78K,Philadelphia,PA
+1093,$41K-$78K,"Philadelphia, PA",Staffing & Outsourcing,$41K,$78K,Philadelphia,PA
+1094,$38K-$68K,"Philadelphia, PA",IT Services,$38K,$68K,Philadelphia,PA
+1095,$38K-$68K,"Philadelphia, PA",Health Care Services & Hospitals,$38K,$68K,Philadelphia,PA
+1096,$38K-$68K,"Philadelphia, PA",Colleges & Universities,$38K,$68K,Philadelphia,PA
+1097,$38K-$68K,"Philadelphia, PA",Insurance Carriers,$38K,$68K,Philadelphia,PA
+1098,$38K-$68K,"Philadelphia, PA",Health Care Services & Hospitals,$38K,$68K,Philadelphia,PA
+1099,$38K-$68K,"Philadelphia, PA",Unknown,$38K,$68K,Philadelphia,PA
+1100,$38K-$68K,"Wilmington, DE",Investment Banking & Asset Management,$38K,$68K,Wilmington,DE
+1101,$38K-$68K,"Philadelphia, PA",IT Services,$38K,$68K,Philadelphia,PA
+1102,$38K-$68K,"Radnor, PA",Biotech & Pharmaceuticals,$38K,$68K,Radnor,PA
+1103,$38K-$68K,"Philadelphia, PA",Unknown,$38K,$68K,Philadelphia,PA
+1104,$38K-$68K,"West Conshohocken, PA",Health Care Services & Hospitals,$38K,$68K,West Conshohocken,PA
+1105,$38K-$68K,"Philadelphia, PA",Colleges & Universities,$38K,$68K,Philadelphia,PA
+1106,$38K-$68K,"Malvern, PA",IT Services,$38K,$68K,Malvern,PA
+1107,$38K-$68K,"Philadelphia, PA",Unknown,$38K,$68K,Philadelphia,PA
+1108,$38K-$68K,"King of Prussia, PA",IT Services,$38K,$68K,King of Prussia,PA
+1109,$38K-$68K,"Wayne, PA",Publishing,$38K,$68K,Wayne,PA
+1110,$38K-$68K,"Wilmington, DE",Staffing & Outsourcing,$38K,$68K,Wilmington,DE
+1111,$38K-$68K,"Bensalem, PA",IT Services,$38K,$68K,Bensalem,PA
+1112,$38K-$68K,"Malvern, PA",Investment Banking & Asset Management,$38K,$68K,Malvern,PA
+1113,$38K-$68K,"Philadelphia, PA",Staffing & Outsourcing,$38K,$68K,Philadelphia,PA
+1114,$38K-$68K,"Philadelphia, PA",Staffing & Outsourcing,$38K,$68K,Philadelphia,PA
+1115,$38K-$68K,"King of Prussia, PA",Biotech & Pharmaceuticals,$38K,$68K,King of Prussia,PA
+1116,$38K-$68K,"Horsham, PA",Staffing & Outsourcing,$38K,$68K,Horsham,PA
+1117,$38K-$68K,"Exton, PA",Consulting,$38K,$68K,Exton,PA
+1118,$38K-$68K,"Philadelphia, PA",Social Assistance,$38K,$68K,Philadelphia,PA
+1119,$38K-$68K,"Philadelphia, PA",IT Services,$38K,$68K,Philadelphia,PA
+1120,$38K-$68K,"Wilmington, DE",Unknown,$38K,$68K,Wilmington,DE
+1121,$38K-$68K,"Doylestown, PA",Unknown,$38K,$68K,Doylestown,PA
+1122,$38K-$68K,"Wayne, PA",Staffing & Outsourcing,$38K,$68K,Wayne,PA
+1123,$37K-$44K,"Philadelphia, PA",Colleges & Universities,$37K,$44K,Philadelphia,PA
+1124,$37K-$44K,"Doylestown, PA",Unknown,$37K,$44K,Doylestown,PA
+1125,$37K-$44K,"Philadelphia, PA",Health Care Services & Hospitals,$37K,$44K,Philadelphia,PA
+1126,$37K-$44K,"Philadelphia, PA",Colleges & Universities,$37K,$44K,Philadelphia,PA
+1127,$37K-$44K,"Allegheny West, PA",Consulting,$37K,$44K,Allegheny West,PA
+1128,$37K-$44K,"Paoli, PA",Staffing & Outsourcing,$37K,$44K,Paoli,PA
+1129,$37K-$44K,"Doylestown, PA",Vehicle Dealers,$37K,$44K,Doylestown,PA
+1130,$37K-$44K,"Horsham, PA",Enterprise Software & Network Solutions,$37K,$44K,Horsham,PA
+1131,$37K-$44K,"Wilmington, DE",Staffing & Outsourcing,$37K,$44K,Wilmington,DE
+1132,$37K-$44K,"Philadelphia, PA",Health Care Services & Hospitals,$37K,$44K,Philadelphia,PA
+1133,$37K-$44K,"Chester Township, PA",Consulting,$37K,$44K,Chester Township,PA
+1134,$37K-$44K,"Conshohocken, PA",Staffing & Outsourcing,$37K,$44K,Conshohocken,PA
+1135,$37K-$44K,"West Chester, PA",Colleges & Universities,$37K,$44K,West Chester,PA
+1136,$37K-$44K,"Malvern, PA",Investment Banking & Asset Management,$37K,$44K,Malvern,PA
+1137,$37K-$44K,"Mount Laurel, NJ",Banks & Credit Unions,$37K,$44K,Mount Laurel,NJ
+1138,$37K-$44K,"Ridley Park, PA",Aerospace & Defense,$37K,$44K,Ridley Park,PA
+1139,$37K-$44K,"Wayne, PA",IT Services,$37K,$44K,Wayne,PA
+1140,$37K-$44K,"Mount Laurel, NJ",Investment Banking & Asset Management,$37K,$44K,Mount Laurel,NJ
+1141,$37K-$44K,"Philadelphia, PA",IT Services,$37K,$44K,Philadelphia,PA
+1142,$37K-$44K,"West Chester, PA",Oil & Gas Services,$37K,$44K,West Chester,PA
+1143,$37K-$44K,"Berwyn, PA",Staffing & Outsourcing,$37K,$44K,Berwyn,PA
+1144,$37K-$44K,"Newtown, PA",Unknown,$37K,$44K,Newtown,PA
+1145,$37K-$44K,"Philadelphia, PA",Staffing & Outsourcing,$37K,$44K,Philadelphia,PA
+1146,$37K-$44K,"Philadelphia, PA",Staffing & Outsourcing,$37K,$44K,Philadelphia,PA
+1147,$37K-$44K,"Horsham, PA",Staffing & Outsourcing,$37K,$44K,Horsham,PA
+1148,$37K-$44K,"Wilmington, DE",Staffing & Outsourcing,$37K,$44K,Wilmington,DE
+1149,$37K-$44K,"Philadelphia, PA",Unknown,$37K,$44K,Philadelphia,PA
+1150,$37K-$44K,"Horsham, PA",Enterprise Software & Network Solutions,$37K,$44K,Horsham,PA
+1151,$37K-$44K,"Philadelphia, PA",Consulting,$37K,$44K,Philadelphia,PA
+1152,$64K-$113K,"Philadelphia, PA",Health Care Services & Hospitals,$64K,$113K,Philadelphia,PA
+1153,$64K-$113K,"Plymouth Meeting, PA",Computer Hardware & Software,$64K,$113K,Plymouth Meeting,PA
+1154,$64K-$113K,"Philadelphia, PA",Staffing & Outsourcing,$64K,$113K,Philadelphia,PA
+1155,$64K-$113K,"Wayne, PA",Staffing & Outsourcing,$64K,$113K,Wayne,PA
+1156,$64K-$113K,"Newtown Square, PA",Insurance Carriers,$64K,$113K,Newtown Square,PA
+1157,$64K-$113K,"Philadelphia, PA",IT Services,$64K,$113K,Philadelphia,PA
+1158,$64K-$113K,"Wayne, PA",Biotech & Pharmaceuticals,$64K,$113K,Wayne,PA
+1159,$64K-$113K,"Philadelphia, PA",Architectural & Engineering Services,$64K,$113K,Philadelphia,PA
+1160,$64K-$113K,"Mount Laurel, NJ",Investment Banking & Asset Management,$64K,$113K,Mount Laurel,NJ
+1161,$64K-$113K,"Wayne, PA",Unknown,$64K,$113K,Wayne,PA
+1162,$64K-$113K,"Philadelphia, PA","Cable, Internet & Telephone Providers",$64K,$113K,Philadelphia,PA
+1163,$64K-$113K,"Malvern, PA",Investment Banking & Asset Management,$64K,$113K,Malvern,PA
+1164,$64K-$113K,"Boothwyn, PA",Staffing & Outsourcing,$64K,$113K,Boothwyn,PA
+1165,$64K-$113K,"Philadelphia, PA",Insurance Carriers,$64K,$113K,Philadelphia,PA
+1166,$64K-$113K,"Philadelphia, PA",Biotech & Pharmaceuticals,$64K,$113K,Philadelphia,PA
+1167,$64K-$113K,"Philadelphia, PA",Consulting,$64K,$113K,Philadelphia,PA
+1168,$64K-$113K,"King of Prussia, PA",Unknown,$64K,$113K,King of Prussia,PA
+1169,$64K-$113K,"Norristown, PA",Unknown,$64K,$113K,Norristown,PA
+1170,$64K-$113K,"West Point, PA",Biotech & Pharmaceuticals,$64K,$113K,West Point,PA
+1171,$64K-$113K,"West Point, PA",Biotech & Pharmaceuticals,$64K,$113K,West Point,PA
+1172,$64K-$113K,"Marlton, NJ",Investment Banking & Asset Management,$64K,$113K,Marlton,NJ
+1173,$64K-$113K,"King of Prussia, PA",Consulting,$64K,$113K,King of Prussia,PA
+1174,$64K-$113K,"Philadelphia, PA",Unknown,$64K,$113K,Philadelphia,PA
+1175,$64K-$113K,"Camden, NJ",Health Care Services & Hospitals,$64K,$113K,Camden,NJ
+1176,$64K-$113K,"Malvern, PA",IT Services,$64K,$113K,Malvern,PA
+1177,$64K-$113K,"Philadelphia, PA",Insurance Carriers,$64K,$113K,Philadelphia,PA
+1178,$64K-$113K,"Camden, NJ",Unknown,$64K,$113K,Camden,NJ
+1179,$64K-$113K,"Philadelphia, PA",Staffing & Outsourcing,$64K,$113K,Philadelphia,PA
+1180,$64K-$113K,"Philadelphia, PA",Advertising & Marketing,$64K,$113K,Philadelphia,PA
+1181,$64K-$113K,"Philadelphia, PA",Staffing & Outsourcing,$64K,$113K,Philadelphia,PA
+1182,$50K-$93K,"King of Prussia, PA",Staffing & Outsourcing,$50K,$93K,King of Prussia,PA
+1183,$50K-$93K,"Allegheny West, PA",Consulting,$50K,$93K,Allegheny West,PA
+1184,$50K-$93K,"Philadelphia, PA",Biotech & Pharmaceuticals,$50K,$93K,Philadelphia,PA
+1185,$50K-$93K,"Horsham, PA",IT Services,$50K,$93K,Horsham,PA
+1186,$50K-$93K,"West Point, PA",Unknown,$50K,$93K,West Point,PA
+1187,$50K-$93K,"Wilmington, DE",Staffing & Outsourcing,$50K,$93K,Wilmington,DE
+1188,$50K-$93K,"West Point, PA",Unknown,$50K,$93K,West Point,PA
+1189,$50K-$93K,"Wilmington, DE",IT Services,$50K,$93K,Wilmington,DE
+1190,$50K-$93K,"Berwyn, PA",Electrical & Electronic Manufacturing,$50K,$93K,Berwyn,PA
+1191,$50K-$93K,"Marlton, NJ",Investment Banking & Asset Management,$50K,$93K,Marlton,NJ
+1192,$50K-$93K,"Philadelphia, PA",Insurance Carriers,$50K,$93K,Philadelphia,PA
+1193,$50K-$93K,"Philadelphia, PA",Advertising & Marketing,$50K,$93K,Philadelphia,PA
+1194,$50K-$93K,"Horsham, PA",Staffing & Outsourcing,$50K,$93K,Horsham,PA
+1195,$50K-$93K,"Moorestown, NJ",Accounting,$50K,$93K,Moorestown,NJ
+1196,$50K-$93K,"Wilmington, DE",Investment Banking & Asset Management,$50K,$93K,Wilmington,DE
+1197,$50K-$93K,"Horsham, PA",Enterprise Software & Network Solutions,$50K,$93K,Horsham,PA
+1198,$50K-$93K,"Philadelphia, PA",Health Care Services & Hospitals,$50K,$93K,Philadelphia,PA
+1199,$50K-$93K,"Wilmington, DE",Staffing & Outsourcing,$50K,$93K,Wilmington,DE
+1200,$50K-$93K,"Wilmington, DE",Unknown,$50K,$93K,Wilmington,DE
+1201,$37K-$68K,"San Antonio, TX",Computer Hardware & Software,$37K,$68K,San Antonio,TX
+1202,$37K-$68K,"San Antonio, TX",IT Services,$37K,$68K,San Antonio,TX
+1203,$37K-$68K,"San Antonio, TX",IT Services,$37K,$68K,San Antonio,TX
+1204,$37K-$68K,"San Antonio, TX",Staffing & Outsourcing,$37K,$68K,San Antonio,TX
+1205,$37K-$68K,"San Antonio, TX",Staffing & Outsourcing,$37K,$68K,San Antonio,TX
+1206,$37K-$68K,"San Antonio, TX",IT Services,$37K,$68K,San Antonio,TX
+1207,$37K-$68K,"San Antonio, TX",IT Services,$37K,$68K,San Antonio,TX
+1208,$37K-$68K,"San Antonio, TX",Aerospace & Defense,$37K,$68K,San Antonio,TX
+1209,$37K-$68K,"San Antonio, TX",Vehicle Dealers,$37K,$68K,San Antonio,TX
+1210,$37K-$68K,"San Antonio, TX",Consulting,$37K,$68K,San Antonio,TX
+1211,$37K-$68K,"San Antonio, TX",Banks & Credit Unions,$37K,$68K,San Antonio,TX
+1212,$37K-$68K,"San Antonio, TX",Grocery Stores & Supermarkets,$37K,$68K,San Antonio,TX
+1213,$37K-$68K,"San Antonio, TX",Unknown,$37K,$68K,San Antonio,TX
+1214,$37K-$68K,"San Antonio, TX",Federal Agencies,$37K,$68K,San Antonio,TX
+1215,$37K-$68K,"San Antonio, TX",Unknown,$37K,$68K,San Antonio,TX
+1216,$37K-$68K,"San Antonio, TX",IT Services,$37K,$68K,San Antonio,TX
+1217,$37K-$68K,"San Antonio, TX",Staffing & Outsourcing,$37K,$68K,San Antonio,TX
+1218,$37K-$68K,"San Antonio, TX",IT Services,$37K,$68K,San Antonio,TX
+1219,$37K-$68K,"San Antonio, TX",Staffing & Outsourcing,$37K,$68K,San Antonio,TX
+1220,$37K-$68K,"San Antonio, TX",IT Services,$37K,$68K,San Antonio,TX
+1221,$37K-$68K,"San Antonio, TX",Computer Hardware & Software,$37K,$68K,San Antonio,TX
+1222,$37K-$68K,"San Antonio, TX",Computer Hardware & Software,$37K,$68K,San Antonio,TX
+1223,$37K-$68K,"San Antonio, TX",Computer Hardware & Software,$37K,$68K,San Antonio,TX
+1224,$37K-$68K,"San Antonio, TX",Banks & Credit Unions,$37K,$68K,San Antonio,TX
+1225,$37K-$68K,"San Antonio, TX",Staffing & Outsourcing,$37K,$68K,San Antonio,TX
+1226,$37K-$68K,"San Antonio, TX",Pet & Pet Supplies Stores,$37K,$68K,San Antonio,TX
+1227,$37K-$68K,"San Antonio, TX",Staffing & Outsourcing,$37K,$68K,San Antonio,TX
+1228,$37K-$68K,"San Antonio, TX",Consulting,$37K,$68K,San Antonio,TX
+1229,$37K-$68K,"San Antonio, TX",Federal Agencies,$37K,$68K,San Antonio,TX
+1230,$37K-$68K,"Lackland AFB, TX",IT Services,$37K,$68K,Lackland AFB,TX
+1231,$73K-$89K,"San Antonio, TX",IT Services,$73K,$89K,San Antonio,TX
+1232,$73K-$89K,"San Antonio, TX",IT Services,$73K,$89K,San Antonio,TX
+1233,$73K-$89K,"San Antonio, TX",Social Assistance,$73K,$89K,San Antonio,TX
+1234,$73K-$89K,"San Antonio, TX",Aerospace & Defense,$73K,$89K,San Antonio,TX
+1235,$73K-$89K,"San Antonio, TX",IT Services,$73K,$89K,San Antonio,TX
+1236,$73K-$89K,"San Antonio, TX",Unknown,$73K,$89K,San Antonio,TX
+1237,$73K-$89K,"San Antonio, TX",Staffing & Outsourcing,$73K,$89K,San Antonio,TX
+1238,$73K-$89K,"San Antonio, TX",Staffing & Outsourcing,$73K,$89K,San Antonio,TX
+1239,$73K-$89K,"San Antonio, TX",Accounting,$73K,$89K,San Antonio,TX
+1240,$73K-$89K,"Lackland AFB, TX",Aerospace & Defense,$73K,$89K,Lackland AFB,TX
+1241,$73K-$89K,"San Antonio, TX",IT Services,$73K,$89K,San Antonio,TX
+1242,$73K-$89K,"San Antonio, TX",Banks & Credit Unions,$73K,$89K,San Antonio,TX
+1243,$73K-$89K,"San Antonio, TX",Staffing & Outsourcing,$73K,$89K,San Antonio,TX
+1244,$73K-$89K,"San Antonio, TX",IT Services,$73K,$89K,San Antonio,TX
+1245,$73K-$89K,"San Antonio, TX",Computer Hardware & Software,$73K,$89K,San Antonio,TX
+1246,$73K-$89K,"Fort Sam Houston, TX",Banks & Credit Unions,$73K,$89K,Fort Sam Houston,TX
+1247,$73K-$89K,"San Antonio, TX",Staffing & Outsourcing,$73K,$89K,San Antonio,TX
+1248,$73K-$89K,"San Antonio, TX",Staffing & Outsourcing,$73K,$89K,San Antonio,TX
+1249,$76K-$122K,"San Diego, CA",Aerospace & Defense,$76K,$122K,San Diego,CA
+1250,$76K-$122K,"San Diego, CA",Banks & Credit Unions,$76K,$122K,San Diego,CA
+1251,$76K-$122K,"San Diego, CA",Colleges & Universities,$76K,$122K,San Diego,CA
+1252,$76K-$122K,"San Diego, CA",Education Training Services,$76K,$122K,San Diego,CA
+1253,$76K-$122K,"San Diego, CA",Accounting,$76K,$122K,San Diego,CA
+1254,$76K-$122K,"San Diego, CA",IT Services,$76K,$122K,San Diego,CA
+1255,$76K-$122K,"San Diego, CA",Colleges & Universities,$76K,$122K,San Diego,CA
+1256,$76K-$122K,"San Diego, CA",Health Care Services & Hospitals,$76K,$122K,San Diego,CA
+1257,$76K-$122K,"San Diego, CA",Unknown,$76K,$122K,San Diego,CA
+1258,$76K-$122K,"San Diego, CA",Aerospace & Defense,$76K,$122K,San Diego,CA
+1259,$76K-$122K,"San Diego, CA",Biotech & Pharmaceuticals,$76K,$122K,San Diego,CA
+1260,$76K-$122K,"San Diego, CA",IT Services,$76K,$122K,San Diego,CA
+1261,$76K-$122K,"San Diego, CA",Financial Analytics & Research,$76K,$122K,San Diego,CA
+1262,$76K-$122K,"San Diego, CA",Education Training Services,$76K,$122K,San Diego,CA
+1263,$76K-$122K,"San Diego, CA",Advertising & Marketing,$76K,$122K,San Diego,CA
+1264,$76K-$122K,"San Diego, CA",Banks & Credit Unions,$76K,$122K,San Diego,CA
+1265,$76K-$122K,"San Diego, CA",Staffing & Outsourcing,$76K,$122K,San Diego,CA
+1266,$76K-$122K,"San Diego, CA",Unknown,$76K,$122K,San Diego,CA
+1267,$76K-$122K,"San Diego, CA",Energy,$76K,$122K,San Diego,CA
+1268,$76K-$122K,"San Diego, CA",Health Care Products Manufacturing,$76K,$122K,San Diego,CA
+1269,$76K-$122K,"San Diego, CA",Biotech & Pharmaceuticals,$76K,$122K,San Diego,CA
+1270,$76K-$122K,"San Diego, CA",Staffing & Outsourcing,$76K,$122K,San Diego,CA
+1271,$76K-$122K,"San Diego, CA",Aerospace & Defense,$76K,$122K,San Diego,CA
+1272,$76K-$122K,"San Diego, CA",IT Services,$76K,$122K,San Diego,CA
+1273,$76K-$122K,"San Diego, CA",Unknown,$76K,$122K,San Diego,CA
+1274,$76K-$122K,"National City, CA",Unknown,$76K,$122K,National City,CA
+1275,$76K-$122K,"San Diego, CA",Biotech & Pharmaceuticals,$76K,$122K,San Diego,CA
+1276,$76K-$122K,"San Diego, CA",Health Care Products Manufacturing,$76K,$122K,San Diego,CA
+1277,$60K-$124K,"San Diego, CA",Biotech & Pharmaceuticals,$60K,$124K,San Diego,CA
+1278,$60K-$124K,"San Diego, CA",Staffing & Outsourcing,$60K,$124K,San Diego,CA
+1279,$60K-$124K,"San Diego, CA",Health Care Services & Hospitals,$60K,$124K,San Diego,CA
+1280,$60K-$124K,"San Diego, CA",Biotech & Pharmaceuticals,$60K,$124K,San Diego,CA
+1281,$60K-$124K,"San Diego, CA",Colleges & Universities,$60K,$124K,San Diego,CA
+1282,$60K-$124K,"San Diego, CA",Computer Hardware & Software,$60K,$124K,San Diego,CA
+1283,$60K-$124K,"San Diego, CA",Computer Hardware & Software,$60K,$124K,San Diego,CA
+1284,$60K-$124K,"San Diego, CA",Computer Hardware & Software,$60K,$124K,San Diego,CA
+1285,$60K-$124K,"San Diego, CA",Unknown,$60K,$124K,San Diego,CA
+1286,$60K-$124K,"San Diego, CA",Health Care Services & Hospitals,$60K,$124K,San Diego,CA
+1287,$60K-$124K,"San Diego, CA",Unknown,$60K,$124K,San Diego,CA
+1288,$60K-$124K,"San Diego, CA",Computer Hardware & Software,$60K,$124K,San Diego,CA
+1289,$60K-$124K,"San Diego, CA",Insurance Carriers,$60K,$124K,San Diego,CA
+1290,$60K-$124K,"San Diego, CA",Computer Hardware & Software,$60K,$124K,San Diego,CA
+1291,$60K-$124K,"San Diego, CA",Computer Hardware & Software,$60K,$124K,San Diego,CA
+1292,$60K-$124K,"San Diego, CA",Unknown,$60K,$124K,San Diego,CA
+1293,$60K-$124K,"San Diego, CA",Colleges & Universities,$60K,$124K,San Diego,CA
+1294,$60K-$124K,"San Diego, CA",IT Services,$60K,$124K,San Diego,CA
+1295,$60K-$124K,"San Diego, CA",Unknown,$60K,$124K,San Diego,CA
+1296,$60K-$124K,"San Diego, CA",Staffing & Outsourcing,$60K,$124K,San Diego,CA
+1297,$60K-$124K,"San Diego, CA",Aerospace & Defense,$60K,$124K,San Diego,CA
+1298,$60K-$124K,"San Diego, CA",Colleges & Universities,$60K,$124K,San Diego,CA
+1299,$60K-$124K,"San Diego, CA",Wholesale,$60K,$124K,San Diego,CA
+1300,$60K-$124K,"San Diego, CA",Unknown,$60K,$124K,San Diego,CA
+1301,$60K-$124K,"El Cajon, CA",Gambling,$60K,$124K,El Cajon,CA
+1302,$60K-$124K,"San Diego, CA",Colleges & Universities,$60K,$124K,San Diego,CA
+1303,$60K-$124K,"San Diego, CA",IT Services,$60K,$124K,San Diego,CA
+1304,$60K-$124K,"San Diego, CA",Health Care Services & Hospitals,$60K,$124K,San Diego,CA
+1305,$60K-$124K,"San Diego, CA",Computer Hardware & Software,$60K,$124K,San Diego,CA
+1306,$60K-$124K,"San Diego, CA",Staffing & Outsourcing,$60K,$124K,San Diego,CA
+1307,$60K-$124K,"San Diego, CA",IT Services,$60K,$124K,San Diego,CA
+1308,$34K-$61K,"San Diego, CA",Colleges & Universities,$34K,$61K,San Diego,CA
+1309,$34K-$61K,"San Diego, CA",Staffing & Outsourcing,$34K,$61K,San Diego,CA
+1310,$34K-$61K,"San Diego, CA",Lending,$34K,$61K,San Diego,CA
+1311,$34K-$61K,"San Diego, CA",Aerospace & Defense,$34K,$61K,San Diego,CA
+1312,$34K-$61K,"San Diego, CA",IT Services,$34K,$61K,San Diego,CA
+1313,$24K-$48K,"Plano, TX",Enterprise Software & Network Solutions,$24K,$48K,Plano,TX
+1314,$24K-$48K,"Plano, TX",Enterprise Software & Network Solutions,$24K,$48K,Plano,TX
+1315,$24K-$48K,"Allen, TX",Computer Hardware & Software,$24K,$48K,Allen,TX
+1316,$24K-$48K,"Arlington, TX",Grocery Stores & Supermarkets,$24K,$48K,Arlington,TX
+1317,$24K-$48K,"Dallas, TX",Consulting,$24K,$48K,Dallas,TX
+1318,$24K-$48K,"Dallas, TX",Enterprise Software & Network Solutions,$24K,$48K,Dallas,TX
+1319,$24K-$48K,"Dallas, TX",Staffing & Outsourcing,$24K,$48K,Dallas,TX
+1320,$24K-$48K,"Dallas, TX",Staffing & Outsourcing,$24K,$48K,Dallas,TX
+1321,$24K-$48K,"Dallas, TX",Investment Banking & Asset Management,$24K,$48K,Dallas,TX
+1322,$24K-$48K,"Richardson, TX",Audiovisual,$24K,$48K,Richardson,TX
+1323,$24K-$48K,"Dallas, TX",Advertising & Marketing,$24K,$48K,Dallas,TX
+1324,$24K-$48K,"Dallas, TX",Financial Analytics & Research,$24K,$48K,Dallas,TX
+1325,$24K-$48K,"Dallas, TX",Unknown,$24K,$48K,Dallas,TX
+1326,$24K-$48K,"Dallas, TX",IT Services,$24K,$48K,Dallas,TX
+1327,$24K-$48K,"Dallas, TX",Municipal Governments,$24K,$48K,Dallas,TX
+1328,$24K-$48K,"Dallas, TX",Investment Banking & Asset Management,$24K,$48K,Dallas,TX
+1329,$24K-$48K,"Irving, TX",IT Services,$24K,$48K,Irving,TX
+1330,$24K-$48K,"Irving, TX",IT Services,$24K,$48K,Irving,TX
+1331,$24K-$48K,"Arlington, TX",Grocery Stores & Supermarkets,$24K,$48K,Arlington,TX
+1332,$24K-$48K,"Dallas, TX",Telecommunications Services,$24K,$48K,Dallas,TX
+1333,$24K-$48K,"Richardson, TX",Staffing & Outsourcing,$24K,$48K,Richardson,TX
+1334,$24K-$48K,"Dallas, TX",Unknown,$24K,$48K,Dallas,TX
+1335,$24K-$48K,"Dallas, TX",Video Games,$24K,$48K,Dallas,TX
+1336,$24K-$48K,"Dallas, TX",Advertising & Marketing,$24K,$48K,Dallas,TX
+1337,$24K-$48K,"Irving, TX",Banks & Credit Unions,$24K,$48K,Irving,TX
+1338,$24K-$48K,"Dallas, TX",Health Care Services & Hospitals,$24K,$48K,Dallas,TX
+1339,$24K-$48K,"Dallas, TX",IT Services,$24K,$48K,Dallas,TX
+1340,$24K-$48K,"Plano, TX",Unknown,$24K,$48K,Plano,TX
+1341,$24K-$48K,"Dallas, TX",Enterprise Software & Network Solutions,$24K,$48K,Dallas,TX
+1342,$30K-$53K,"Dallas, TX",Staffing & Outsourcing,$30K,$53K,Dallas,TX
+1343,$30K-$53K,"Dallas, TX",Preschool & Child Care,$30K,$53K,Dallas,TX
+1344,$30K-$53K,"Irving, TX",Unknown,$30K,$53K,Irving,TX
+1345,$30K-$53K,"Dallas, TX",Health Care Services & Hospitals,$30K,$53K,Dallas,TX
+1346,$30K-$53K,"Dallas, TX",Staffing & Outsourcing,$30K,$53K,Dallas,TX
+1347,$30K-$53K,"Dallas, TX",Investment Banking & Asset Management,$30K,$53K,Dallas,TX
+1348,$30K-$53K,"Dallas, TX",Preschool & Child Care,$30K,$53K,Dallas,TX
+1349,$30K-$53K,"Irving, TX",Insurance Carriers,$30K,$53K,Irving,TX
+1350,$30K-$53K,"Dallas, TX",Health Care Services & Hospitals,$30K,$53K,Dallas,TX
+1351,$30K-$53K,"Dallas, TX",Federal Agencies,$30K,$53K,Dallas,TX
+1352,$30K-$53K,"Dallas, TX",Unknown,$30K,$53K,Dallas,TX
+1353,$30K-$53K,"Dallas, TX",Health Care Services & Hospitals,$30K,$53K,Dallas,TX
+1354,$30K-$53K,"Irving, TX",Unknown,$30K,$53K,Irving,TX
+1355,$30K-$53K,"Grapevine, TX",Industrial Manufacturing,$30K,$53K,Grapevine,TX
+1356,$30K-$53K,"Dallas, TX",Transportation Equipment Manufacturing,$30K,$53K,Dallas,TX
+1357,$30K-$53K,"Plano, TX",Staffing & Outsourcing,$30K,$53K,Plano,TX
+1358,$30K-$53K,"Irving, TX",IT Services,$30K,$53K,Irving,TX
+1359,$30K-$53K,"Dallas, TX",Banks & Credit Unions,$30K,$53K,Dallas,TX
+1360,$30K-$53K,"Plano, TX",IT Services,$30K,$53K,Plano,TX
+1361,$30K-$53K,"Dallas, TX",Staffing & Outsourcing,$30K,$53K,Dallas,TX
+1362,$30K-$53K,"Dallas, TX",Oil & Gas Services,$30K,$53K,Dallas,TX
+1363,$30K-$53K,"Irving, TX",Investment Banking & Asset Management,$30K,$53K,Irving,TX
+1364,$30K-$53K,"Dallas, TX",IT Services,$30K,$53K,Dallas,TX
+1365,$30K-$53K,"Arlington, TX",Membership Organizations,$30K,$53K,Arlington,TX
+1366,$30K-$53K,"Dallas, TX",Unknown,$30K,$53K,Dallas,TX
+1367,$30K-$53K,"Dallas, TX",Investment Banking & Asset Management,$30K,$53K,Dallas,TX
+1368,$30K-$53K,"Plano, TX",Computer Hardware & Software,$30K,$53K,Plano,TX
+1369,$30K-$53K,"Plano, TX",Consulting,$30K,$53K,Plano,TX
+1370,$30K-$53K,"Irving, TX",Staffing & Outsourcing,$30K,$53K,Irving,TX
+1371,$30K-$53K,"Richardson, TX",Computer Hardware & Software,$30K,$53K,Richardson,TX
+1372,$41K-$86K,"Lewisville, TX",Consumer Products Manufacturing,$41K,$86K,Lewisville,TX
+1373,$41K-$86K,"Dallas, TX",Video Games,$41K,$86K,Dallas,TX
+1374,$41K-$86K,"Grapevine, TX",Consulting,$41K,$86K,Grapevine,TX
+1375,$41K-$86K,"Irving, TX",Computer Hardware & Software,$41K,$86K,Irving,TX
+1376,$41K-$86K,"Plano, TX",Staffing & Outsourcing,$41K,$86K,Plano,TX
+1377,$41K-$86K,"Addison, TX",Health Care Services & Hospitals,$41K,$86K,Addison,TX
+1378,$41K-$86K,"Irving, TX",Unknown,$41K,$86K,Irving,TX
+1379,$41K-$86K,"Plano, TX",Unknown,$41K,$86K,Plano,TX
+1380,$41K-$86K,"Irving, TX",IT Services,$41K,$86K,Irving,TX
+1381,$41K-$86K,"Arlington, TX",Convenience Stores & Truck Stops,$41K,$86K,Arlington,TX
+1382,$41K-$86K,"Plano, TX",IT Services,$41K,$86K,Plano,TX
+1383,$41K-$86K,"Irving, TX",Investment Banking & Asset Management,$41K,$86K,Irving,TX
+1384,$41K-$86K,"Plano, TX",Unknown,$41K,$86K,Plano,TX
+1385,$41K-$86K,"Irving, TX",Advertising & Marketing,$41K,$86K,Irving,TX
+1386,$41K-$86K,"Dallas, TX",Insurance Carriers,$41K,$86K,Dallas,TX
+1387,$41K-$86K,"Grapevine, TX",IT Services,$41K,$86K,Grapevine,TX
+1388,$41K-$86K,"Dallas, TX",Aerospace & Defense,$41K,$86K,Dallas,TX
+1389,$41K-$86K,"Plano, TX",Unknown,$41K,$86K,Plano,TX
+1390,$41K-$86K,"Dallas, TX",Staffing & Outsourcing,$41K,$86K,Dallas,TX
+1391,$41K-$86K,"Dallas, TX",Enterprise Software & Network Solutions,$41K,$86K,Dallas,TX
+1392,$41K-$86K,"Irving, TX",Security Services,$41K,$86K,Irving,TX
+1393,$41K-$86K,"Dallas, TX",Staffing & Outsourcing,$41K,$86K,Dallas,TX
+1394,$41K-$86K,"Plano, TX",Unknown,$41K,$86K,Plano,TX
+1395,$41K-$86K,"Dallas, TX",IT Services,$41K,$86K,Dallas,TX
+1396,$41K-$86K,"Dallas, TX",Unknown,$41K,$86K,Dallas,TX
+1397,$41K-$86K,"Dallas, TX",Transportation Equipment Manufacturing,$41K,$86K,Dallas,TX
+1398,$41K-$86K,"Dallas, TX",Lending,$41K,$86K,Dallas,TX
+1399,$41K-$86K,"Irving, TX",Health Care Services & Hospitals,$41K,$86K,Irving,TX
+1400,$41K-$86K,"Dallas, TX",Consulting,$41K,$86K,Dallas,TX
+1401,$44K-$82K,"Tarrant, TX",Municipal Governments,$44K,$82K,Tarrant,TX
+1402,$44K-$82K,"Dallas, TX",Staffing & Outsourcing,$44K,$82K,Dallas,TX
+1403,$44K-$82K,"Irving, TX","Health, Beauty, & Fitness",$44K,$82K,Irving,TX
+1404,$44K-$82K,"Dallas, TX",Unknown,$44K,$82K,Dallas,TX
+1405,$44K-$82K,"Arlington, TX",Colleges & Universities,$44K,$82K,Arlington,TX
+1406,$44K-$82K,"Plano, TX",Computer Hardware & Software,$44K,$82K,Plano,TX
+1407,$44K-$82K,"Carrollton, TX",Lending,$44K,$82K,Carrollton,TX
+1408,$44K-$82K,"Dallas, TX",Health Care Services & Hospitals,$44K,$82K,Dallas,TX
+1409,$44K-$82K,"Plano, TX",Computer Hardware & Software,$44K,$82K,Plano,TX
+1410,$44K-$82K,"Dallas, TX",Industrial Manufacturing,$44K,$82K,Dallas,TX
+1411,$44K-$82K,"Southlake, TX",Construction,$44K,$82K,Southlake,TX
+1412,$44K-$82K,"Dallas, TX",Lending,$44K,$82K,Dallas,TX
+1413,$44K-$82K,"Dallas, TX",Financial Transaction Processing,$44K,$82K,Dallas,TX
+1414,$44K-$82K,"Dallas, TX",Unknown,$44K,$82K,Dallas,TX
+1415,$44K-$82K,"Dallas, TX",Advertising & Marketing,$44K,$82K,Dallas,TX
+1416,$44K-$82K,"Plano, TX",Unknown,$44K,$82K,Plano,TX
+1417,$44K-$82K,"Lewisville, TX",Investment Banking & Asset Management,$44K,$82K,Lewisville,TX
+1418,$44K-$82K,"Irving, TX",Staffing & Outsourcing,$44K,$82K,Irving,TX
+1419,$44K-$82K,"Dallas, TX",Staffing & Outsourcing,$44K,$82K,Dallas,TX
+1420,$44K-$82K,"Coppell, TX",IT Services,$44K,$82K,Coppell,TX
+1421,$44K-$82K,"Dallas, TX",Unknown,$44K,$82K,Dallas,TX
+1422,$44K-$82K,"Dallas, TX",Consulting,$44K,$82K,Dallas,TX
+1423,$44K-$82K,"Plano, TX",Consumer Product Rental,$44K,$82K,Plano,TX
+1424,$44K-$82K,"Allen, TX",Unknown,$44K,$82K,Allen,TX
+1425,$44K-$82K,"Plano, TX",Unknown,$44K,$82K,Plano,TX
+1426,$44K-$82K,"Richardson, TX",Accounting,$44K,$82K,Richardson,TX
+1427,$44K-$82K,"Farmers Branch, TX",Lending,$44K,$82K,Farmers Branch,TX
+1428,$44K-$82K,"Dallas, TX",Consulting,$44K,$82K,Dallas,TX
+1429,$48K-$88K,"Dallas, TX",Health Care Products Manufacturing,$48K,$88K,Dallas,TX
+1430,$48K-$88K,"Plano, TX",Staffing & Outsourcing,$48K,$88K,Plano,TX
+1431,$48K-$88K,"Irving, TX",IT Services,$48K,$88K,Irving,TX
+1432,$48K-$88K,"Plano, TX",Staffing & Outsourcing,$48K,$88K,Plano,TX
+1433,$48K-$88K,"Plano, TX",Health Care Services & Hospitals,$48K,$88K,Plano,TX
+1434,$48K-$88K,"Irving, TX",Investment Banking & Asset Management,$48K,$88K,Irving,TX
+1435,$48K-$88K,"Irving, TX",Staffing & Outsourcing,$48K,$88K,Irving,TX
+1436,$48K-$88K,"Dallas, TX",Unknown,$48K,$88K,Dallas,TX
+1437,$48K-$88K,"Arlington, TX",Colleges & Universities,$48K,$88K,Arlington,TX
+1438,$48K-$88K,"Dallas, TX",Unknown,$48K,$88K,Dallas,TX
+1439,$48K-$88K,"Irving, TX","Health, Beauty, & Fitness",$48K,$88K,Irving,TX
+1440,$48K-$88K,"Dallas, TX",IT Services,$48K,$88K,Dallas,TX
+1441,$48K-$88K,"Irving, TX",Staffing & Outsourcing,$48K,$88K,Irving,TX
+1442,$48K-$88K,"Irving, TX",IT Services,$48K,$88K,Irving,TX
+1443,$48K-$88K,"Dallas, TX",Electrical & Electronic Manufacturing,$48K,$88K,Dallas,TX
+1444,$48K-$88K,"Richardson, TX",Staffing & Outsourcing,$48K,$88K,Richardson,TX
+1445,$48K-$88K,"Allen, TX",IT Services,$48K,$88K,Allen,TX
+1446,$48K-$88K,"Arlington, TX",Convenience Stores & Truck Stops,$48K,$88K,Arlington,TX
+1447,$48K-$88K,"Richardson, TX",Accounting,$48K,$88K,Richardson,TX
+1448,$48K-$88K,"Irving, TX",Advertising & Marketing,$48K,$88K,Irving,TX
+1449,$48K-$88K,"Plano, TX",IT Services,$48K,$88K,Plano,TX
+1450,$48K-$88K,"Richardson, TX",Staffing & Outsourcing,$48K,$88K,Richardson,TX
+1451,$48K-$88K,"Plano, TX",Health Care Services & Hospitals,$48K,$88K,Plano,TX
+1452,$48K-$88K,"Richardson, TX",Advertising & Marketing,$48K,$88K,Richardson,TX
+1453,$48K-$88K,"Richardson, TX",Accounting,$48K,$88K,Richardson,TX
+1454,$48K-$88K,"Dallas, TX",Real Estate,$48K,$88K,Dallas,TX
+1455,$48K-$88K,"Irving, TX",Staffing & Outsourcing,$48K,$88K,Irving,TX
+1456,$44K-$78K,"Arlington, TX",Transportation Management,$44K,$78K,Arlington,TX
+1457,$44K-$78K,"Plano, TX",Logistics & Supply Chain,$44K,$78K,Plano,TX
+1458,$44K-$78K,"Richardson, TX",Accounting,$44K,$78K,Richardson,TX
+1459,$44K-$78K,"Plano, TX",Unknown,$44K,$78K,Plano,TX
+1460,$44K-$78K,"Plano, TX",Staffing & Outsourcing,$44K,$78K,Plano,TX
+1461,$44K-$78K,"Dallas, TX",Unknown,$44K,$78K,Dallas,TX
+1462,$44K-$78K,"Plano, TX",Staffing & Outsourcing,$44K,$78K,Plano,TX
+1463,$44K-$78K,"Plano, TX",Staffing & Outsourcing,$44K,$78K,Plano,TX
+1464,$44K-$78K,"Irving, TX",Enterprise Software & Network Solutions,$44K,$78K,Irving,TX
+1465,$44K-$78K,"Dallas, TX",Unknown,$44K,$78K,Dallas,TX
+1466,$44K-$78K,"Irving, TX",Lending,$44K,$78K,Irving,TX
+1467,$44K-$78K,"Allen, TX",Computer Hardware & Software,$44K,$78K,Allen,TX
+1468,$110K-$190K,"Newark, CA",Staffing & Outsourcing,$110K,$190K,Newark,CA
+1469,$110K-$190K,"Santa Clara, CA",Computer Hardware & Software,$110K,$190K,Santa Clara,CA
+1470,$110K-$190K,"Newark, CA",Enterprise Software & Network Solutions,$110K,$190K,Newark,CA
+1471,$110K-$190K,"Santa Clara, CA",Enterprise Software & Network Solutions,$110K,$190K,Santa Clara,CA
+1472,$110K-$190K,"Redwood City, CA",Enterprise Software & Network Solutions,$110K,$190K,Redwood City,CA
+1473,$110K-$190K,"Santa Clara, CA",Sports & Recreation,$110K,$190K,Santa Clara,CA
+1474,$110K-$190K,"Cupertino, CA",Staffing & Outsourcing,$110K,$190K,Cupertino,CA
+1475,$110K-$190K,"Fremont, CA",Transportation Equipment Manufacturing,$110K,$190K,Fremont,CA
+1476,$110K-$190K,"San Jose, CA",IT Services,$110K,$190K,San Jose,CA
+1477,$110K-$190K,"Menlo Park, CA",IT Services,$110K,$190K,Menlo Park,CA
+1478,$110K-$190K,"Santa Clara, CA",Accounting,$110K,$190K,Santa Clara,CA
+1479,$110K-$190K,"San Jose, CA",Unknown,$110K,$190K,San Jose,CA
+1480,$110K-$190K,"San Jose, CA",IT Services,$110K,$190K,San Jose,CA
+1481,$110K-$190K,"Palo Alto, CA",Health Care Services & Hospitals,$110K,$190K,Palo Alto,CA
+1482,$110K-$190K,"Cupertino, CA",Staffing & Outsourcing,$110K,$190K,Cupertino,CA
+1483,$110K-$190K,"Palo Alto, CA",Unknown,$110K,$190K,Palo Alto,CA
+1484,$110K-$190K,"Mountain View, CA",Enterprise Software & Network Solutions,$110K,$190K,Mountain View,CA
+1485,$110K-$190K,"Menlo Park, CA",IT Services,$110K,$190K,Menlo Park,CA
+1486,$110K-$190K,"Mountain View, CA",Computer Hardware & Software,$110K,$190K,Mountain View,CA
+1487,$110K-$190K,"Cupertino, CA",IT Services,$110K,$190K,Cupertino,CA
+1488,$110K-$190K,"Sunnyvale, CA",Staffing & Outsourcing,$110K,$190K,Sunnyvale,CA
+1489,$110K-$190K,"Sunnyvale, CA",IT Services,$110K,$190K,Sunnyvale,CA
+1490,$110K-$190K,"San Jose, CA",Health Care Services & Hospitals,$110K,$190K,San Jose,CA
+1491,$110K-$190K,"San Jose, CA",IT Services,$110K,$190K,San Jose,CA
+1492,$110K-$190K,"Los Gatos, CA",Internet,$110K,$190K,Los Gatos,CA
+1493,$110K-$190K,"San Jose, CA",Unknown,$110K,$190K,San Jose,CA
+1494,$110K-$190K,"San Jose, CA",Consulting,$110K,$190K,San Jose,CA
+1495,$110K-$190K,"Sunnyvale, CA",Staffing & Outsourcing,$110K,$190K,Sunnyvale,CA
+1496,$110K-$190K,"San Jose, CA",IT Services,$110K,$190K,San Jose,CA
+1497,$89K-$151K,"Santa Clara, CA",IT Services,$89K,$151K,Santa Clara,CA
+1498,$89K-$151K,"Los Gatos, CA",Internet,$89K,$151K,Los Gatos,CA
+1499,$89K-$151K,"San Jose, CA",Staffing & Outsourcing,$89K,$151K,San Jose,CA
+1500,$89K-$151K,"Santa Clara, CA",Computer Hardware & Software,$89K,$151K,Santa Clara,CA
+1501,$89K-$151K,"Cupertino, CA",Staffing & Outsourcing,$89K,$151K,Cupertino,CA
+1502,$89K-$151K,"San Jose, CA",Electrical & Electronic Manufacturing,$89K,$151K,San Jose,CA
+1503,$89K-$151K,"San Jose, CA",Advertising & Marketing,$89K,$151K,San Jose,CA
+1504,$89K-$151K,"San Jose, CA",Staffing & Outsourcing,$89K,$151K,San Jose,CA
+1505,$89K-$151K,"Sunnyvale, CA",IT Services,$89K,$151K,Sunnyvale,CA
+1506,$89K-$151K,"San Jose, CA",Accounting,$89K,$151K,San Jose,CA
+1507,$89K-$151K,"Menlo Park, CA",IT Services,$89K,$151K,Menlo Park,CA
+1508,$89K-$151K,"San Jose, CA",Enterprise Software & Network Solutions,$89K,$151K,San Jose,CA
+1509,$89K-$151K,"Redwood City, CA","Health, Beauty, & Fitness",$89K,$151K,Redwood City,CA
+1510,$89K-$151K,"Redwood City, CA",Internet,$89K,$151K,Redwood City,CA
+1511,$89K-$151K,"Sunnyvale, CA",Staffing & Outsourcing,$89K,$151K,Sunnyvale,CA
+1512,$89K-$151K,"San Jose, CA",IT Services,$89K,$151K,San Jose,CA
+1513,$89K-$151K,"Cupertino, CA",IT Services,$89K,$151K,Cupertino,CA
+1514,$89K-$151K,"San Jose, CA",IT Services,$89K,$151K,San Jose,CA
+1515,$89K-$151K,"Sunnyvale, CA",Unknown,$89K,$151K,Sunnyvale,CA
+1516,$89K-$151K,"San Jose, CA",Unknown,$89K,$151K,San Jose,CA
+1517,$89K-$151K,"Santa Clara, CA",Computer Hardware & Software,$89K,$151K,Santa Clara,CA
+1518,$89K-$151K,"Santa Clara, CA",Computer Hardware & Software,$89K,$151K,Santa Clara,CA
+1519,$89K-$151K,"Menlo Park, CA",Internet,$89K,$151K,Menlo Park,CA
+1520,$89K-$151K,"Palo Alto, CA",Computer Hardware & Software,$89K,$151K,Palo Alto,CA
+1521,$89K-$151K,"Cupertino, CA",IT Services,$89K,$151K,Cupertino,CA
+1522,$89K-$151K,"San Jose, CA",IT Services,$89K,$151K,San Jose,CA
+1523,$89K-$151K,"San Jose, CA",Unknown,$89K,$151K,San Jose,CA
+1524,$89K-$151K,"Redwood City, CA",Health Care Services & Hospitals,$89K,$151K,Redwood City,CA
+1525,$69K-$127K,"Stanford, CA",Colleges & Universities,$69K,$127K,Stanford,CA
+1526,$69K-$127K,"San Jose, CA",IT Services,$69K,$127K,San Jose,CA
+1527,$69K-$127K,"Los Gatos, CA",Publishing,$69K,$127K,Los Gatos,CA
+1528,$69K-$127K,"San Jose, CA",Computer Hardware & Software,$69K,$127K,San Jose,CA
+1529,$69K-$127K,"Palo Alto, CA",IT Services,$69K,$127K,Palo Alto,CA
+1530,$69K-$127K,"Santa Clara, CA",Computer Hardware & Software,$69K,$127K,Santa Clara,CA
+1531,$69K-$127K,"Menlo Park, CA",Unknown,$69K,$127K,Menlo Park,CA
+1532,$69K-$127K,"Menlo Park, CA",Brokerage Services,$69K,$127K,Menlo Park,CA
+1533,$69K-$127K,"Stanford, CA",Colleges & Universities,$69K,$127K,Stanford,CA
+1534,$69K-$127K,"Santa Clara, CA",Unknown,$69K,$127K,Santa Clara,CA
+1535,$69K-$127K,"San Jose, CA",Unknown,$69K,$127K,San Jose,CA
+1536,$69K-$127K,"Santa Clara, CA",Computer Hardware & Software,$69K,$127K,Santa Clara,CA
+1537,$69K-$127K,"Redwood City, CA",Staffing & Outsourcing,$69K,$127K,Redwood City,CA
+1538,$69K-$127K,"Cupertino, CA",Computer Hardware & Software,$69K,$127K,Cupertino,CA
+1539,$69K-$127K,"Redwood City, CA",Computer Hardware & Software,$69K,$127K,Redwood City,CA
+1540,$69K-$127K,"Mountain View, CA",IT Services,$69K,$127K,Mountain View,CA
+1541,$69K-$127K,"Sunnyvale, CA",Unknown,$69K,$127K,Sunnyvale,CA
+1542,$69K-$127K,"Sunnyvale, CA",Staffing & Outsourcing,$69K,$127K,Sunnyvale,CA
+1543,$69K-$127K,"Cupertino, CA",Staffing & Outsourcing,$69K,$127K,Cupertino,CA
+1544,$69K-$127K,"Mountain View, CA",Unknown,$69K,$127K,Mountain View,CA
+1545,$69K-$127K,"Fremont, CA",IT Services,$69K,$127K,Fremont,CA
+1546,$69K-$127K,"Stanford, CA",Colleges & Universities,$69K,$127K,Stanford,CA
+1547,$69K-$127K,"Sunnyvale, CA",Staffing & Outsourcing,$69K,$127K,Sunnyvale,CA
+1548,$69K-$127K,"San Jose, CA",IT Services,$69K,$127K,San Jose,CA
+1549,$69K-$127K,"Sunnyvale, CA",Biotech & Pharmaceuticals,$69K,$127K,Sunnyvale,CA
+1550,$69K-$127K,"San Jose, CA",IT Services,$69K,$127K,San Jose,CA
+1551,$69K-$127K,"San Jose, CA",IT Services,$69K,$127K,San Jose,CA
+1552,$69K-$127K,"Santa Clara, CA",IT Services,$69K,$127K,Santa Clara,CA
+1553,$69K-$127K,"Santa Clara, CA",Computer Hardware & Software,$69K,$127K,Santa Clara,CA
+1554,$69K-$127K,"San Jose, CA",IT Services,$69K,$127K,San Jose,CA
+1555,$51K-$93K,"San Jose, CA",IT Services,$51K,$93K,San Jose,CA
+1556,$51K-$93K,"Palo Alto, CA",Consumer Electronics & Appliances Stores,$51K,$93K,Palo Alto,CA
+1557,$51K-$93K,"Santa Clara, CA",Computer Hardware & Software,$51K,$93K,Santa Clara,CA
+1558,$51K-$93K,"Menlo Park, CA",Staffing & Outsourcing,$51K,$93K,Menlo Park,CA
+1559,$51K-$93K,"San Jose, CA",Computer Hardware & Software,$51K,$93K,San Jose,CA
+1560,$51K-$93K,"Mountain View, CA",Health Care Services & Hospitals,$51K,$93K,Mountain View,CA
+1561,$51K-$93K,"Fremont, CA",Unknown,$51K,$93K,Fremont,CA
+1562,$51K-$93K,"Sunnyvale, CA",Biotech & Pharmaceuticals,$51K,$93K,Sunnyvale,CA
+1563,$51K-$93K,"Cupertino, CA",Advertising & Marketing,$51K,$93K,Cupertino,CA
+1564,$51K-$93K,"East Palo Alto, CA",Internet,$51K,$93K,East Palo Alto,CA
+1565,$51K-$93K,"Menlo Park, CA",Unknown,$51K,$93K,Menlo Park,CA
+1566,$51K-$93K,"Redwood City, CA",Unknown,$51K,$93K,Redwood City,CA
+1567,$51K-$93K,"Pleasanton, CA",Accounting,$51K,$93K,Pleasanton,CA
+1568,$51K-$93K,"Pleasanton, CA",Accounting,$51K,$93K,Pleasanton,CA
+1569,$51K-$93K,"San Jose, CA",IT Services,$51K,$93K,San Jose,CA
+1570,$51K-$93K,"Sunnyvale, CA",Architectural & Engineering Services,$51K,$93K,Sunnyvale,CA
+1571,$51K-$93K,"Mountain View, CA",Health Care Services & Hospitals,$51K,$93K,Mountain View,CA
+1572,$51K-$93K,"Union City, CA",Industrial Manufacturing,$51K,$93K,Union City,CA
+1573,$51K-$93K,"San Jose, CA",Enterprise Software & Network Solutions,$51K,$93K,San Jose,CA
+1574,$51K-$93K,"Mountain View, CA",Unknown,$51K,$93K,Mountain View,CA
+1575,$51K-$93K,"Redwood City, CA",Colleges & Universities,$51K,$93K,Redwood City,CA
+1576,$51K-$93K,"San Jose, CA",IT Services,$51K,$93K,San Jose,CA
+1577,$51K-$93K,"Palo Alto, CA",Consulting,$51K,$93K,Palo Alto,CA
+1578,$51K-$93K,"Mountain View, CA",Computer Hardware & Software,$51K,$93K,Mountain View,CA
+1579,$51K-$93K,"Palo Alto, CA",Health Care Services & Hospitals,$51K,$93K,Palo Alto,CA
+1580,$51K-$93K,"Sunnyvale, CA",Biotech & Pharmaceuticals,$51K,$93K,Sunnyvale,CA
+1581,$51K-$93K,"Milpitas, CA",Consulting,$51K,$93K,Milpitas,CA
+1582,$51K-$93K,"Palo Alto, CA",Consulting,$51K,$93K,Palo Alto,CA
+1583,$51K-$93K,"Cupertino, CA",Staffing & Outsourcing,$51K,$93K,Cupertino,CA
+1584,$58K-$93K,"Cupertino, CA",Staffing & Outsourcing,$58K,$93K,Cupertino,CA
+1585,$58K-$93K,"Union City, CA",Health Care Services & Hospitals,$58K,$93K,Union City,CA
+1586,$58K-$93K,"Menlo Park, CA",Internet,$58K,$93K,Menlo Park,CA
+1587,$58K-$93K,"Milpitas, CA",Enterprise Software & Network Solutions,$58K,$93K,Milpitas,CA
+1588,$58K-$93K,"Cupertino, CA",Advertising & Marketing,$58K,$93K,Cupertino,CA
+1589,$58K-$93K,"San Jose, CA",IT Services,$58K,$93K,San Jose,CA
+1590,$58K-$93K,"Milpitas, CA",Unknown,$58K,$93K,Milpitas,CA
+1591,$58K-$93K,"Santa Clara, CA",Insurance Agencies & Brokerages,$58K,$93K,Santa Clara,CA
+1592,$58K-$93K,"Palo Alto, CA",Biotech & Pharmaceuticals,$58K,$93K,Palo Alto,CA
+1593,$58K-$93K,"Milpitas, CA",Enterprise Software & Network Solutions,$58K,$93K,Milpitas,CA
+1594,$58K-$93K,"San Jose, CA",Unknown,$58K,$93K,San Jose,CA
+1595,$58K-$93K,"Mountain View, CA",Staffing & Outsourcing,$58K,$93K,Mountain View,CA
+1596,$58K-$93K,"Union City, CA",Industrial Manufacturing,$58K,$93K,Union City,CA
+1597,$58K-$93K,"Mountain View, CA",Staffing & Outsourcing,$58K,$93K,Mountain View,CA
+1598,$58K-$93K,"Sunnyvale, CA",Computer Hardware & Software,$58K,$93K,Sunnyvale,CA
+1599,$58K-$93K,"Santa Clara, CA",Unknown,$58K,$93K,Santa Clara,CA
+1600,$58K-$93K,"Sunnyvale, CA",Staffing & Outsourcing,$58K,$93K,Sunnyvale,CA
+1601,$58K-$93K,"San Jose, CA",IT Services,$58K,$93K,San Jose,CA
+1602,$58K-$93K,"Sunnyvale, CA",Computer Hardware & Software,$58K,$93K,Sunnyvale,CA
+1603,$58K-$93K,"Menlo Park, CA",IT Services,$58K,$93K,Menlo Park,CA
+1604,$58K-$93K,"Santa Clara, CA",Computer Hardware & Software,$58K,$93K,Santa Clara,CA
+1605,$58K-$93K,"Palo Alto, CA",Consulting,$58K,$93K,Palo Alto,CA
+1606,$58K-$93K,"Milpitas, CA",IT Services,$58K,$93K,Milpitas,CA
+1607,$58K-$93K,"Mountain View, CA",Consulting,$58K,$93K,Mountain View,CA
+1608,$58K-$93K,"Mountain View, CA",Internet,$58K,$93K,Mountain View,CA
+1609,$58K-$93K,"Fremont, CA",Unknown,$58K,$93K,Fremont,CA
+1610,$58K-$93K,"Redwood City, CA",Staffing & Outsourcing,$58K,$93K,Redwood City,CA
+1611,$58K-$93K,"Cupertino, CA",Consulting,$58K,$93K,Cupertino,CA
+1612,$58K-$93K,"Santa Clara, CA",IT Services,$58K,$93K,Santa Clara,CA
+1613,$58K-$93K,"San Jose, CA",Computer Hardware & Software,$58K,$93K,San Jose,CA
+1614,$58K-$93K,"Pleasanton, CA",Accounting,$58K,$93K,Pleasanton,CA
+1615,$63K-$116K,"Redwood City, CA",Biotech & Pharmaceuticals,$63K,$116K,Redwood City,CA
+1616,$63K-$116K,"Palo Alto, CA",Consulting,$63K,$116K,Palo Alto,CA
+1617,$63K-$116K,"San Jose, CA",IT Services,$63K,$116K,San Jose,CA
+1618,$63K-$116K,"Campbell, CA",Staffing & Outsourcing,$63K,$116K,Campbell,CA
+1619,$63K-$116K,"Menlo Park, CA",Staffing & Outsourcing,$63K,$116K,Menlo Park,CA
+1620,$63K-$116K,"Mountain View, CA",Biotech & Pharmaceuticals,$63K,$116K,Mountain View,CA
+1621,$63K-$116K,"Fremont, CA","Health, Beauty, & Fitness",$63K,$116K,Fremont,CA
+1622,$63K-$116K,"San Jose, CA",Consulting,$63K,$116K,San Jose,CA
+1623,$63K-$116K,"Palo Alto, CA",Consulting,$63K,$116K,Palo Alto,CA
+1624,$63K-$116K,"Santa Clara, CA",Consulting,$63K,$116K,Santa Clara,CA
+1625,$63K-$116K,"Mountain View, CA",Staffing & Outsourcing,$63K,$116K,Mountain View,CA
+1626,$63K-$116K,"San Jose, CA",Unknown,$63K,$116K,San Jose,CA
+1627,$63K-$116K,"Santa Clara, CA",Unknown,$63K,$116K,Santa Clara,CA
+1628,$63K-$116K,"Mountain View, CA",Unknown,$63K,$116K,Mountain View,CA
+1629,$63K-$116K,"Palo Alto, CA",Financial Transaction Processing,$63K,$116K,Palo Alto,CA
+1630,$63K-$116K,"Santa Clara, CA",IT Services,$63K,$116K,Santa Clara,CA
+1631,$63K-$116K,"Pleasanton, CA",Accounting,$63K,$116K,Pleasanton,CA
+1632,$63K-$116K,"Santa Clara, CA",Computer Hardware & Software,$63K,$116K,Santa Clara,CA
+1633,$63K-$116K,"Palo Alto, CA",Advertising & Marketing,$63K,$116K,Palo Alto,CA
+1634,$63K-$116K,"Redwood City, CA",Computer Hardware & Software,$63K,$116K,Redwood City,CA
+1635,$42K-$76K,"Austin, TX",Internet,$42K,$76K,Austin,TX
+1636,$42K-$76K,"Austin, TX",Internet,$42K,$76K,Austin,TX
+1637,$42K-$76K,"Austin, TX",Advertising & Marketing,$42K,$76K,Austin,TX
+1638,$42K-$76K,"Austin, TX",Computer Hardware & Software,$42K,$76K,Austin,TX
+1639,$42K-$76K,"Austin, TX",Internet,$42K,$76K,Austin,TX
+1640,$42K-$76K,"Austin, TX",Advertising & Marketing,$42K,$76K,Austin,TX
+1641,$42K-$76K,"Austin, TX",State & Regional Agencies,$42K,$76K,Austin,TX
+1642,$42K-$76K,"Austin, TX",Colleges & Universities,$42K,$76K,Austin,TX
+1643,$42K-$76K,"Austin, TX",Internet,$42K,$76K,Austin,TX
+1644,$42K-$76K,"Austin, TX",State & Regional Agencies,$42K,$76K,Austin,TX
+1645,$42K-$76K,"Austin, TX",Video Games,$42K,$76K,Austin,TX
+1646,$42K-$76K,"Austin, TX",Staffing & Outsourcing,$42K,$76K,Austin,TX
+1647,$42K-$76K,"Austin, TX",Investment Banking & Asset Management,$42K,$76K,Austin,TX
+1648,$42K-$76K,"Austin, TX",Health Care Services & Hospitals,$42K,$76K,Austin,TX
+1649,$42K-$76K,"Austin, TX",Investment Banking & Asset Management,$42K,$76K,Austin,TX
+1650,$42K-$76K,"Austin, TX",State & Regional Agencies,$42K,$76K,Austin,TX
+1651,$42K-$76K,"Austin, TX",IT Services,$42K,$76K,Austin,TX
+1652,$42K-$76K,"Austin, TX",Advertising & Marketing,$42K,$76K,Austin,TX
+1653,$42K-$76K,"Austin, TX",Advertising & Marketing,$42K,$76K,Austin,TX
+1654,$42K-$76K,"Austin, TX",Computer Hardware & Software,$42K,$76K,Austin,TX
+1655,$42K-$76K,"Austin, TX",Computer Hardware & Software,$42K,$76K,Austin,TX
+1656,$42K-$76K,"Austin, TX",IT Services,$42K,$76K,Austin,TX
+1657,$42K-$76K,"Austin, TX",Enterprise Software & Network Solutions,$42K,$76K,Austin,TX
+1658,$42K-$76K,"Austin, TX",Video Games,$42K,$76K,Austin,TX
+1659,$42K-$76K,"Austin, TX",IT Services,$42K,$76K,Austin,TX
+1660,$42K-$76K,"Austin, TX",Health Care Services & Hospitals,$42K,$76K,Austin,TX
+1661,$42K-$76K,"Austin, TX",Staffing & Outsourcing,$42K,$76K,Austin,TX
+1662,$53K-$104K,"Austin, TX",Internet,$53K,$104K,Austin,TX
+1663,$53K-$104K,"Austin, TX",IT Services,$53K,$104K,Austin,TX
+1664,$53K-$104K,"Austin, TX",Health Care Services & Hospitals,$53K,$104K,Austin,TX
+1665,$53K-$104K,"Austin, TX",State & Regional Agencies,$53K,$104K,Austin,TX
+1666,$53K-$104K,"Austin, TX",State & Regional Agencies,$53K,$104K,Austin,TX
+1667,$53K-$104K,"Austin, TX",Computer Hardware & Software,$53K,$104K,Austin,TX
+1668,$53K-$104K,"Austin, TX",Investment Banking & Asset Management,$53K,$104K,Austin,TX
+1669,$53K-$104K,"Austin, TX",Unknown,$53K,$104K,Austin,TX
+1670,$53K-$104K,"Austin, TX",Energy,$53K,$104K,Austin,TX
+1671,$53K-$104K,"Austin, TX",Internet,$53K,$104K,Austin,TX
+1672,$53K-$104K,"Austin, TX",State & Regional Agencies,$53K,$104K,Austin,TX
+1673,$53K-$104K,"Austin, TX",Unknown,$53K,$104K,Austin,TX
+1674,$53K-$104K,"Austin, TX",IT Services,$53K,$104K,Austin,TX
+1675,$53K-$104K,"Austin, TX",Computer Hardware & Software,$53K,$104K,Austin,TX
+1676,$53K-$104K,"Austin, TX",Consulting,$53K,$104K,Austin,TX
+1677,$53K-$104K,"Austin, TX",State & Regional Agencies,$53K,$104K,Austin,TX
+1678,$53K-$104K,"Austin, TX",Insurance Carriers,$53K,$104K,Austin,TX
+1679,$53K-$104K,"Austin, TX",Staffing & Outsourcing,$53K,$104K,Austin,TX
+1680,$53K-$104K,"Austin, TX",Unknown,$53K,$104K,Austin,TX
+1681,$53K-$104K,"Austin, TX",Staffing & Outsourcing,$53K,$104K,Austin,TX
+1682,$53K-$104K,"Austin, TX",Enterprise Software & Network Solutions,$53K,$104K,Austin,TX
+1683,$53K-$104K,"Austin, TX",Computer Hardware & Software,$53K,$104K,Austin,TX
+1684,$53K-$104K,"Austin, TX",Computer Hardware & Software,$53K,$104K,Austin,TX
+1685,$53K-$104K,"Austin, TX",Internet,$53K,$104K,Austin,TX
+1686,$53K-$104K,"Austin, TX",Unknown,$53K,$104K,Austin,TX
+1687,$53K-$104K,"Austin, TX",Internet,$53K,$104K,Austin,TX
+1688,$35K-$42K,"Austin, TX",Health Care Services & Hospitals,$35K,$42K,Austin,TX
+1689,$35K-$42K,"Austin, TX",Health Care Services & Hospitals,$35K,$42K,Austin,TX
+1690,$35K-$42K,"Austin, TX",State & Regional Agencies,$35K,$42K,Austin,TX
+1691,$35K-$42K,"Austin, TX",IT Services,$35K,$42K,Austin,TX
+1692,$35K-$42K,"Austin, TX",Banks & Credit Unions,$35K,$42K,Austin,TX
+1693,$35K-$42K,"Austin, TX",Accounting,$35K,$42K,Austin,TX
+1694,$35K-$42K,"Austin, TX",Consulting,$35K,$42K,Austin,TX
+1695,$35K-$42K,"Austin, TX",IT Services,$35K,$42K,Austin,TX
+1696,$35K-$42K,"Austin, TX",Unknown,$35K,$42K,Austin,TX
+1697,$35K-$42K,"Austin, TX",Consulting,$35K,$42K,Austin,TX
+1698,$35K-$42K,"Austin, TX",IT Services,$35K,$42K,Austin,TX
+1699,$35K-$42K,"Austin, TX",Insurance Carriers,$35K,$42K,Austin,TX
+1700,$35K-$42K,"Austin, TX",Health Care Services & Hospitals,$35K,$42K,Austin,TX
+1701,$35K-$42K,"West Lake Hills, TX",Unknown,$35K,$42K,West Lake Hills,TX
+1702,$35K-$42K,"Austin, TX",State & Regional Agencies,$35K,$42K,Austin,TX
+1703,$35K-$42K,"Austin, TX",Health Care Services & Hospitals,$35K,$42K,Austin,TX
+1704,$35K-$42K,"Austin, TX",IT Services,$35K,$42K,Austin,TX
+1705,$35K-$42K,"Austin, TX",Health Care Services & Hospitals,$35K,$42K,Austin,TX
+1706,$35K-$42K,"Austin, TX",IT Services,$35K,$42K,Austin,TX
+1707,$35K-$42K,"Austin, TX",State & Regional Agencies,$35K,$42K,Austin,TX
+1708,$35K-$42K,"Austin, TX",Unknown,$35K,$42K,Austin,TX
+1709,$35K-$42K,"Austin, TX",Membership Organizations,$35K,$42K,Austin,TX
+1710,$35K-$42K,"Round Rock, TX",Advertising & Marketing,$35K,$42K,Round Rock,TX
+1711,$35K-$42K,"Austin, TX",Membership Organizations,$35K,$42K,Austin,TX
+1712,$35K-$42K,"Austin, TX",Unknown,$35K,$42K,Austin,TX
+1713,$35K-$42K,"Cedar Park, TX",Trucking,$35K,$42K,Cedar Park,TX
+1714,$35K-$42K,"Austin, TX",Unknown,$35K,$42K,Austin,TX
+1715,$35K-$42K,"Austin, TX",Insurance Carriers,$35K,$42K,Austin,TX
+1716,$35K-$42K,"Round Rock, TX",IT Services,$35K,$42K,Round Rock,TX
+1717,$35K-$42K,"Austin, TX",State & Regional Agencies,$35K,$42K,Austin,TX
+1718,$43K-$77K,"Austin, TX",State & Regional Agencies,$43K,$77K,Austin,TX
+1719,$43K-$77K,"Round Rock, TX",Staffing & Outsourcing,$43K,$77K,Round Rock,TX
+1720,$43K-$77K,"Austin, TX",Municipal Governments,$43K,$77K,Austin,TX
+1721,$40K-$72K,"Jacksonville, FL",Staffing & Outsourcing,$40K,$72K,Jacksonville,FL
+1722,$40K-$72K,"Jacksonville, FL",Staffing & Outsourcing,$40K,$72K,Jacksonville,FL
+1723,$40K-$72K,"Jacksonville, FL",Investment Banking & Asset Management,$40K,$72K,Jacksonville,FL
+1724,$40K-$72K,"Jacksonville, FL",Staffing & Outsourcing,$40K,$72K,Jacksonville,FL
+1725,$40K-$72K,"Jacksonville, FL",IT Services,$40K,$72K,Jacksonville,FL
+1726,$40K-$72K,"Jacksonville, FL",Architectural & Engineering Services,$40K,$72K,Jacksonville,FL
+1727,$40K-$72K,"Jacksonville, FL",Staffing & Outsourcing,$40K,$72K,Jacksonville,FL
+1728,$40K-$72K,"Jacksonville, FL",Investment Banking & Asset Management,$40K,$72K,Jacksonville,FL
+1729,$40K-$72K,"Jacksonville, FL",Advertising & Marketing,$40K,$72K,Jacksonville,FL
+1730,$40K-$72K,"Jacksonville, FL",IT Services,$40K,$72K,Jacksonville,FL
+1731,$40K-$72K,"Jacksonville, FL",Investment Banking & Asset Management,$40K,$72K,Jacksonville,FL
+1732,$40K-$72K,"Jacksonville, FL",IT Services,$40K,$72K,Jacksonville,FL
+1733,$40K-$72K,"Jacksonville, FL",Unknown,$40K,$72K,Jacksonville,FL
+1734,$40K-$72K,"Jacksonville, FL",Unknown,$40K,$72K,Jacksonville,FL
+1735,$40K-$72K,"Jacksonville, FL",Insurance Carriers,$40K,$72K,Jacksonville,FL
+1736,$40K-$72K,"Jacksonville, FL",Investment Banking & Asset Management,$40K,$72K,Jacksonville,FL
+1737,$40K-$72K,"Jacksonville, FL",Staffing & Outsourcing,$40K,$72K,Jacksonville,FL
+1738,$40K-$72K,"Jacksonville, FL",IT Services,$40K,$72K,Jacksonville,FL
+1739,$40K-$72K,"Jacksonville, FL",Unknown,$40K,$72K,Jacksonville,FL
+1740,$50K-$86K,"Fort Worth, TX",Aerospace & Defense,$50K,$86K,Fort Worth,TX
+1741,$50K-$86K,"Fort Worth, TX",Unknown,$50K,$86K,Fort Worth,TX
+1742,$50K-$86K,"Fort Worth, TX",Staffing & Outsourcing,$50K,$86K,Fort Worth,TX
+1743,$50K-$86K,"Fort Worth, TX",IT Services,$50K,$86K,Fort Worth,TX
+1744,$50K-$86K,"Fort Worth, TX",Aerospace & Defense,$50K,$86K,Fort Worth,TX
+1745,$50K-$86K,"Fort Worth, TX",IT Services,$50K,$86K,Fort Worth,TX
+1746,$50K-$86K,"Irving, TX",IT Services,$50K,$86K,Irving,TX
+1747,$50K-$86K,"Fort Worth, TX",Staffing & Outsourcing,$50K,$86K,Fort Worth,TX
+1748,$50K-$86K,"Fort Worth, TX",Aerospace & Defense,$50K,$86K,Fort Worth,TX
+1749,$50K-$86K,"Fort Worth, TX",Lending,$50K,$86K,Fort Worth,TX
+1750,$50K-$86K,"Roanoke, TX",Commercial Equipment Repair & Maintenance,$50K,$86K,Roanoke,TX
+1751,$35K-$67K,"Fort Worth, TX",Transportation Management,$35K,$67K,Fort Worth,TX
+1752,$35K-$67K,"Fort Worth, TX",IT Services,$35K,$67K,Fort Worth,TX
+1753,$35K-$67K,"Fort Worth, TX",IT Services,$35K,$67K,Fort Worth,TX
+1754,$35K-$67K,"Westlake, TX",Staffing & Outsourcing,$35K,$67K,Westlake,TX
+1755,$35K-$67K,"Fort Worth, TX",Unknown,$35K,$67K,Fort Worth,TX
+1756,$35K-$67K,"Fort Worth, TX",Unknown,$35K,$67K,Fort Worth,TX
+1757,$35K-$67K,"Fort Worth, TX",IT Services,$35K,$67K,Fort Worth,TX
+1758,$57K-$70K,"Fort Worth, TX",Computer Hardware & Software,$57K,$70K,Fort Worth,TX
+1759,$57K-$70K,"Westlake, TX",IT Services,$57K,$70K,Westlake,TX
+1760,$28K-$52K,"Columbus, OH",Staffing & Outsourcing,$28K,$52K,Columbus,OH
+1761,$28K-$52K,"Columbus, OH",Enterprise Software & Network Solutions,$28K,$52K,Columbus,OH
+1762,$28K-$52K,"Columbus, OH",Health Care Services & Hospitals,$28K,$52K,Columbus,OH
+1763,$28K-$52K,"Columbus, OH",Banks & Credit Unions,$28K,$52K,Columbus,OH
+1764,$28K-$52K,"Columbus, OH","Department, Clothing, & Shoe Stores",$28K,$52K,Columbus,OH
+1765,$28K-$52K,"Columbus, OH",Investment Banking & Asset Management,$28K,$52K,Columbus,OH
+1766,$28K-$52K,"Columbus, OH",Unknown,$28K,$52K,Columbus,OH
+1767,$28K-$52K,"Westerville, OH",Logistics & Supply Chain,$28K,$52K,Westerville,OH
+1768,$28K-$52K,"Columbus, OH",Health Care Services & Hospitals,$28K,$52K,Columbus,OH
+1769,$28K-$52K,"Columbus, OH",IT Services,$28K,$52K,Columbus,OH
+1770,$28K-$52K,"Columbus, OH",Lending,$28K,$52K,Columbus,OH
+1771,$28K-$52K,"Hilliard, OH",Staffing & Outsourcing,$28K,$52K,Hilliard,OH
+1772,$28K-$52K,"Columbus, OH",Health Care Services & Hospitals,$28K,$52K,Columbus,OH
+1773,$28K-$52K,"Columbus, OH",Accounting,$28K,$52K,Columbus,OH
+1774,$28K-$52K,"Columbus, OH",IT Services,$28K,$52K,Columbus,OH
+1775,$28K-$52K,"Columbus, OH",Health Care Services & Hospitals,$28K,$52K,Columbus,OH
+1776,$28K-$52K,"Columbus, OH",Staffing & Outsourcing,$28K,$52K,Columbus,OH
+1777,$28K-$52K,"Columbus, OH",Unknown,$28K,$52K,Columbus,OH
+1778,$28K-$52K,"Columbus, OH",Unknown,$28K,$52K,Columbus,OH
+1779,$28K-$52K,"Dublin, OH",IT Services,$28K,$52K,Dublin,OH
+1780,$28K-$52K,"Columbus, OH",Unknown,$28K,$52K,Columbus,OH
+1781,$28K-$52K,"Columbus, OH",IT Services,$28K,$52K,Columbus,OH
+1782,$28K-$52K,"Columbus, OH",Health Care Services & Hospitals,$28K,$52K,Columbus,OH
+1783,$28K-$52K,"Columbus, OH",IT Services,$28K,$52K,Columbus,OH
+1784,$28K-$52K,"Hilliard, OH",Staffing & Outsourcing,$28K,$52K,Hilliard,OH
+1785,$28K-$52K,"Columbus, OH",IT Services,$28K,$52K,Columbus,OH
+1786,$28K-$52K,"Dublin, OH",IT Services,$28K,$52K,Dublin,OH
+1787,$28K-$52K,"Columbus, OH",Health Care Services & Hospitals,$28K,$52K,Columbus,OH
+1788,$46K-$86K,"Columbus, OH",Unknown,$46K,$86K,Columbus,OH
+1789,$46K-$86K,"Columbus, OH",Unknown,$46K,$86K,Columbus,OH
+1790,$46K-$86K,"Columbus, OH",Unknown,$46K,$86K,Columbus,OH
+1791,$46K-$86K,"Columbus, OH",Health Care Services & Hospitals,$46K,$86K,Columbus,OH
+1792,$46K-$86K,"Columbus, OH",Health Care Services & Hospitals,$46K,$86K,Columbus,OH
+1793,$46K-$86K,"Columbus, OH",Investment Banking & Asset Management,$46K,$86K,Columbus,OH
+1794,$46K-$86K,"Westerville, OH",Staffing & Outsourcing,$46K,$86K,Westerville,OH
+1795,$50K-$86K,"Charlotte, NC",Banks & Credit Unions,$50K,$86K,Charlotte,NC
+1796,$50K-$86K,"Charlotte, NC",Insurance Carriers,$50K,$86K,Charlotte,NC
+1797,$50K-$86K,"Charlotte, NC",Unknown,$50K,$86K,Charlotte,NC
+1798,$50K-$86K,"Charlotte, NC",Consulting,$50K,$86K,Charlotte,NC
+1799,$50K-$86K,"Charlotte, NC",Computer Hardware & Software,$50K,$86K,Charlotte,NC
+1800,$50K-$86K,"Mooresville, NC",Venture Capital & Private Equity,$50K,$86K,Mooresville,NC
+1801,$50K-$86K,"Charlotte, NC",Enterprise Software & Network Solutions,$50K,$86K,Charlotte,NC
+1802,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1803,$50K-$86K,"Charlotte, NC",IT Services,$50K,$86K,Charlotte,NC
+1804,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1805,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1806,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1807,$50K-$86K,"Charlotte, NC",IT Services,$50K,$86K,Charlotte,NC
+1808,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1809,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1810,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1811,$50K-$86K,"Charlotte, NC",Enterprise Software & Network Solutions,$50K,$86K,Charlotte,NC
+1812,$50K-$86K,"Charlotte, NC",IT Services,$50K,$86K,Charlotte,NC
+1813,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1814,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1815,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1816,$50K-$86K,"Charlotte, NC",IT Services,$50K,$86K,Charlotte,NC
+1817,$50K-$86K,"Charlotte, NC",Consulting,$50K,$86K,Charlotte,NC
+1818,$50K-$86K,"Charlotte, NC",Accounting,$50K,$86K,Charlotte,NC
+1819,$50K-$86K,"Charlotte, NC",Staffing & Outsourcing,$50K,$86K,Charlotte,NC
+1820,$50K-$86K,"Charlotte, NC",Unknown,$50K,$86K,Charlotte,NC
+1821,$50K-$86K,"Charlotte, NC",Logistics & Supply Chain,$50K,$86K,Charlotte,NC
+1822,$50K-$86K,"Charlotte, NC",IT Services,$50K,$86K,Charlotte,NC
+1823,$50K-$86K,"Charlotte, NC",Investment Banking & Asset Management,$50K,$86K,Charlotte,NC
+1824,$50K-$86K,"Charlotte, NC",Consulting,$50K,$86K,Charlotte,NC
+1825,$54K-$75K,"Charlotte, NC",Unknown,$54K,$75K,Charlotte,NC
+1826,$54K-$75K,"Charlotte, NC",Health Care Services & Hospitals,$54K,$75K,Charlotte,NC
+1827,$54K-$75K,"Huntersville, NC",Logistics & Supply Chain,$54K,$75K,Huntersville,NC
+1828,$54K-$75K,"Charlotte, NC",IT Services,$54K,$75K,Charlotte,NC
+1829,$54K-$75K,"Charlotte, NC",Staffing & Outsourcing,$54K,$75K,Charlotte,NC
+1830,$54K-$75K,"Charlotte, NC",Staffing & Outsourcing,$54K,$75K,Charlotte,NC
+1831,$54K-$75K,"Charlotte, NC",Staffing & Outsourcing,$54K,$75K,Charlotte,NC
+1832,$54K-$75K,"Fort Mill, SC",Unknown,$54K,$75K,Fort Mill,SC
+1833,$54K-$75K,"Fort Mill, SC",Staffing & Outsourcing,$54K,$75K,Fort Mill,SC
+1834,$54K-$75K,"Charlotte, NC",Consulting,$54K,$75K,Charlotte,NC
+1835,$54K-$75K,"Charlotte, NC",Investment Banking & Asset Management,$54K,$75K,Charlotte,NC
+1836,$54K-$75K,"Charlotte, NC",Unknown,$54K,$75K,Charlotte,NC
+1837,$54K-$75K,"Indian Trail, NC",General Repair & Maintenance,$54K,$75K,Indian Trail,NC
+1838,$54K-$75K,"Charlotte, NC",Staffing & Outsourcing,$54K,$75K,Charlotte,NC
+1839,$54K-$75K,"Charlotte, NC",Consulting,$54K,$75K,Charlotte,NC
+1840,$54K-$75K,"Huntersville, NC",Computer Hardware & Software,$54K,$75K,Huntersville,NC
+1841,$54K-$75K,"Charlotte, NC",IT Services,$54K,$75K,Charlotte,NC
+1842,$54K-$75K,"Charlotte, NC",IT Services,$54K,$75K,Charlotte,NC
+1843,$54K-$75K,"Charlotte, NC",IT Services,$54K,$75K,Charlotte,NC
+1844,$54K-$75K,"Charlotte, NC",Unknown,$54K,$75K,Charlotte,NC
+1845,$54K-$75K,"Charlotte, NC",Stock Exchanges,$54K,$75K,Charlotte,NC
+1846,$54K-$75K,"Charlotte, NC",Staffing & Outsourcing,$54K,$75K,Charlotte,NC
+1847,$54K-$75K,"Charlotte, NC",IT Services,$54K,$75K,Charlotte,NC
+1848,$54K-$75K,"Charlotte, NC",Unknown,$54K,$75K,Charlotte,NC
+1849,$54K-$75K,"Charlotte, NC",Staffing & Outsourcing,$54K,$75K,Charlotte,NC
+1850,$54K-$75K,"Charlotte, NC",Health Care Services & Hospitals,$54K,$75K,Charlotte,NC
+1851,$54K-$75K,"Charlotte, NC",IT Services,$54K,$75K,Charlotte,NC
+1852,$54K-$75K,"Charlotte, NC",Unknown,$54K,$75K,Charlotte,NC
+1853,$53K-$99K,"Fort Mill, SC",IT Services,$53K,$99K,Fort Mill,SC
+1854,$53K-$99K,"Huntersville, NC",Computer Hardware & Software,$53K,$99K,Huntersville,NC
+1855,$53K-$99K,"Charlotte, NC",Staffing & Outsourcing,$53K,$99K,Charlotte,NC
+1856,$53K-$99K,"Charlotte, NC",Staffing & Outsourcing,$53K,$99K,Charlotte,NC
+1857,$53K-$99K,"Charlotte, NC",Consulting,$53K,$99K,Charlotte,NC
+1858,$53K-$99K,"Charlotte, NC",IT Services,$53K,$99K,Charlotte,NC
+1859,$53K-$99K,"Charlotte, NC",Computer Hardware & Software,$53K,$99K,Charlotte,NC
+1860,$53K-$99K,"Mooresville, NC",Unknown,$53K,$99K,Mooresville,NC
+1861,$53K-$99K,"Charlotte, NC",Staffing & Outsourcing,$53K,$99K,Charlotte,NC
+1862,$53K-$99K,"Mooresville, NC",Home Centers & Hardware Stores,$53K,$99K,Mooresville,NC
+1863,$53K-$99K,"Charlotte, NC",Architectural & Engineering Services,$53K,$99K,Charlotte,NC
+1864,$53K-$99K,"Huntersville, NC",Logistics & Supply Chain,$53K,$99K,Huntersville,NC
+1865,$53K-$99K,"Charlotte, NC",Unknown,$53K,$99K,Charlotte,NC
+1866,$53K-$99K,"Charlotte, NC",IT Services,$53K,$99K,Charlotte,NC
+1867,$53K-$99K,"Charlotte, NC",Automotive Parts & Accessories Stores,$53K,$99K,Charlotte,NC
+1868,$53K-$99K,"Charlotte, NC",IT Services,$53K,$99K,Charlotte,NC
+1869,$53K-$99K,"Charlotte, NC",Unknown,$53K,$99K,Charlotte,NC
+1870,$53K-$99K,"Charlotte, NC",Unknown,$53K,$99K,Charlotte,NC
+1871,$53K-$99K,"Mooresville, NC",Home Centers & Hardware Stores,$53K,$99K,Mooresville,NC
+1872,$53K-$99K,"Charlotte, NC",Staffing & Outsourcing,$53K,$99K,Charlotte,NC
+1873,$53K-$99K,"Charlotte, NC",Unknown,$53K,$99K,Charlotte,NC
+1874,$53K-$99K,"Charlotte, NC",Unknown,$53K,$99K,Charlotte,NC
+1875,$53K-$99K,"Charlotte, NC",IT Services,$53K,$99K,Charlotte,NC
+1876,$53K-$99K,"Charlotte, NC",IT Services,$53K,$99K,Charlotte,NC
+1877,$53K-$99K,"Charlotte, NC",Banks & Credit Unions,$53K,$99K,Charlotte,NC
+1878,$53K-$99K,"Charlotte, NC",Logistics & Supply Chain,$53K,$99K,Charlotte,NC
+1879,$40K-$74K,"Charlotte, NC",Banks & Credit Unions,$40K,$74K,Charlotte,NC
+1880,$40K-$74K,"Mooresville, NC",Advertising & Marketing,$40K,$74K,Mooresville,NC
+1881,$40K-$74K,"Charlotte, NC",Unknown,$40K,$74K,Charlotte,NC
+1882,$40K-$74K,"Charlotte, NC",Staffing & Outsourcing,$40K,$74K,Charlotte,NC
+1883,$40K-$74K,"Charlotte, NC",Insurance Carriers,$40K,$74K,Charlotte,NC
+1884,$40K-$74K,"Charlotte, NC",IT Services,$40K,$74K,Charlotte,NC
+1885,$40K-$74K,"Mooresville, NC",Home Centers & Hardware Stores,$40K,$74K,Mooresville,NC
+1886,$40K-$74K,"Charlotte, NC",IT Services,$40K,$74K,Charlotte,NC
+1887,$40K-$74K,"Mooresville, NC",Home Centers & Hardware Stores,$40K,$74K,Mooresville,NC
+1888,$57K-$104K,"San Francisco, CA",Computer Hardware & Software,$57K,$104K,San Francisco,CA
+1889,$57K-$104K,"San Rafael, CA","Department, Clothing, & Shoe Stores",$57K,$104K,San Rafael,CA
+1890,$57K-$104K,"San Francisco, CA",Internet,$57K,$104K,San Francisco,CA
+1891,$57K-$104K,"San Mateo, CA",Video Games,$57K,$104K,San Mateo,CA
+1892,$57K-$104K,"San Francisco, CA",Computer Hardware & Software,$57K,$104K,San Francisco,CA
+1893,$57K-$104K,"Oakland, CA",Enterprise Software & Network Solutions,$57K,$104K,Oakland,CA
+1894,$57K-$104K,"San Mateo, CA",Education Training Services,$57K,$104K,San Mateo,CA
+1895,$57K-$104K,"San Francisco, CA",Enterprise Software & Network Solutions,$57K,$104K,San Francisco,CA
+1896,$57K-$104K,"San Mateo, CA",Investment Banking & Asset Management,$57K,$104K,San Mateo,CA
+1897,$57K-$104K,"San Francisco, CA",Staffing & Outsourcing,$57K,$104K,San Francisco,CA
+1898,$57K-$104K,"San Francisco, CA",Internet,$57K,$104K,San Francisco,CA
+1899,$57K-$104K,"San Francisco, CA",Unknown,$57K,$104K,San Francisco,CA
+1900,$57K-$104K,"San Francisco, CA",Advertising & Marketing,$57K,$104K,San Francisco,CA
+1901,$57K-$104K,"San Francisco, CA",Computer Hardware & Software,$57K,$104K,San Francisco,CA
+1902,$57K-$104K,"San Francisco, CA",IT Services,$57K,$104K,San Francisco,CA
+1903,$57K-$104K,"San Francisco, CA",IT Services,$57K,$104K,San Francisco,CA
+1904,$57K-$104K,"San Francisco, CA",Internet,$57K,$104K,San Francisco,CA
+1905,$57K-$104K,"San Francisco, CA",Staffing & Outsourcing,$57K,$104K,San Francisco,CA
+1906,$57K-$104K,"San Francisco, CA",Computer Hardware & Software,$57K,$104K,San Francisco,CA
+1907,$57K-$104K,"San Francisco, CA",Computer Hardware & Software,$57K,$104K,San Francisco,CA
+1908,$57K-$104K,"San Francisco, CA",Logistics & Supply Chain,$57K,$104K,San Francisco,CA
+1909,$57K-$104K,"San Francisco, CA",Enterprise Software & Network Solutions,$57K,$104K,San Francisco,CA
+1910,$57K-$104K,"San Francisco, CA",Staffing & Outsourcing,$57K,$104K,San Francisco,CA
+1911,$57K-$104K,"San Mateo, CA",Enterprise Software & Network Solutions,$57K,$104K,San Mateo,CA
+1912,$57K-$104K,"San Francisco, CA",Real Estate,$57K,$104K,San Francisco,CA
+1913,$57K-$104K,"San Francisco, CA",Enterprise Software & Network Solutions,$57K,$104K,San Francisco,CA
+1914,$57K-$104K,"San Francisco, CA",Beauty & Personal Accessories Stores,$57K,$104K,San Francisco,CA
+1915,$99K-$178K,"San Francisco, CA",Architectural & Engineering Services,$99K,$178K,San Francisco,CA
+1916,$99K-$178K,"San Francisco, CA",Financial Transaction Processing,$99K,$178K,San Francisco,CA
+1917,$99K-$178K,"San Francisco, CA",Internet,$99K,$178K,San Francisco,CA
+1918,$99K-$178K,"San Francisco, CA",Computer Hardware & Software,$99K,$178K,San Francisco,CA
+1919,$99K-$178K,"San Francisco, CA",Internet,$99K,$178K,San Francisco,CA
+1920,$99K-$178K,"San Francisco, CA",Health Care Services & Hospitals,$99K,$178K,San Francisco,CA
+1921,$99K-$178K,"San Francisco, CA",Enterprise Software & Network Solutions,$99K,$178K,San Francisco,CA
+1922,$99K-$178K,"San Francisco, CA",Unknown,$99K,$178K,San Francisco,CA
+1923,$99K-$178K,"San Francisco, CA",Real Estate,$99K,$178K,San Francisco,CA
+1924,$99K-$178K,"San Francisco, CA",Health Care Services & Hospitals,$99K,$178K,San Francisco,CA
+1925,$99K-$178K,"San Francisco, CA",Health Care Services & Hospitals,$99K,$178K,San Francisco,CA
+1926,$99K-$178K,"San Francisco, CA",Electrical & Electronic Manufacturing,$99K,$178K,San Francisco,CA
+1927,$99K-$178K,"San Mateo, CA",Lending,$99K,$178K,San Mateo,CA
+1928,$99K-$178K,"San Francisco, CA",Lending,$99K,$178K,San Francisco,CA
+1929,$99K-$178K,"San Francisco, CA",Internet,$99K,$178K,San Francisco,CA
+1930,$99K-$178K,"San Francisco, CA",Unknown,$99K,$178K,San Francisco,CA
+1931,$99K-$178K,"San Francisco, CA",Internet,$99K,$178K,San Francisco,CA
+1932,$99K-$178K,"San Francisco, CA",Unknown,$99K,$178K,San Francisco,CA
+1933,$99K-$178K,"San Francisco, CA",Enterprise Software & Network Solutions,$99K,$178K,San Francisco,CA
+1934,$99K-$178K,"Oakland, CA","Department, Clothing, & Shoe Stores",$99K,$178K,Oakland,CA
+1935,$99K-$178K,"San Francisco, CA",Staffing & Outsourcing,$99K,$178K,San Francisco,CA
+1936,$99K-$178K,"San Francisco, CA",Staffing & Outsourcing,$99K,$178K,San Francisco,CA
+1937,$99K-$178K,"San Francisco, CA",Health Care Services & Hospitals,$99K,$178K,San Francisco,CA
+1938,$99K-$178K,"Berkeley, CA",Investment Banking & Asset Management,$99K,$178K,Berkeley,CA
+1939,$99K-$178K,"San Francisco, CA",Real Estate,$99K,$178K,San Francisco,CA
+1940,$99K-$178K,"Oakland, CA",Unknown,$99K,$178K,Oakland,CA
+1941,$99K-$178K,"San Francisco, CA",Internet,$99K,$178K,San Francisco,CA
+1942,$99K-$178K,"San Francisco, CA",Unknown,$99K,$178K,San Francisco,CA
+1943,$93K-$159K,"Oakland, CA",Consulting,$93K,$159K,Oakland,CA
+1944,$93K-$159K,"San Francisco, CA",Venture Capital & Private Equity,$93K,$159K,San Francisco,CA
+1945,$93K-$159K,"San Francisco, CA",IT Services,$93K,$159K,San Francisco,CA
+1946,$93K-$159K,"San Francisco, CA",Accounting,$93K,$159K,San Francisco,CA
+1947,$93K-$159K,"San Francisco, CA",Consulting,$93K,$159K,San Francisco,CA
+1948,$93K-$159K,"San Francisco, CA",Unknown,$93K,$159K,San Francisco,CA
+1949,$93K-$159K,"San Francisco, CA",IT Services,$93K,$159K,San Francisco,CA
+1950,$93K-$159K,"San Francisco, CA",Computer Hardware & Software,$93K,$159K,San Francisco,CA
+1951,$93K-$159K,"San Francisco, CA",Banks & Credit Unions,$93K,$159K,San Francisco,CA
+1952,$93K-$159K,"Burlingame, CA",Federal Agencies,$93K,$159K,Burlingame,CA
+1953,$93K-$159K,"San Francisco, CA",Staffing & Outsourcing,$93K,$159K,San Francisco,CA
+1954,$93K-$159K,"San Francisco, CA",Enterprise Software & Network Solutions,$93K,$159K,San Francisco,CA
+1955,$93K-$159K,"San Francisco, CA",Health Care Services & Hospitals,$93K,$159K,San Francisco,CA
+1956,$93K-$159K,"San Mateo, CA",Advertising & Marketing,$93K,$159K,San Mateo,CA
+1957,$93K-$159K,"San Mateo, CA",IT Services,$93K,$159K,San Mateo,CA
+1958,$93K-$159K,"Foster City, CA",IT Services,$93K,$159K,Foster City,CA
+1959,$93K-$159K,"San Francisco, CA",Banks & Credit Unions,$93K,$159K,San Francisco,CA
+1960,$93K-$159K,"Marin City, CA",Health Care Services & Hospitals,$93K,$159K,Marin City,CA
+1961,$93K-$159K,"San Francisco, CA",Internet,$93K,$159K,San Francisco,CA
+1962,$93K-$159K,"San Francisco, CA",IT Services,$93K,$159K,San Francisco,CA
+1963,$93K-$159K,"San Francisco, CA",IT Services,$93K,$159K,San Francisco,CA
+1964,$93K-$159K,"San Francisco, CA",Internet,$93K,$159K,San Francisco,CA
+1965,$93K-$159K,"Daly City, CA",Staffing & Outsourcing,$93K,$159K,Daly City,CA
+1966,$93K-$159K,"South San Francisco, CA",Biotech & Pharmaceuticals,$93K,$159K,South San Francisco,CA
+1967,$93K-$159K,"San Francisco, CA",Staffing & Outsourcing,$93K,$159K,San Francisco,CA
+1968,$82K-$116K,"San Francisco, CA",Health Care Services & Hospitals,$82K,$116K,San Francisco,CA
+1969,$82K-$116K,"San Mateo, CA",IT Services,$82K,$116K,San Mateo,CA
+1970,$82K-$116K,"San Francisco, CA",Unknown,$82K,$116K,San Francisco,CA
+1971,$82K-$116K,"San Francisco, CA",Unknown,$82K,$116K,San Francisco,CA
+1972,$82K-$116K,"Foster City, CA",Enterprise Software & Network Solutions,$82K,$116K,Foster City,CA
+1973,$82K-$116K,"Foster City, CA",Computer Hardware & Software,$82K,$116K,Foster City,CA
+1974,$82K-$116K,"San Francisco, CA",Unknown,$82K,$116K,San Francisco,CA
+1975,$82K-$116K,"Burlingame, CA",Computer Hardware & Software,$82K,$116K,Burlingame,CA
+1976,$82K-$116K,"San Francisco, CA",Consulting,$82K,$116K,San Francisco,CA
+1977,$82K-$116K,"San Bruno, CA",Unknown,$82K,$116K,San Bruno,CA
+1978,$82K-$116K,"Oakland, CA",Unknown,$82K,$116K,Oakland,CA
+1979,$82K-$116K,"San Mateo, CA",Enterprise Software & Network Solutions,$82K,$116K,San Mateo,CA
+1980,$82K-$116K,"Emeryville, CA",Biotech & Pharmaceuticals,$82K,$116K,Emeryville,CA
+1981,$82K-$116K,"San Francisco, CA",Internet,$82K,$116K,San Francisco,CA
+1982,$82K-$116K,"San Francisco, CA","Health, Beauty, & Fitness",$82K,$116K,San Francisco,CA
+1983,$82K-$116K,"San Francisco, CA",IT Services,$82K,$116K,San Francisco,CA
+1984,$82K-$116K,"San Francisco, CA",Computer Hardware & Software,$82K,$116K,San Francisco,CA
+1985,$82K-$116K,"Burlingame, CA",Federal Agencies,$82K,$116K,Burlingame,CA
+1986,$82K-$116K,"San Francisco, CA",Health Care Services & Hospitals,$82K,$116K,San Francisco,CA
+1987,$82K-$116K,"San Mateo, CA",Unknown,$82K,$116K,San Mateo,CA
+1988,$82K-$116K,"Oakland, CA",Unknown,$82K,$116K,Oakland,CA
+1989,$82K-$116K,"San Francisco, CA",Staffing & Outsourcing,$82K,$116K,San Francisco,CA
+1990,$82K-$116K,"San Francisco, CA",Unknown,$82K,$116K,San Francisco,CA
+1991,$82K-$116K,"Novato, CA",Video Games,$82K,$116K,Novato,CA
+1992,$82K-$116K,"Foster City, CA",Enterprise Software & Network Solutions,$82K,$116K,Foster City,CA
+1993,$82K-$116K,"San Francisco, CA",Unknown,$82K,$116K,San Francisco,CA
+1994,$82K-$116K,"San Francisco, CA",Insurance Carriers,$82K,$116K,San Francisco,CA
+1995,$82K-$116K,"San Mateo, CA",Unknown,$82K,$116K,San Mateo,CA
+1996,$65K-$120K,"San Francisco, CA",IT Services,$65K,$120K,San Francisco,CA
+1997,$65K-$120K,"San Francisco, CA",Unknown,$65K,$120K,San Francisco,CA
+1998,$65K-$120K,"Millbrae, CA",Energy,$65K,$120K,Millbrae,CA
+1999,$65K-$120K,"San Mateo, CA","Health, Beauty, & Fitness",$65K,$120K,San Mateo,CA
+2000,$65K-$120K,"San Francisco, CA",IT Services,$65K,$120K,San Francisco,CA
+2001,$65K-$120K,"San Francisco, CA",Accounting,$65K,$120K,San Francisco,CA
+2002,$65K-$120K,"San Francisco, CA",IT Services,$65K,$120K,San Francisco,CA
+2003,$65K-$120K,"San Francisco, CA",Banks & Credit Unions,$65K,$120K,San Francisco,CA
+2004,$65K-$120K,"San Mateo, CA",Staffing & Outsourcing,$65K,$120K,San Mateo,CA
+2005,$65K-$120K,"Oakland, CA",IT Services,$65K,$120K,Oakland,CA
+2006,$65K-$120K,"San Francisco, CA",Consulting,$65K,$120K,San Francisco,CA
+2007,$65K-$120K,"San Francisco, CA",Staffing & Outsourcing,$65K,$120K,San Francisco,CA
+2008,$65K-$120K,"San Francisco, CA",Unknown,$65K,$120K,San Francisco,CA
+2009,$65K-$120K,"San Francisco, CA",Real Estate,$65K,$120K,San Francisco,CA
+2010,$65K-$120K,"San Francisco, CA",Logistics & Supply Chain,$65K,$120K,San Francisco,CA
+2011,$65K-$120K,"San Francisco, CA",Computer Hardware & Software,$65K,$120K,San Francisco,CA
+2012,$65K-$120K,"San Ramon, CA",Staffing & Outsourcing,$65K,$120K,San Ramon,CA
+2013,$65K-$120K,"Hercules, CA",Biotech & Pharmaceuticals,$65K,$120K,Hercules,CA
+2014,$65K-$120K,"South San Francisco, CA",Computer Hardware & Software,$65K,$120K,South San Francisco,CA
+2015,$65K-$120K,"San Francisco, CA",Internet,$65K,$120K,San Francisco,CA
+2016,$65K-$120K,"San Francisco, CA",Advertising & Marketing,$65K,$120K,San Francisco,CA
+2017,$65K-$120K,"San Francisco, CA",IT Services,$65K,$120K,San Francisco,CA
+2018,$65K-$120K,"San Francisco, CA",Unknown,$65K,$120K,San Francisco,CA
+2019,$65K-$120K,"San Francisco, CA",Staffing & Outsourcing,$65K,$120K,San Francisco,CA
+2020,$65K-$120K,"San Mateo, CA",Computer Hardware & Software,$65K,$120K,San Mateo,CA
+2021,$65K-$120K,"Foster City, CA",IT Services,$65K,$120K,Foster City,CA
+2022,$65K-$120K,"San Francisco, CA",Health Fundraising Organizations,$65K,$120K,San Francisco,CA
+2023,$65K-$120K,"Berkeley, CA",Colleges & Universities,$65K,$120K,Berkeley,CA
+2024,$46K-$86K,"San Francisco, CA",Staffing & Outsourcing,$46K,$86K,San Francisco,CA
+2025,$46K-$86K,"San Francisco, CA",Staffing & Outsourcing,$46K,$86K,San Francisco,CA
+2026,$46K-$86K,"San Francisco, CA",Banks & Credit Unions,$46K,$86K,San Francisco,CA
+2027,$46K-$86K,"San Francisco, CA",Unknown,$46K,$86K,San Francisco,CA
+2028,$46K-$86K,"Oakland, CA",Computer Hardware & Software,$46K,$86K,Oakland,CA
+2029,$46K-$86K,"San Mateo, CA",Health Care Services & Hospitals,$46K,$86K,San Mateo,CA
+2030,$46K-$86K,"San Francisco, CA",Unknown,$46K,$86K,San Francisco,CA
+2031,$46K-$86K,"San Francisco, CA",IT Services,$46K,$86K,San Francisco,CA
+2032,$46K-$86K,"Foster City, CA",Computer Hardware & Software,$46K,$86K,Foster City,CA
+2033,$46K-$86K,"San Francisco, CA",Consulting,$46K,$86K,San Francisco,CA
+2034,$46K-$86K,"Foster City, CA",IT Services,$46K,$86K,Foster City,CA
+2035,$46K-$86K,"San Francisco, CA",IT Services,$46K,$86K,San Francisco,CA
+2036,$46K-$86K,"San Francisco, CA",IT Services,$46K,$86K,San Francisco,CA
+2037,$46K-$86K,"San Mateo, CA",Advertising & Marketing,$46K,$86K,San Mateo,CA
+2038,$46K-$86K,"San Ramon, CA",IT Services,$46K,$86K,San Ramon,CA
+2039,$46K-$86K,"San Francisco, CA",Internet,$46K,$86K,San Francisco,CA
+2040,$46K-$86K,"San Francisco, CA",Insurance Carriers,$46K,$86K,San Francisco,CA
+2041,$46K-$86K,"San Francisco, CA",Internet,$46K,$86K,San Francisco,CA
+2042,$46K-$86K,"San Francisco, CA",IT Services,$46K,$86K,San Francisco,CA
+2043,$46K-$86K,"San Francisco, CA",IT Services,$46K,$86K,San Francisco,CA
+2044,$46K-$86K,"San Francisco, CA",IT Services,$46K,$86K,San Francisco,CA
+2045,$46K-$86K,"San Francisco, CA",IT Services,$46K,$86K,San Francisco,CA
+2046,$46K-$86K,"San Francisco, CA",Staffing & Outsourcing,$46K,$86K,San Francisco,CA
+2047,$47K-$74K,"Oakland, CA",Staffing & Outsourcing,$47K,$74K,Oakland,CA
+2048,$47K-$74K,"San Mateo, CA",Investment Banking & Asset Management,$47K,$74K,San Mateo,CA
+2049,$47K-$74K,"Oakland, CA",Health Care Services & Hospitals,$47K,$74K,Oakland,CA
+2050,$47K-$74K,"San Francisco, CA",Banks & Credit Unions,$47K,$74K,San Francisco,CA
+2051,$47K-$74K,"San Francisco, CA",Health Fundraising Organizations,$47K,$74K,San Francisco,CA
+2052,$47K-$74K,"South San Francisco, CA",IT Services,$47K,$74K,South San Francisco,CA
+2053,$47K-$74K,"Foster City, CA",IT Services,$47K,$74K,Foster City,CA
+2054,$47K-$74K,"Alameda, CA",Staffing & Outsourcing,$47K,$74K,Alameda,CA
+2055,$47K-$74K,"Oakland, CA",Consulting,$47K,$74K,Oakland,CA
+2056,$47K-$74K,"Walnut Creek, CA",Consulting,$47K,$74K,Walnut Creek,CA
+2057,$47K-$74K,"San Francisco, CA",Banks & Credit Unions,$47K,$74K,San Francisco,CA
+2058,$47K-$74K,"Burlingame, CA",Federal Agencies,$47K,$74K,Burlingame,CA
+2059,$47K-$74K,"South San Francisco, CA",Biotech & Pharmaceuticals,$47K,$74K,South San Francisco,CA
+2060,$47K-$74K,"South San Francisco, CA",Research & Development,$47K,$74K,South San Francisco,CA
+2061,$47K-$74K,"San Francisco, CA",Unknown,$47K,$74K,San Francisco,CA
+2062,$47K-$74K,"San Ramon, CA",Staffing & Outsourcing,$47K,$74K,San Ramon,CA
+2063,$47K-$74K,"San Francisco, CA",Staffing & Outsourcing,$47K,$74K,San Francisco,CA
+2064,$47K-$74K,"San Francisco, CA",Federal Agencies,$47K,$74K,San Francisco,CA
+2065,$47K-$74K,"Foster City, CA",Research & Development,$47K,$74K,Foster City,CA
+2066,$47K-$74K,"Walnut Creek, CA",Consumer Products Manufacturing,$47K,$74K,Walnut Creek,CA
+2067,$47K-$74K,"San Francisco, CA",Unknown,$47K,$74K,San Francisco,CA
+2068,$47K-$74K,"South San Francisco, CA",Staffing & Outsourcing,$47K,$74K,South San Francisco,CA
+2069,$47K-$74K,"San Rafael, CA",Staffing & Outsourcing,$47K,$74K,San Rafael,CA
+2070,$47K-$74K,"Redwood City, CA",Computer Hardware & Software,$47K,$74K,Redwood City,CA
+2071,$47K-$74K,"San Mateo, CA",Unknown,$47K,$74K,San Mateo,CA
+2072,$47K-$74K,"San Francisco, CA",Consulting,$47K,$74K,San Francisco,CA
+2073,$34K-$61K,"Carmel, IN",Insurance Agencies & Brokerages,$34K,$61K,Carmel,IN
+2074,$34K-$61K,"Indianapolis, IN",Financial Transaction Processing,$34K,$61K,Indianapolis,IN
+2075,$34K-$61K,"Indianapolis, IN",Consulting,$34K,$61K,Indianapolis,IN
+2076,$34K-$61K,"Indianapolis, IN",Enterprise Software & Network Solutions,$34K,$61K,Indianapolis,IN
+2077,$34K-$61K,"Indianapolis, IN",Casual Restaurants,$34K,$61K,Indianapolis,IN
+2078,$34K-$61K,"Indianapolis, IN",Internet,$34K,$61K,Indianapolis,IN
+2079,$34K-$61K,"Indianapolis, IN",IT Services,$34K,$61K,Indianapolis,IN
+2080,$34K-$61K,"Indianapolis, IN",IT Services,$34K,$61K,Indianapolis,IN
+2081,$34K-$61K,"Indianapolis, IN",Staffing & Outsourcing,$34K,$61K,Indianapolis,IN
+2082,$34K-$61K,"Indianapolis, IN",Staffing & Outsourcing,$34K,$61K,Indianapolis,IN
+2083,$34K-$61K,"Indianapolis, IN",Unknown,$34K,$61K,Indianapolis,IN
+2084,$34K-$61K,"Indianapolis, IN",Staffing & Outsourcing,$34K,$61K,Indianapolis,IN
+2085,$34K-$61K,"Indianapolis, IN",IT Services,$34K,$61K,Indianapolis,IN
+2086,$34K-$61K,"Indianapolis, IN",IT Services,$34K,$61K,Indianapolis,IN
+2087,$34K-$61K,"Whitestown, IN",Logistics & Supply Chain,$34K,$61K,Whitestown,IN
+2088,$34K-$61K,"Indianapolis, IN",IT Services,$34K,$61K,Indianapolis,IN
+2089,$34K-$61K,"Indianapolis, IN",Health Care Services & Hospitals,$34K,$61K,Indianapolis,IN
+2090,$34K-$61K,"Jeffersonville, IN",Financial Transaction Processing,$34K,$61K,Jeffersonville,IN
+2091,$34K-$61K,"Indianapolis, IN",IT Services,$34K,$61K,Indianapolis,IN
+2092,$34K-$61K,"Beech Grove, IN",Health Care Services & Hospitals,$34K,$61K,Beech Grove,IN
+2093,$34K-$61K,"Indianapolis, IN",Casual Restaurants,$34K,$61K,Indianapolis,IN
+2094,$34K-$61K,"Lawrence, IN","Department, Clothing, & Shoe Stores",$34K,$61K,Lawrence,IN
+2095,$34K-$61K,"Carmel, IN",Insurance Carriers,$34K,$61K,Carmel,IN
+2096,$35K-$67K,"Redmond, WA",IT Services,$35K,$67K,Redmond,WA
+2097,$35K-$67K,"Seattle, WA",Banks & Credit Unions,$35K,$67K,Seattle,WA
+2098,$35K-$67K,"Seattle, WA",Insurance Carriers,$35K,$67K,Seattle,WA
+2099,$35K-$67K,"Redmond, WA",Computer Hardware & Software,$35K,$67K,Redmond,WA
+2100,$35K-$67K,"Seattle, WA",Staffing & Outsourcing,$35K,$67K,Seattle,WA
+2101,$35K-$67K,"Seattle, WA",Banks & Credit Unions,$35K,$67K,Seattle,WA
+2102,$35K-$67K,"Seattle, WA",Research & Development,$35K,$67K,Seattle,WA
+2103,$35K-$67K,"Issaquah, WA",General Merchandise & Superstores,$35K,$67K,Issaquah,WA
+2104,$35K-$67K,"Seattle, WA",Computer Hardware & Software,$35K,$67K,Seattle,WA
+2105,$35K-$67K,"Redmond, WA",Computer Hardware & Software,$35K,$67K,Redmond,WA
+2106,$35K-$67K,"Seattle, WA",Unknown,$35K,$67K,Seattle,WA
+2107,$35K-$67K,"Issaquah, WA",General Merchandise & Superstores,$35K,$67K,Issaquah,WA
+2108,$35K-$67K,"Seattle, WA",Lending,$35K,$67K,Seattle,WA
+2109,$35K-$67K,"Kent, WA",Aerospace & Defense,$35K,$67K,Kent,WA
+2110,$35K-$67K,"Seattle, WA",IT Services,$35K,$67K,Seattle,WA
+2111,$35K-$67K,"Redmond, WA",Logistics & Supply Chain,$35K,$67K,Redmond,WA
+2112,$35K-$67K,"Seattle, WA",IT Services,$35K,$67K,Seattle,WA
+2113,$35K-$67K,"Bellevue, WA",Unknown,$35K,$67K,Bellevue,WA
+2114,$35K-$67K,"Bellevue, WA",Enterprise Software & Network Solutions,$35K,$67K,Bellevue,WA
+2115,$35K-$67K,"Seattle, WA",Social Assistance,$35K,$67K,Seattle,WA
+2116,$35K-$67K,"Seattle, WA",Accounting,$35K,$67K,Seattle,WA
+2117,$35K-$67K,"Redmond, WA",IT Services,$35K,$67K,Redmond,WA
+2118,$35K-$67K,"Seattle, WA",Staffing & Outsourcing,$35K,$67K,Seattle,WA
+2119,$35K-$67K,"Renton, WA",Staffing & Outsourcing,$35K,$67K,Renton,WA
+2120,$35K-$67K,"Seattle, WA",Unknown,$35K,$67K,Seattle,WA
+2121,$35K-$67K,"Seattle, WA",Lending,$35K,$67K,Seattle,WA
+2122,$55K-$101K,"Redmond, WA",Computer Hardware & Software,$55K,$101K,Redmond,WA
+2123,$55K-$101K,"Kent, WA",Staffing & Outsourcing,$55K,$101K,Kent,WA
+2124,$55K-$101K,"Seattle, WA",Social Assistance,$55K,$101K,Seattle,WA
+2125,$55K-$101K,"Kirkland, WA",Staffing & Outsourcing,$55K,$101K,Kirkland,WA
+2126,$55K-$101K,"Redmond, WA",Video Games,$55K,$101K,Redmond,WA
+2127,$55K-$101K,"Seattle, WA",Unknown,$55K,$101K,Seattle,WA
+2128,$55K-$101K,"Redmond, WA",Staffing & Outsourcing,$55K,$101K,Redmond,WA
+2129,$55K-$101K,"Issaquah, WA",General Merchandise & Superstores,$55K,$101K,Issaquah,WA
+2130,$55K-$101K,"Redmond, WA",Computer Hardware & Software,$55K,$101K,Redmond,WA
+2131,$55K-$101K,"Seattle, WA",Unknown,$55K,$101K,Seattle,WA
+2132,$55K-$101K,"Redmond, WA",Computer Hardware & Software,$55K,$101K,Redmond,WA
+2133,$55K-$101K,"Seattle, WA",Staffing & Outsourcing,$55K,$101K,Seattle,WA
+2134,$55K-$101K,"Redmond, WA",Computer Hardware & Software,$55K,$101K,Redmond,WA
+2135,$55K-$101K,"Seattle, WA",IT Services,$55K,$101K,Seattle,WA
+2136,$55K-$101K,"Seattle, WA",IT Services,$55K,$101K,Seattle,WA
+2137,$55K-$101K,"Kent, WA",Staffing & Outsourcing,$55K,$101K,Kent,WA
+2138,$55K-$101K,"Seattle, WA",Unknown,$55K,$101K,Seattle,WA
+2139,$55K-$101K,"Seattle, WA",IT Services,$55K,$101K,Seattle,WA
+2140,$55K-$101K,"Seattle, WA",Unknown,$55K,$101K,Seattle,WA
+2141,$55K-$101K,"Seattle, WA",Staffing & Outsourcing,$55K,$101K,Seattle,WA
+2142,$55K-$101K,"Seattle, WA",Unknown,$55K,$101K,Seattle,WA
+2143,$55K-$101K,"Kirkland, WA",IT Services,$55K,$101K,Kirkland,WA
+2144,$55K-$101K,"Seattle, WA",Staffing & Outsourcing,$55K,$101K,Seattle,WA
+2145,$55K-$101K,"Seattle, WA",Colleges & Universities,$55K,$101K,Seattle,WA
+2146,$55K-$101K,"Renton, WA",Staffing & Outsourcing,$55K,$101K,Renton,WA
+2147,$55K-$101K,"Seattle, WA",Unknown,$55K,$101K,Seattle,WA
+2148,$55K-$101K,"Seattle, WA",Unknown,$55K,$101K,Seattle,WA
+2150,$32K-$56K,"Athens, GA",Colleges & Universities,$32K,$56K,Athens,GA
+2151,$32K-$56K,"Athens, GA",IT Services,$32K,$56K,Athens,GA
+2152,$32K-$56K,"Athens, GA",IT Services,$32K,$56K,Athens,GA
+2153,$32K-$56K,"Athens, GA",IT Services,$32K,$56K,Athens,GA
+2154,$36K-$67K,"Burlingame, KS",Computer Hardware & Software,$36K,$67K,Burlingame,KS
+2155,$36K-$67K,"Topeka, KS",IT Services,$36K,$67K,Topeka,KS
+2156,$36K-$67K,"Topeka, KS",Unknown,$36K,$67K,Topeka,KS
+2157,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2158,$57K-$67K,"Denver, CO",Computer Hardware & Software,$57K,$67K,Denver,CO
+2159,$57K-$67K,"Denver, CO",Computer Hardware & Software,$57K,$67K,Denver,CO
+2160,$57K-$67K,"Denver, CO",Internet,$57K,$67K,Denver,CO
+2161,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2162,$57K-$67K,"Denver, CO",Staffing & Outsourcing,$57K,$67K,Denver,CO
+2163,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2164,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2165,$57K-$67K,"Centennial, CO",Staffing & Outsourcing,$57K,$67K,Centennial,CO
+2166,$57K-$67K,"Boulder, CO",Staffing & Outsourcing,$57K,$67K,Boulder,CO
+2167,$57K-$67K,"Denver, CO",Health Care Services & Hospitals,$57K,$67K,Denver,CO
+2168,$57K-$67K,"Greenwood Village, Arapahoe, CO",IT Services,$57K,$67K,Greenwood Village,Arapahoe
+2169,$57K-$67K,"Boulder, CO",Enterprise Software & Network Solutions,$57K,$67K,Boulder,CO
+2170,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2171,$57K-$67K,"Denver, CO","Hotels, Motels, & Resorts",$57K,$67K,Denver,CO
+2172,$57K-$67K,"Denver, CO",Enterprise Software & Network Solutions,$57K,$67K,Denver,CO
+2173,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2174,$57K-$67K,"Henderson, CO",Utilities,$57K,$67K,Henderson,CO
+2175,$57K-$67K,"Englewood, CO",Aerospace & Defense,$57K,$67K,Englewood,CO
+2176,$57K-$67K,"Denver, CO",Advertising & Marketing,$57K,$67K,Denver,CO
+2177,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2178,$57K-$67K,"Greenwood Village, Arapahoe, CO",Staffing & Outsourcing,$57K,$67K,Greenwood Village,Arapahoe
+2179,$57K-$67K,"Denver, CO",IT Services,$57K,$67K,Denver,CO
+2180,$57K-$67K,"Lakewood, CO",Consulting,$57K,$67K,Lakewood,CO
+2181,$57K-$67K,"Denver, CO",Computer Hardware & Software,$57K,$67K,Denver,CO
+2182,$57K-$67K,"Lakewood, CO",Internet,$57K,$67K,Lakewood,CO
+2183,$49K-$91K,"Denver, CO",Internet,$49K,$91K,Denver,CO
+2184,$49K-$91K,"Centennial, CO",Computer Hardware & Software,$49K,$91K,Centennial,CO
+2185,$49K-$91K,"Denver, CO",State & Regional Agencies,$49K,$91K,Denver,CO
+2186,$49K-$91K,"Greenwood Village, Arapahoe, CO",IT Services,$49K,$91K,Greenwood Village,Arapahoe
+2187,$49K-$91K,"Lone Tree, CO",Investment Banking & Asset Management,$49K,$91K,Lone Tree,CO
+2188,$49K-$91K,"Louisville, CO",Health Care Products Manufacturing,$49K,$91K,Louisville,CO
+2189,$49K-$91K,"Englewood, CO",Aerospace & Defense,$49K,$91K,Englewood,CO
+2190,$49K-$91K,"Denver, CO",Financial Transaction Processing,$49K,$91K,Denver,CO
+2191,$49K-$91K,"Denver, CO",IT Services,$49K,$91K,Denver,CO
+2192,$49K-$91K,"Aurora, CO",Unknown,$49K,$91K,Aurora,CO
+2193,$49K-$91K,"Denver, CO",Staffing & Outsourcing,$49K,$91K,Denver,CO
+2194,$49K-$91K,"Denver, CO",Federal Agencies,$49K,$91K,Denver,CO
+2195,$49K-$91K,"Greenwood Village, Arapahoe, CO",Construction,$49K,$91K,Greenwood Village,Arapahoe
+2196,$49K-$91K,"Lakewood, CO",Oil & Gas Services,$49K,$91K,Lakewood,CO
+2197,$49K-$91K,"Centennial, CO",Staffing & Outsourcing,$49K,$91K,Centennial,CO
+2198,$49K-$91K,"Denver, CO",Health Care Services & Hospitals,$49K,$91K,Denver,CO
+2199,$49K-$91K,"Denver, CO",Enterprise Software & Network Solutions,$49K,$91K,Denver,CO
+2200,$49K-$91K,"Centennial, CO",Unknown,$49K,$91K,Centennial,CO
+2201,$49K-$91K,"Denver, CO",Consulting,$49K,$91K,Denver,CO
+2202,$49K-$91K,"Denver, CO",Unknown,$49K,$91K,Denver,CO
+2203,$49K-$91K,"Broomfield, CO",IT Services,$49K,$91K,Broomfield,CO
+2204,$49K-$91K,"Lakewood, CO",State & Regional Agencies,$49K,$91K,Lakewood,CO
+2205,$49K-$91K,"Denver, CO",Staffing & Outsourcing,$49K,$91K,Denver,CO
+2206,$49K-$91K,"Boulder, CO",Staffing & Outsourcing,$49K,$91K,Boulder,CO
+2207,$49K-$91K,"Denver, CO",IT Services,$49K,$91K,Denver,CO
+2208,$49K-$91K,"Englewood, CO",Advertising & Marketing,$49K,$91K,Englewood,CO
+2209,$49K-$91K,"Englewood, CO",Unknown,$49K,$91K,Englewood,CO
+2210,$49K-$91K,"Denver, CO",State & Regional Agencies,$49K,$91K,Denver,CO
+2211,$57K-$100K,"Broomfield, CO","Cable, Internet & Telephone Providers",$57K,$100K,Broomfield,CO
+2212,$57K-$100K,"Denver, CO",IT Services,$57K,$100K,Denver,CO
+2213,$57K-$100K,"Centennial, CO",Unknown,$57K,$100K,Centennial,CO
+2214,$57K-$100K,"Denver, CO",Staffing & Outsourcing,$57K,$100K,Denver,CO
+2215,$57K-$100K,"Englewood, CO",Health Care Services & Hospitals,$57K,$100K,Englewood,CO
+2216,$57K-$100K,"Denver, CO",Staffing & Outsourcing,$57K,$100K,Denver,CO
+2217,$57K-$100K,"Denver, CO",Computer Hardware & Software,$57K,$100K,Denver,CO
+2218,$57K-$100K,"Aurora, CO",Health Care Services & Hospitals,$57K,$100K,Aurora,CO
+2219,$57K-$100K,"Lakewood, CO",IT Services,$57K,$100K,Lakewood,CO
+2220,$57K-$100K,"Greenwood Village, Arapahoe, CO",Unknown,$57K,$100K,Greenwood Village,Arapahoe
+2221,$57K-$100K,"Denver, CO",IT Services,$57K,$100K,Denver,CO
+2222,$57K-$100K,"Denver, CO",Staffing & Outsourcing,$57K,$100K,Denver,CO
+2223,$57K-$100K,"Aurora, CO",Home Centers & Hardware Stores,$57K,$100K,Aurora,CO
+2224,$57K-$100K,"Denver, CO",IT Services,$57K,$100K,Denver,CO
+2225,$57K-$100K,"Louisville, CO",Enterprise Software & Network Solutions,$57K,$100K,Louisville,CO
+2226,$57K-$100K,"Denver, CO",IT Services,$57K,$100K,Denver,CO
+2227,$57K-$100K,"Denver, CO",Consulting,$57K,$100K,Denver,CO
+2228,$57K-$100K,"Englewood, CO",Staffing & Outsourcing,$57K,$100K,Englewood,CO
+2229,$57K-$100K,"Greenwood Village, Arapahoe, CO",Staffing & Outsourcing,$57K,$100K,Greenwood Village,Arapahoe
+2230,$57K-$100K,"Broomfield, CO","Cable, Internet & Telephone Providers",$57K,$100K,Broomfield,CO
+2231,$57K-$100K,"Louisville, CO",Wholesale,$57K,$100K,Louisville,CO
+2232,$57K-$100K,"Denver, CO",Staffing & Outsourcing,$57K,$100K,Denver,CO
+2233,$57K-$100K,"Littleton, CO",Aerospace & Defense,$57K,$100K,Littleton,CO
+2234,$57K-$100K,"Englewood, CO",Unknown,$57K,$100K,Englewood,CO
+2235,$57K-$100K,"Denver, CO",Staffing & Outsourcing,$57K,$100K,Denver,CO
+2236,$57K-$100K,"Greenwood Village, Arapahoe, CO",Health Care Services & Hospitals,$57K,$100K,Greenwood Village,Arapahoe
+2237,$57K-$100K,"Greenwood Village, Arapahoe, CO",IT Services,$57K,$100K,Greenwood Village,Arapahoe
+2238,$78K-$104K,"Aurora, CO",IT Services,$78K,$104K,Aurora,CO
+2239,$78K-$104K,"Aurora, CO",Unknown,$78K,$104K,Aurora,CO
+2240,$78K-$104K,"Denver, CO",Staffing & Outsourcing,$78K,$104K,Denver,CO
+2241,$78K-$104K,"Denver, CO",Staffing & Outsourcing,$78K,$104K,Denver,CO
+2242,$78K-$104K,"Centennial, CO",Staffing & Outsourcing,$78K,$104K,Centennial,CO
+2243,$78K-$104K,"Broomfield, CO","Cable, Internet & Telephone Providers",$78K,$104K,Broomfield,CO
+2244,$78K-$104K,"Denver, CO",Staffing & Outsourcing,$78K,$104K,Denver,CO
+2245,$78K-$104K,"Centennial, CO",Staffing & Outsourcing,$78K,$104K,Centennial,CO
+2246,$78K-$104K,"Denver, CO",Unknown,$78K,$104K,Denver,CO
+2247,$78K-$104K,"Broomfield, CO",Computer Hardware & Software,$78K,$104K,Broomfield,CO
+2248,$78K-$104K,"Denver, CO",Staffing & Outsourcing,$78K,$104K,Denver,CO
+2249,$78K-$104K,"Centennial, CO",Wholesale,$78K,$104K,Centennial,CO
+2250,$78K-$104K,"Denver, CO",Unknown,$78K,$104K,Denver,CO
+2251,$78K-$104K,"Centennial, CO",Enterprise Software & Network Solutions,$78K,$104K,Centennial,CO
+2252,$78K-$104K,"Broomfield, CO",Health Care Services & Hospitals,$78K,$104K,Broomfield,CO
